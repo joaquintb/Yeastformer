@@ -1,0 +1,1 @@
+The fine-tuning dataset for the transcription factor dosage sensitivity application is 10,000 random cells from Genecorpus-30M. Provided in this directory is a subsample of 50,000 random cells from Genecorpus-30M.
