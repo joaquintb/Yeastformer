@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 
 yeast/yeast_data/all_spell_exprconn_pcl
+
+yeast/yeast_data/all_pcls
