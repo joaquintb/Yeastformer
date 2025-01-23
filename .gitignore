@@ -161,4 +161,11 @@ cython_debug/
 
 yeast/yeast_data/all_spell_exprconn_pcl
 
-yeast/yeast_data/all_pcls
+yeast/yeast_data/all_clean_pcls
+
+yeast/yeast_data/normalized_pcls
+
+yeast/yeast_data/test_pcls
+
+yeast/yeast_data/output
+
