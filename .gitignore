@@ -161,14 +161,12 @@ cython_debug/
 
 yeast/yeast_data/all_spell_exprconn_pcl
 
-yeast/yeast_data/all_clean_pcls
-
 yeast/yeast_data/normalized_pcls
 
 yeast/yeast_data/test_pcls
 
 yeast/yeast_data/output
 
-yeast/yeast_data/out.txt
-
 yeast/yeast_data/all_yeast_genes.tsv
+
+yeast/yeast_data/all_yeast_genes_v2.tsv
