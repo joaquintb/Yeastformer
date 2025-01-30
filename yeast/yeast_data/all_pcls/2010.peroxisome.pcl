@@ -1,4 +1,4 @@
-UID	NAME	GWEIGHT	Oleate vs. glycerol (0.5 hrs)	Oleate vs. glycerol (1 hr)	Oleate vs. glycerol (3 hrs)	Oleate vs. glycerol (6 hrs)	Oleate vs. glycerol (9 hrs)	Oleate vs. glycerol (26 hrs)	Glucose vs. oleate (26 hrs)	Glycerol vs. glucose (26 hrs)
+YORF	NAME	GWEIGHT	Oleate vs. glycerol (0.5 hrs)	Oleate vs. glycerol (1 hr)	Oleate vs. glycerol (3 hrs)	Oleate vs. glycerol (6 hrs)	Oleate vs. glycerol (9 hrs)	Oleate vs. glycerol (26 hrs)	Glucose vs. oleate (26 hrs)	Glycerol vs. glucose (26 hrs)
 YPR204W	YPR204W	1	-0.6691733	-0.21957137	-0.26699096	-1.072649	-0.9457625	0.5478632	1.3332094	1.6034061
 YPR203W	YPR203W	1	-0.2043762	-0.12465262	-0.16437343	-0.48869872	-0.5720159	-0.27555126	0.21781228	-0.287311
 YPR202W	YPR202W	1	-0.51096004	0.17894243	0.38796234	-0.4811865	-0.58080447	0.24837013	-0.17599747	0.0782514

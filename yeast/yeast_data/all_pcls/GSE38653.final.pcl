@@ -1,4 +1,4 @@
-	NAME	GWEIGHT	S. cerevisiae BY4741_nonane vs control_48hrs_rep1	S. cerevisiae BY4741_nonane vs control_48hrs_rep2	S. cerevisiae BY4741_dodecane vs control_24hrs_rep1	S. cerevisiae BY4741_dodecane vs control_24hrs_rep2	S. cerevisiae BY4741_decane_48hrs vs 24hrs_rep1	S. cerevisiae BY4741_decane_48hrs vs 24hrs_rep2	S. cerevisiae BY4741_dodecane vs undecane_48hrs_rep1	S. cerevisiae BY4741_dodecane vs undecane_48hrs_rep2
+YORF	NAME	GWEIGHT	S. cerevisiae BY4741_nonane vs control_48hrs_rep1	S. cerevisiae BY4741_nonane vs control_48hrs_rep2	S. cerevisiae BY4741_dodecane vs control_24hrs_rep1	S. cerevisiae BY4741_dodecane vs control_24hrs_rep2	S. cerevisiae BY4741_decane_48hrs vs 24hrs_rep1	S. cerevisiae BY4741_decane_48hrs vs 24hrs_rep2	S. cerevisiae BY4741_dodecane vs undecane_48hrs_rep1	S. cerevisiae BY4741_dodecane vs undecane_48hrs_rep2
 YKL175W	YKL175W	1	-0.81551546	-0.7692498	0.47416115	0.44475746	0.9883297	0.37214613	-0.45883843	0.069947936
 YDR130C	YDR130C	1	0.7857467	0.7440262	0.6730069	1.4819876	1.1342304	0.39063847	-0.93297106	-0.011359262
 YDR473C	YDR473C	1	-0.9961452	-1.2215672	-0.43029338	-0.39295772	0.7231042	-0.15000898	0.1754657	0.042278912

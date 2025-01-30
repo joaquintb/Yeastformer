@@ -1,4 +1,4 @@
-	NAME	GWEIGHT	YSX3_glucose_aerobic; src: Total RNA	YSX3_glucose_petite; src: Total RNA	YSX3_glucose_oxygen_limited; src: Total RNA	YSX3_xylose_aerobic; src: Total RNA	YSX3_xylose_oxygen_limited; src: Total RNA	YSX3_xylose_petite; src: Total RNA
+YORF	NAME	GWEIGHT	YSX3_glucose_aerobic; src: Total RNA	YSX3_glucose_petite; src: Total RNA	YSX3_glucose_oxygen_limited; src: Total RNA	YSX3_xylose_aerobic; src: Total RNA	YSX3_xylose_oxygen_limited; src: Total RNA	YSX3_xylose_petite; src: Total RNA
 YDL025C	YDL025C	1	-0.29387861	0.006659672	0.23447616	-0.09649819	0.40142924	0.47218323
 YKL032C	YKL032C	1	0.8991419	0.9081448	0.7212008	0.9476441	0.9916274	1.2039824
 YNL325C	YNL325C	1	-0.61267924	-0.04666034	-0.517716	-0.47062966	-0.072050646	-0.20705904

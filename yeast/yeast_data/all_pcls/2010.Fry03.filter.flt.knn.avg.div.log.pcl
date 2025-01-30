@@ -1,4 +1,4 @@
-	NAME	GWEIGHT	sgs (6-C-20211); src: sgs (6-C-20211)	sgs rep (5) C-20229; src: sgs rep (5) C-20229	sgs + mms (6-C-20212); src: sgs + mms (6-C-20212)	sgs mms rep (7) C-20230; src: sgs mms rep (7) C-20230	wt (2-20156); src: wt (2-20156)	wt rep (1)C-20239; src: wt rep (1)C-20239	wt + mms (4-C-20157); src: wt + mms (4-C-20157)	wt mms rep (3) C-20228; src: wt mms rep (3) C-20228
+YORF	NAME	GWEIGHT	sgs (6-C-20211); src: sgs (6-C-20211)	sgs rep (5) C-20229; src: sgs rep (5) C-20229	sgs + mms (6-C-20212); src: sgs + mms (6-C-20212)	sgs mms rep (7) C-20230; src: sgs mms rep (7) C-20230	wt (2-20156); src: wt (2-20156)	wt rep (1)C-20239; src: wt rep (1)C-20239	wt + mms (4-C-20157); src: wt + mms (4-C-20157)	wt mms rep (3) C-20228; src: wt mms rep (3) C-20228
 YDL025C	YDL025C	1	0.40258536	0.36971617	0.67500895	0.66372526	0.61390376	0.54406106	0.8074858	0.86407727
 YKL032C	YKL032C	1	0.5058832	0.5840074	0.33084658	0.6514017	0.6761769	1.0159742	0.31541032	0.73300123
 YNL325C	YNL325C	1	-0.34641558	-0.47424173	0.080089495	-0.2183403	-0.34277508	-0.821086	-0.1414302	-0.23298779

@@ -1,4 +1,4 @@
-	NAME	GWEIGHT	GRO wt t0 on filter V9-L1-x	GRO wt t30 on filter V9-L1-x	GRO Hpr1 delta t0 on filter V9-L1-x	GRO Hpr1 delta t30 on filter V9-L1-x	GRO Hpr1 degron t0 on filter V9-L1-x	GRO Hpr1 degron t30 on filter V9-L1-x
+YORF	NAME	GWEIGHT	GRO wt t0 on filter V9-L1-x	GRO wt t30 on filter V9-L1-x	GRO Hpr1 delta t0 on filter V9-L1-x	GRO Hpr1 delta t30 on filter V9-L1-x	GRO Hpr1 degron t0 on filter V9-L1-x	GRO Hpr1 degron t30 on filter V9-L1-x
 YDR529C	YDR529C	1	0.6018032	0.028486935	0.6156679	-0.12632729	0.5469194	-0.23385054
 YMR142C	YMR142C	1	1.4046164	1.9119296	0.6567287	1.9748347	1.7935711	1.8268862
 YDR530C	YDR530C	1	-1.0241085	-2.0109882	-1.0267645	-1.9503284	-1.295984	-1.7473074

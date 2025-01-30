@@ -1,4 +1,4 @@
-ID_REF	NAME	GWEIGHT	Yeast_express_ScFv_112A_1	Yeast_express_ScFv_112A_2	Yeast_express_ScFv_112A_3	Yeast_express_ScFv_112A_4	Yeast_express_ScFv_58F_1	Yeast_express_ScFv_58F_2	Yeast_express_ScFv_58F_3	Yeast_express_ScFv_58F_4	Yeast_wildtype_1	Yeast_wildtype_2	Yeast_wildtype_3	Yeast_wildtype_4
+YORF	NAME	GWEIGHT	Yeast_express_ScFv_112A_1	Yeast_express_ScFv_112A_2	Yeast_express_ScFv_112A_3	Yeast_express_ScFv_112A_4	Yeast_express_ScFv_58F_1	Yeast_express_ScFv_58F_2	Yeast_express_ScFv_58F_3	Yeast_express_ScFv_58F_4	Yeast_wildtype_1	Yeast_wildtype_2	Yeast_wildtype_3	Yeast_wildtype_4
 YMR056C	YMR056C	1	1.7190427	1.6775995	1.732692	1.7793288	1.72572	1.7216252	1.7536142	1.692268	1.5951381	1.7019227	1.6999677	1.6564356
 YJR155W	YJR155W	1	-0.33452833	-0.20435145	-0.31101814	-0.3843768	-0.4684375	-0.48841754	-0.465966	-0.49211034	-0.3627236	-0.4276621	-0.4107295	-0.33664688
 YNL331C	YNL331C	1	0.089244485	0.06820094	0.076022536	0.07508757	-0.0016840935	0.006571689	-0.014263091	-0.07612283	0.30236676	0.26071256	0.28281417	0.33168402

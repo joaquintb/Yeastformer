@@ -1,4 +1,4 @@
-	NAME	GWEIGHT	Wild type (first experiment); src: Total RNA from yeast	WT (second experiment); src: Yeast total RNA.	Delta FHL1 (second experiment); src: Yeast total RNA	Delta FHL1 (first experiment); src: Yeast total RNA.	FHL1, IFH1 double deletion (first experiment); src: Yeast total RNA.	FHL1, IFH1 double deleted strain (second experiment); src: Yeast total RNA.
+YORF	NAME	GWEIGHT	Wild type (first experiment); src: Total RNA from yeast	WT (second experiment); src: Yeast total RNA.	Delta FHL1 (second experiment); src: Yeast total RNA	Delta FHL1 (first experiment); src: Yeast total RNA.	FHL1, IFH1 double deletion (first experiment); src: Yeast total RNA.	FHL1, IFH1 double deleted strain (second experiment); src: Yeast total RNA.
 YDL025C	YDL025C	1	-0.047784075	-0.34907627	-0.09963966	-0.18168116	-0.055082098	-0.16653532
 YKL032C	YKL032C	1	0.9232551	0.9052249	0.86630905	0.73806286	0.8943745	0.771146
 YNL325C	YNL325C	1	-0.4277205	-0.5200785	-0.20324802	-0.34121197	-0.2930596	-0.40582252

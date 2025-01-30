@@ -1,4 +1,4 @@
-	NAME	GWEIGHT	Wild type strain (W303-1A); src: Exponentially growing cells of W303-1A strain	ubp10 null mutant; src: Exponentially growing cells of ubp10 null mutant strain	sir4 null mutant strain; src: Exponentially growing cells of sir4 null mutant strain	ubp10sir4 double null mutant; src: Exponentially growing cells of ubp10sir4 double null mutant strain
+YORF	NAME	GWEIGHT	Wild type strain (W303-1A); src: Exponentially growing cells of W303-1A strain	ubp10 null mutant; src: Exponentially growing cells of ubp10 null mutant strain	sir4 null mutant strain; src: Exponentially growing cells of sir4 null mutant strain	ubp10sir4 double null mutant; src: Exponentially growing cells of ubp10sir4 double null mutant strain
 YDL025C	YDL025C	1	-0.1693738	0.5943092	-0.54327464	-0.2775176
 YKL032C	YKL032C	1	0.8120721	0.9570098	0.68485165	0.81111944
 YNL325C	YNL325C	1	-0.43718532	-1.1109912	-0.08874601	-0.44462082

@@ -1,4 +1,4 @@
-UID	NAME	GWEIGHT	MATa haploid	MATa diploid	MATa triploid	MATa tetraploid	MATalpha haploid	MATalpha diploid	MATalpha triploid	MATalpha tetraploid	MATa/alpha diploid	MATaa/alpha triploid	MATaa/alphaalpha tetraploid
+YORF	NAME	GWEIGHT	MATa haploid	MATa diploid	MATa triploid	MATa tetraploid	MATalpha haploid	MATalpha diploid	MATalpha triploid	MATalpha tetraploid	MATa/alpha diploid	MATaa/alpha triploid	MATaa/alphaalpha tetraploid
 YAL069W		1	0.14362672	0.17288692	0.22908463	0.1474185	0.23944823	0.24852143	0.3085565	0.024353739	0.38027817	0.26635125	0.27916244
 YAL067C		1	0.3101576	1.3652266	-0.39853752	1.1862216	0.046902005	-3.5647948	0.349487	-0.8749206	0.42786765	-0.17038967	-1.0008031
 YAL066W		1	0.79110533	0.8004649	0.74169564	-1.8921766	0.5187312	0.3059617	0.92066115	-1.3263419	0.8535665	-1.1373401	-1.1079311

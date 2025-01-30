@@ -1,4 +1,4 @@
-	NAME	GWEIGHT	WT, biological rep. 1	WT, biological rep. 2	WT, biological rep. 3	YRA1∆i, biological rep. 1	YRA1∆i, biological rep. 2	YRA1∆i, biological rep. 3
+YORF	NAME	GWEIGHT	WT, biological rep. 1	WT, biological rep. 2	WT, biological rep. 3	YRA1∆i, biological rep. 1	YRA1∆i, biological rep. 2	YRA1∆i, biological rep. 3
 YMR142C	YMR142C	1	1.779418	1.8212446	1.7801719	1.7675146	1.8080727	1.7798686
 YDR529C	YDR529C	2	-0.7241719	-0.6205215	-0.6289259	-0.7329747	-0.6834657	-0.7317972
 YDR530C	YDR530C	1	0.24989717	0.28112873	0.19217566	0.190671	0.23434176	0.21526232

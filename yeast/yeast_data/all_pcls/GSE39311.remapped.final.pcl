@@ -1,4 +1,4 @@
-	NAME	GWEIGHT	WT, biological rep1	WT, biological rep2	WT, biological rep3	WT(hsf1), biological rep1	WT(hsf1), biological rep2	WT(hsf1), biological rep3	hac1∆, biological rep1	hac1∆, biological rep2	hac1∆, biological rep3	hac1∆(hsf1), biological rep1	hac1∆(hsf1), biological rep2	hac1∆(hsf1), biological rep3
+YORF	NAME	GWEIGHT	WT, biological rep1	WT, biological rep2	WT, biological rep3	WT(hsf1), biological rep1	WT(hsf1), biological rep2	WT(hsf1), biological rep3	hac1∆, biological rep1	hac1∆, biological rep2	hac1∆, biological rep3	hac1∆(hsf1), biological rep1	hac1∆(hsf1), biological rep2	hac1∆(hsf1), biological rep3
 YMR142C	YMR142C	1	1.4422573	1.3414273	1.5463915	2.3666735	2.399681	2.4292805	1.908054	1.8206766	1.8275878	1.0826571	0.9744932	0.87298846
 YDR529C	YDR529C	2	0.38737443	0.33120084	0.378589	0.010923718	-0.0079140505	-0.003436374	0.3850257	0.35845974	0.34648108	0.27990595	0.21125473	0.24817254
 YDR530C	YDR530C	1	-0.1093724	0.08448956	-0.063365355	-0.70649457	-0.7157678	-0.6137678	-0.10246907	-0.08346212	-0.071415514	0.23183912	0.26952988	0.28776076

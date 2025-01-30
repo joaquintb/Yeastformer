@@ -1,4 +1,4 @@
-	NAME	GWEIGHT	cells in G, biological rep1	cells in G, biological rep2	cells in GX1, biological rep1	cells in GX1, biological rep2	cells in GX2, biological rep1	cells in GX2, biological rep2	cells in X, biological rep1	cells in X, biological rep2
+YORF	NAME	GWEIGHT	cells in G, biological rep1	cells in G, biological rep2	cells in GX1, biological rep1	cells in GX1, biological rep2	cells in GX2, biological rep1	cells in GX2, biological rep2	cells in X, biological rep1	cells in X, biological rep2
 YMR142C	YMR142C	1	2.064853	2.00355	2.0361338	2.0380263	1.6461822	1.5780603	1.9389727	1.9410678
 YDR530C	YDR530C	1	0.253873	0.24219942	0.35887152	0.14570786	0.5712741	0.6809858	0.6043488	0.60069144
 YMR143W	YMR143W	1	1.633215	1.5079015	1.5380216	1.634668	1.2586452	1.012049	1.4461142	1.4147025
