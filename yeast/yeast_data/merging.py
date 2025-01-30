@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 # Directory containing .pcl files
-pcl_directory = '/home/logs/jtorresb/Geneformer/yeast/yeast_data/test_pcls'
+pcl_directory = '/home/logs/jtorresb/Geneformer/yeast/yeast_data/all_pcls'
 
 # Prepare an empty DataFrame to store the master matrix
 master_df = pd.DataFrame()
@@ -13,9 +13,9 @@ column_count = {}
 # Iterate over each .pcl file in the directory
 for file_count, file_name in enumerate(os.listdir(pcl_directory)):
     print("Processing file", file_count + 1, "of", len(os.listdir(pcl_directory)))
-    # print(master_df.shape)
-    # print(len(column_count))
-    # print("---------------------")
+    print(master_df.shape)
+    print(len(column_count))
+    print("---------------------")
     if file_name.endswith(".pcl"):
         file_path = os.path.join(pcl_directory, file_name)
         try:
@@ -47,5 +47,5 @@ for file_count, file_name in enumerate(os.listdir(pcl_directory)):
             print(f"Error processing file '{file_name}': {e}")
 
 # Save the master matrix to a new file
-master_df.to_csv('/home/logs/jtorresb/Geneformer/yeast/yeast_data/output/test_yeast_master_matrix_sgd.csv', sep="\t")
+master_df.to_csv('/home/logs/jtorresb/Geneformer/yeast/yeast_data/output/yeast_master_matrix_sgd.csv', sep="\t")
 print("Master matrix created and saved.")
