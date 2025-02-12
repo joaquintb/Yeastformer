@@ -39,9 +39,9 @@ num_examples = 11889 # Num of .arrow rows
 num_gpus = 1  # Single GPU setup
 geneformer_batch_size = 8  # Adjusted for memory constraints
 max_lr = 3e-4  # Safer learning rate for stability
-warmup_steps = 225  # 10% of estimated total steps
+warmup_steps = 225  # 5% of estimated total steps
 lr_schedule_fn = "linear"
-epochs = 3
+epochs = 8
 optimizer = "adamw"
 weight_decay = 0.01  # Standard for BERT
 
@@ -127,7 +127,7 @@ trainer = GeneformerPretrainer(
     model=model,
     args=training_args,
     train_dataset=load_from_disk("/home/logs/jtorresb/Geneformer/yeast/yeast_data/output/yeast_master_matrix_sgd.dataset"),
-    example_lengths_file="genecorpus_30M_2048_lengths.pkl",
+    example_lengths_file="/home/logs/jtorresb/Geneformer/yeast/yeast_data/output/yeast_lengths.pkl",
     token_dictionary=token_dictionary,
 )
 
