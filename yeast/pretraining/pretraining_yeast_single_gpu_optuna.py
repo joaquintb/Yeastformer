@@ -25,7 +25,7 @@ rootdir = "/home/logs/jtorresb/Geneformer/yeast/pretraining"
 
 def objective(trial):
     # Sample hyperparameters
-    max_lr = trial.suggest_loguniform("max_lr", 1e-3, 1e-1)
+    max_lr = trial.suggest_loguniform("max_lr", 5e-4, 5e-3)
     warmup_steps = trial.suggest_int("warmup_steps", 50, 500)
     weight_decay = trial.suggest_loguniform("weight_decay", 1e-5, 0.1)
     lr_scheduler_type = trial.suggest_categorical("lr_scheduler_type", ["linear", "cosine", "cosine_with_restarts"])
