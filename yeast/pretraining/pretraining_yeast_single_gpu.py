@@ -38,16 +38,16 @@ hidden_dropout_prob = 0.1
 # Training parameters
 num_examples = 11889  # Num of .arrow rows
 geneformer_batch_size = 8  # Adjusted for memory constraints
-epochs = 10
+epochs = 5
 optimizer = "adamw_torch"  # Uses AdamW with bias correction
 
 # Extra training parameters
 gradient_accumulation_steps = 4  # Simulates batch size of 32
 fp16 = True  # Enable mixed precision for memory savings
-learning_rate = 0.0016
-warmup_steps = 53
+learning_rate = 0.0010
+warmup_steps = 50
 weight_decay = 0.07
-lr_scheduler_type = "cosine"
+lr_scheduler_type = "cosine" 
 
 # Output directories
 current_date = datetime.datetime.now(tz=timezone)
