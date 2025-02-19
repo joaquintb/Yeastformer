@@ -44,7 +44,7 @@ optimizer = "adamw_torch"  # Uses AdamW with bias correction
 # Extra training parameters
 gradient_accumulation_steps = 4  # Simulates batch size of 32
 fp16 = True  # Enable mixed precision for memory savings
-learning_rate = 0.0010
+learning_rate = 0.0016
 warmup_steps = 50
 weight_decay = 0.07
 lr_scheduler_type = "cosine" 
@@ -89,7 +89,6 @@ if torch.cuda.is_available():
 training_args = TrainingArguments(
     learning_rate=learning_rate,
     do_train=True,
-    do_eval=False,
     group_by_length=True,
     length_column_name="length",
     disable_tqdm=False,
@@ -99,8 +98,7 @@ training_args = TrainingArguments(
     per_device_train_batch_size=geneformer_batch_size,
     gradient_accumulation_steps=gradient_accumulation_steps,
     num_train_epochs=epochs,
-    save_strategy="steps",
-    save_steps=500,
+    save_strategy="no",
     logging_steps=100,
     output_dir=training_output_dir,
     logging_dir=logging_dir,
@@ -117,3 +115,5 @@ trainer = GeneformerPretrainer(
 )
 
 trainer.train()
+
+trainer.save_model(model_output_dir)  # Manually save the final model at the end of pretraining
