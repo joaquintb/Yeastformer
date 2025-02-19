@@ -59,7 +59,7 @@ def objective(trial):
     run_name = f"{datestamp}_yeastformer_L{num_layers}_emb{num_embed_dim}_SL{max_input_size}_E{epochs}_B{geneformer_batch_size}_LR{max_lr}_LS{lr_scheduler_type}_WU{warmup_steps}_O{optimizer}"
     training_output_dir = f"{rootdir}/models/{run_name}/"
     logging_dir = f"{rootdir}/runs/{run_name}/"
-    model_output_dir = os.path.join(training_output_dir, "models/")
+    model_output_dir = os.path.join(training_output_dir, "final_model/")
 
     os.makedirs(training_output_dir, exist_ok=True)
     os.makedirs(model_output_dir, exist_ok=True)
@@ -93,7 +93,6 @@ def objective(trial):
     training_args = TrainingArguments(
         learning_rate=max_lr,
         do_train=True,
-        do_eval=False,
         group_by_length=True,
         length_column_name="length",
         disable_tqdm=False,
@@ -103,12 +102,11 @@ def objective(trial):
         per_device_train_batch_size=geneformer_batch_size,
         gradient_accumulation_steps=gradient_accumulation_steps,
         num_train_epochs=epochs,
-        save_strategy="steps",
-        save_steps=500,
         logging_steps=100,
         output_dir=training_output_dir,
         logging_dir=logging_dir,
         fp16=fp16,
+        save_strategy="no",  # No checkpoints
     )
 
     # Define trainer
@@ -121,6 +119,10 @@ def objective(trial):
     )
 
     trainer.train()
+
+    # # Save the final model at the end
+    # trainer.save_model(model_output_dir)
+
     # Filter for log entries that include the 'loss' key
     loss_entries = [entry for entry in trainer.state.log_history if "loss" in entry]
     if loss_entries:
