@@ -10,24 +10,50 @@ from datasets import load_from_disk
 from transformers import BertConfig, BertForMaskedLM, TrainingArguments
 from geneformer import GeneformerPretrainer
 
-from transformers import TrainerCallback
-from torch.utils.tensorboard import SummaryWriter
+# For plotting and event processing
+import matplotlib.pyplot as plt
+from tensorboard.backend.event_processing import event_accumulator
 
 # -------------------------------
-# Plotting eval and train loss in the same graph
+# Post-process TensorBoard logs and create combined loss plot
 # -------------------------------
-class CustomTensorBoardCallback(TrainerCallback):
-    def __init__(self, tb_writer=None):
-        self.tb_writer = tb_writer if tb_writer else SummaryWriter()
-
-    def on_log(self, args, state, control, logs=None, **kwargs):
-        """Log both train and eval loss under a unified name."""
-        if logs is not None:
-            if "loss" in logs:  # Training loss
-                self.tb_writer.add_scalar("Loss/train", logs["loss"], state.global_step)
-            if "eval_loss" in logs:  # Evaluation loss
-                self.tb_writer.add_scalar("Loss/eval", logs["eval_loss"], state.global_step)
-            self.tb_writer.flush()
+def plot_combined_loss(logdir, output_file):
+    """
+    Loads TensorBoard events from the given log directory, extracts training and evaluation loss,
+    and creates a combined plot saved as a PNG file.
+    """
+    # Initialize the event accumulator
+    ea = event_accumulator.EventAccumulator(logdir, size_guidance={'scalars': 0})
+    ea.Reload()
+    
+    # Attempt to extract the required tags
+    try:
+        train_events = ea.Scalars("train/loss")
+        eval_events = ea.Scalars("eval/loss")
+    except KeyError as e:
+        print("One of the expected tags was not found in the log directory:", e)
+        return
+    
+    # Extract steps and loss values
+    train_steps = [event.step for event in train_events]
+    train_vals  = [event.value for event in train_events]
+    eval_steps  = [event.step for event in eval_events]
+    eval_vals   = [event.value for event in eval_events]
+    
+    # Create the plot
+    plt.figure(figsize=(10, 6))
+    plt.plot(train_steps, train_vals, label="Training Loss", color="red")
+    plt.plot(eval_steps, eval_vals, label="Evaluation Loss", color="blue")
+    plt.xlabel("Global Step")
+    plt.ylabel("Loss")
+    plt.title("Combined Training and Evaluation Loss")
+    plt.legend()
+    plt.grid(True)
+    
+    # Save the plot as a PNG file
+    plt.savefig(output_file)
+    plt.close()
+    print(f"Combined loss plot saved to: {output_file}")
 
 # -------------------------------
 # Set random seeds and directories
@@ -62,7 +88,7 @@ hidden_dropout_prob = 0.1
 # -------------------------------
 num_examples = 11889  # Total examples in the full dataset
 geneformer_batch_size = 8  # Adjusted for memory constraints
-epochs = 1
+epochs = 10
 optimizer = "adamw_torch"  # AdamW with bias correction
 
 # Extra training parameters
@@ -120,8 +146,6 @@ if hasattr(dataset_split['train'], "_indices"):
     train_old_indices = []
     for idx in train_old_indices_raw:
         if isinstance(idx, dict):
-            # Assuming the dict contains a single key-value pair, extract the value.
-            # You might need to adjust this if your dict structure is different.
             train_old_indices.append(list(idx.values())[0])
         else:
             train_old_indices.append(idx)
@@ -131,7 +155,7 @@ else:
 # Create a new lengths list for the training dataset.
 new_train_lengths = [original_lengths[old_idx] for old_idx in train_old_indices]
 
-# # Save the new lengths list to a file so that the trainer can load it.
+# Save the new lengths list to a file so that the trainer can load it.
 new_train_lengths_file = os.path.join(rootdir, "train_lengths_reindexed.pkl")
 with open(new_train_lengths_file, "wb") as f:
     pickle.dump(new_train_lengths, f)
@@ -168,7 +192,7 @@ training_args = TrainingArguments(
     do_train=True,
     do_eval=True,                    # Enable evaluation
     evaluation_strategy="steps",     # Evaluate every X steps
-    eval_steps=100,                  # Adjust as needed
+    eval_steps=50,                   # Adjust as needed
     group_by_length=True,
     length_column_name="length",
     disable_tqdm=False,
@@ -179,7 +203,7 @@ training_args = TrainingArguments(
     gradient_accumulation_steps=gradient_accumulation_steps,
     num_train_epochs=epochs,
     save_strategy="no",              # No checkpoints during training
-    logging_steps=250,
+    logging_steps=50,
     output_dir=training_output_dir,
     logging_dir=logging_dir,
     fp16=fp16,
@@ -196,8 +220,7 @@ trainer = GeneformerPretrainer(
     train_dataset=train_dataset,
     eval_dataset=val_dataset,  # Pass the validation split here
     example_lengths_file=new_train_lengths_file,  # Use the re-mapped lengths list file
-    token_dictionary=token_dictionary,
-    callbacks=[CustomTensorBoardCallback()]
+    token_dictionary=token_dictionary
 )
 
 # -------------------------------
@@ -205,3 +228,12 @@ trainer = GeneformerPretrainer(
 # -------------------------------
 trainer.train()
 trainer.save_model(model_output_dir)
+
+# Suggestion: Save the final plot in a 'plots' subdirectory within your training output directory.
+plot_dir = os.path.join(training_output_dir, "plots")
+os.makedirs(plot_dir, exist_ok=True)
+# Name the plot with the same run name as the model.
+plot_file = os.path.join(plot_dir, f"{run_name}_loss.png")
+
+# Plot and save the combined loss from the TensorBoard logs.
+plot_combined_loss(logging_dir, plot_file)
