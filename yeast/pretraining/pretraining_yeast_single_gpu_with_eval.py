@@ -7,7 +7,7 @@ import numpy as np
 import pytz
 import torch
 from datasets import load_from_disk
-from transformers import BertConfig, BertForMaskedLM, TrainingArguments
+from transformers import BertConfig, BertForMaskedLM, TrainingArguments, EarlyStoppingCallback
 from geneformer import GeneformerPretrainer
 
 # For plotting and event processing
@@ -88,7 +88,7 @@ hidden_dropout_prob = 0.1
 # -------------------------------
 num_examples = 11889  # Total examples in the full dataset
 geneformer_batch_size = 8  # Adjusted for memory constraints
-epochs = 10
+epochs = 15
 optimizer = "adamw_torch"  # AdamW with bias correction
 
 # Extra training parameters
@@ -123,7 +123,7 @@ with open("/home/logs/jtorresb/Geneformer/yeast/yeast_data/output/yeast_token_di
 # Load dataset and split into train/validation
 # -------------------------------
 dataset = load_from_disk("/home/logs/jtorresb/Geneformer/yeast/yeast_data/output/yeast_master_matrix_sgd.dataset")
-dataset_split = dataset.train_test_split(test_size=0.1, seed=seed_val)
+dataset_split = dataset.train_test_split(test_size=0.05, seed=seed_val)
 
 # IMPORTANT:
 # Hugging Face’s train_test_split preserves the original (non-contiguous) indices.
@@ -227,6 +227,10 @@ trainer = GeneformerPretrainer(
 # Train the model and save it
 # -------------------------------
 trainer.train()
+
+# Add the EarlyStoppingCallback with a patience of 3 evaluation steps.
+trainer.add_callback(EarlyStoppingCallback(early_stopping_patience=3, early_stopping_threshold=0.01))
+
 trainer.save_model(model_output_dir)
 
 # Suggestion: Save the final plot in a 'plots' subdirectory within your training output directory.
