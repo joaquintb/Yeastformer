@@ -24,18 +24,44 @@ torch.cuda.manual_seed_all(seed_val)
 timezone = pytz.timezone("Europe/Madrid")
 rootdir = "/home/logs/jtorresb/Geneformer/yeast/pretraining"
 
-# Load dataset once and create train/eval splits
-dataset_full = load_from_disk("/home/logs/jtorresb/Geneformer/yeast/yeast_data/output/yeast_master_matrix_sgd.dataset")
-dataset_split = dataset_full.train_test_split(test_size=0.1, seed=seed_val)
-train_dataset = dataset_split['train'].select(range(len(dataset_split['train'])))
-eval_dataset  = dataset_split['test'].select(range(len(dataset_split['test'])))
-
-# Use the lengths file (assumed to be already reindexed if needed)
-lengths_filepath = "/home/logs/jtorresb/Geneformer/yeast/yeast_data/output/yeast_lengths.pkl"
-
-# Load token dictionary once
+# -------------------------------
+# Load the gene token dictionary
+# -------------------------------
 with open("/home/logs/jtorresb/Geneformer/yeast/yeast_data/output/yeast_token_dict.pkl", "rb") as fp:
     token_dictionary = pickle.load(fp)
+
+# -------------------------------
+# Load dataset and split into train/validation
+# -------------------------------
+dataset = load_from_disk("/home/logs/jtorresb/Geneformer/yeast/yeast_data/output/yeast_master_matrix_sgd.dataset")
+dataset_split = dataset.train_test_split(test_size=0.05, seed=seed_val)
+
+# IMPORTANT:
+# Re-index each split so that they run from 0 to len(split)-1.
+train_dataset = dataset_split['train'].select(range(len(dataset_split['train'])))
+val_dataset   = dataset_split['test'].select(range(len(dataset_split['test'])))
+
+# -------------------------------
+# Re-map the lengths file for the training split
+# -------------------------------
+with open("/home/logs/jtorresb/Geneformer/yeast/yeast_data/output/yeast_lengths.pkl", "rb") as fp:
+    original_lengths = pickle.load(fp)
+
+if hasattr(dataset_split['train'], "_indices"):
+    train_old_indices_raw = dataset_split['train']._indices.to_pylist()
+    train_old_indices = []
+    for idx in train_old_indices_raw:
+        if isinstance(idx, dict):
+            train_old_indices.append(list(idx.values())[0])
+        else:
+            train_old_indices.append(idx)
+else:
+    train_old_indices = list(range(len(dataset_split['train'])))
+
+new_train_lengths = [original_lengths[old_idx] for old_idx in train_old_indices]
+new_train_lengths_file = os.path.join(rootdir, "train_lengths_reindexed.pkl")
+with open(new_train_lengths_file, "wb") as f:
+    pickle.dump(new_train_lengths, f)
 
 # -------------------------------
 # Define a custom Optuna pruning callback for the Trainer
@@ -46,7 +72,6 @@ class OptunaPruningCallback(TrainerCallback):
         self.metric_name = metric_name
 
     def on_evaluate(self, args, state, control, metrics, **kwargs):
-        # Report the evaluation metric to Optuna.
         if self.metric_name in metrics:
             score = metrics[self.metric_name]
             self.trial.report(score, step=state.global_step)
@@ -68,8 +93,15 @@ def objective(trial):
     # Model capacity
     num_layers = trial.suggest_int("num_layers", 2, 6)
     num_embed_dim = trial.suggest_categorical("num_embed_dim", [256, 384, 512])
-    num_attn_heads = trial.suggest_int("num_attn_heads", 2, min(8, num_embed_dim))  # ensure embed dim is not less than heads
-    # Feed-forward layer multiplier (e.g., intermediate_size = embed_dim * multiplier)
+    if num_embed_dim == 256:
+        possible_heads = [2, 4, 8]
+    elif num_embed_dim == 384:
+        possible_heads = [2, 3, 4, 6, 8, 12]
+    elif num_embed_dim == 512:
+        possible_heads = [4, 8, 16]
+    num_attn_heads = trial.suggest_categorical("num_attn_heads", possible_heads)
+    
+    # Feed-forward layer multiplier (for intermediate size)
     ffn_multiplier = trial.suggest_int("ffn_multiplier", 2, 4)
     
     # Regularization (dropout rates)
@@ -136,7 +168,7 @@ def objective(trial):
         do_train=True,
         do_eval=True,
         evaluation_strategy="steps",
-        eval_steps=100,
+        eval_steps=50,
         group_by_length=True,
         length_column_name="length",
         disable_tqdm=False,
@@ -146,22 +178,23 @@ def objective(trial):
         per_device_train_batch_size=geneformer_batch_size,
         gradient_accumulation_steps=gradient_accumulation_steps,
         num_train_epochs=epochs,
-        logging_steps=100,
+        logging_steps=50,
         output_dir=training_output_dir,
         logging_dir=logging_dir,
         fp16=fp16,
-        save_strategy="no",  # No intermediate checkpoints
+        save_strategy="no",
     )
 
     # -------------------------------
-    # Define the trainer with global datasets and add the pruning callback
+    # Define the trainer using the re-indexed training dataset and the val dataset,
+    # and add the pruning callback.
     # -------------------------------
     trainer = GeneformerPretrainer(
         model=model,
         args=training_args,
         train_dataset=train_dataset,
-        eval_dataset=eval_dataset,
-        example_lengths_file=lengths_filepath,
+        eval_dataset=val_dataset,
+        example_lengths_file=new_train_lengths_file,
         token_dictionary=token_dictionary,
     )
     trainer.add_callback(OptunaPruningCallback(trial, metric_name="eval_loss"))
@@ -170,7 +203,6 @@ def objective(trial):
     trainer.train()
     eval_metrics = trainer.evaluate()
 
-    # Use the evaluation loss as the objective to minimize
     final_loss = eval_metrics.get("eval_loss")
     if final_loss is None:
         raise ValueError("Evaluation loss not found in metrics.")
@@ -182,5 +214,4 @@ def objective(trial):
 study = optuna.create_study(direction="minimize")
 study.optimize(objective, n_trials=10)
 
-# Print best parameters
 print("Best trial:", study.best_trial.params)

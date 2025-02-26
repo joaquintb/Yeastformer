@@ -176,3 +176,5 @@ yeast/pretraining/models
 yeast/pretraining/runs
 
 yeast/pretraining/train_lengths_reindexed.pkl
+
+yeast/pretraining/optuna_output.txt
