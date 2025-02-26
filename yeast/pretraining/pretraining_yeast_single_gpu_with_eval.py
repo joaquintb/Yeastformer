@@ -226,10 +226,11 @@ trainer = GeneformerPretrainer(
 # -------------------------------
 # Train the model and save it
 # -------------------------------
-trainer.train()
 
 # Add the EarlyStoppingCallback with a patience of 3 evaluation steps.
 trainer.add_callback(EarlyStoppingCallback(early_stopping_patience=3, early_stopping_threshold=0.01))
+
+trainer.train()
 
 trainer.save_model(model_output_dir)
 
