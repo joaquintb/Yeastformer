@@ -90,17 +90,16 @@ def objective(trial):
     weight_decay = trial.suggest_loguniform("weight_decay", 1e-5, 0.1)
     lr_scheduler_type = trial.suggest_categorical("lr_scheduler_type", ["linear", "cosine", "cosine_with_restarts"])
     
-    # Model capacity
     num_layers = trial.suggest_int("num_layers", 2, 6)
     num_embed_dim = trial.suggest_categorical("num_embed_dim", [256, 384, 512])
+
     if num_embed_dim == 256:
-        possible_heads = [2, 4, 8]
+        num_attn_heads = trial.suggest_categorical("num_attn_heads_256", [2, 4, 8])
     elif num_embed_dim == 384:
-        possible_heads = [2, 3, 4, 6, 8, 12]
+        num_attn_heads = trial.suggest_categorical("num_attn_heads_384", [2, 3, 4, 6, 8, 12])
     elif num_embed_dim == 512:
-        possible_heads = [4, 8, 16]
-    num_attn_heads = trial.suggest_categorical("num_attn_heads", possible_heads)
-    
+        num_attn_heads = trial.suggest_categorical("num_attn_heads_512", [4, 8, 16])
+
     # Feed-forward layer multiplier (for intermediate size)
     ffn_multiplier = trial.suggest_int("ffn_multiplier", 2, 4)
     
