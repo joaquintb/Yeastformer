@@ -118,7 +118,7 @@ def objective(trial):
 
     # Training parameters
     geneformer_batch_size = 8   # Adjusted for memory constraints
-    epochs = 15
+    epochs = 20
     optimizer = "adamw_torch"   # AdamW with bias correction
     gradient_accumulation_steps = 4  # Effective batch size = 32
     fp16 = True  # Mixed precision training
@@ -213,6 +213,6 @@ def objective(trial):
 # Run Optuna optimization with pruning
 # -------------------------------
 study = optuna.create_study(direction="minimize")
-study.optimize(objective, n_trials=10)
+study.optimize(objective, n_trials=30)
 
 print("Best trial:", study.best_trial.params)
