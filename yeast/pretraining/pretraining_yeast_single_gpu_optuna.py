@@ -11,6 +11,8 @@ from datasets import load_from_disk
 from transformers import BertConfig, BertForMaskedLM, TrainingArguments, TrainerCallback
 from geneformer import GeneformerPretrainer
 
+import time
+
 # -------------------------------
 # Global setup: Set random seeds and load dataset/token dictionary once
 # -------------------------------
@@ -116,7 +118,7 @@ def objective(trial):
 
     # Training parameters
     geneformer_batch_size = 8   # Adjusted for memory constraints
-    epochs = 12
+    epochs = 15
     optimizer = "adamw_torch"   # AdamW with bias correction
     gradient_accumulation_steps = 4  # Effective batch size = 32
     fp16 = True  # Mixed precision training
@@ -170,7 +172,7 @@ def objective(trial):
         eval_steps=50,
         group_by_length=True,
         length_column_name="length",
-        disable_tqdm=False,
+        disable_tqdm=True,
         lr_scheduler_type=lr_scheduler_type,
         warmup_steps=warmup_steps,
         weight_decay=weight_decay,
