@@ -73,31 +73,32 @@ rootdir = "/home/logs/jtorresb/Geneformer/yeast/pretraining"
 # -------------------------------
 model_type = "bert"
 max_input_size = 512  # Sequence length
-num_layers = 4        # Fewer layers to avoid overfitting on a smaller dataset
-num_attn_heads = 4    # Attention heads
-num_embed_dim = 256   # Embedding dimensions
-intermed_size = num_embed_dim * 2
+num_layers = 3       # Fewer layers to avoid overfitting on a smaller dataset
+num_attn_heads = 2    # Attention heads
+num_embed_dim = 384   # Embedding dimensions
+ffn_multiplier = 3
+intermed_size = num_embed_dim * ffn_multiplier
 activ_fn = "gelu"
 initializer_range = 0.02
 layer_norm_eps = 1e-12
-attention_probs_dropout_prob = 0.1  # More dropout for smaller dataset
-hidden_dropout_prob = 0.1  
+attention_probs_dropout_prob = 0.25  # More dropout for smaller dataset
+hidden_dropout_prob = 0.15
 
 # -------------------------------
 # Training parameters
 # -------------------------------
 num_examples = 11889  # Total examples in the full dataset
 geneformer_batch_size = 8  # Adjusted for memory constraints
-epochs = 15
+epochs = 20
 optimizer = "adamw_torch"  # AdamW with bias correction
 
 # Extra training parameters
 gradient_accumulation_steps = 4  # Simulate a batch size of 32
 fp16 = True                    # Mixed precision for memory savings
-learning_rate = 0.0016
-warmup_steps = 50
-weight_decay = 0.07
-lr_scheduler_type = "cosine" 
+learning_rate = 0.00115
+warmup_steps = 144
+weight_decay = 0.072
+lr_scheduler_type = "linear" 
 
 # -------------------------------
 # Output directories setup
