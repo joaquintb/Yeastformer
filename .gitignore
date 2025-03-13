@@ -199,3 +199,6 @@ geneformer/gene_median_dictionary_gc95M.pkl
 geneformer/gene_name_id_dict_gc95M.pkl
 geneformer/token_dictionary_gc95M.pkl
 training_args.bin
+
+yeast/yeast_data/output/yeast_master_matrix_sgd.csv
+yeast/yeast_data/output/yeast_master_matrix_sgd.loom
