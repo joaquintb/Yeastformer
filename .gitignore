@@ -165,11 +165,7 @@ yeast/yeast_data/normalized_pcls
 
 yeast/yeast_data/test_pcls
 
-!yeast/yeast_data/output
-
-yeast/yeast_data/all_yeast_genes.tsv
-
-yeast/yeast_data/all_yeast_genes_rest_of_problematic_update.tsv
+# !yeast/yeast_data/output
 
 yeast/pretraining/models
 
