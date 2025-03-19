@@ -202,3 +202,5 @@ training_args.bin
 
 yeast/yeast_data/output/yeast_master_matrix_sgd.csv
 yeast/yeast_data/output/yeast_master_matrix_sgd.loom
+
+yeast/yeast_data/all_pcls_original
