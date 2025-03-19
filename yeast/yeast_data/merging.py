@@ -47,5 +47,5 @@ for file_count, file_name in enumerate(os.listdir(pcl_directory)):
             print(f"Error processing file '{file_name}': {e}")
 
 # Save the master matrix to a new file
-master_df.to_csv('/home/logs/jtorresb/Geneformer/yeast/yeast_data/output/yeast_master_matrix_unnormalized.csv', sep="\t")
+master_df.to_csv('/home/logs/jtorresb/yeastformer/yeast/yeast_data/output/yeast_master_matrix_unnormalized.csv', sep="\t")
 print("Master matrix created and saved.")
