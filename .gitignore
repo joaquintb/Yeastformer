@@ -211,7 +211,7 @@ yeast/yeast_data/output
 
 
 #!yeast/yeast_data/data_inspection/data_inspection.ipynb
-yeast/yeast_data/data_inspection/all_extracted
+yeast/yeast_data/data_inspection/all_spell_extracted
+yeast/yeast_data/data_inspection/all_spell_zip
 yeast/yeast_data/data_inspection/dual_channel_extracted
 yeast/yeast_data/data_inspection/single_channel_extracted
-yeast/yeast_data/data_inspection/all_spell_datasets.tar.gz
