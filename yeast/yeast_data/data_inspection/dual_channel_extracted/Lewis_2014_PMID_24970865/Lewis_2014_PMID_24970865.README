@@ -1,0 +1,32 @@
+Citation: Lewis JA, Broman AT, Will J, Gasch AP. 2014. Genetic architecture of ethanol-responsive 
+transcriptome variation in Saccharomyces cerevisiae strains.
+
+Full Description: Natural variation in gene expression is pervasive within and between species, and it 
+likely explains a significant fraction of phenotypic variation between individuals. 
+Phenotypic variation in acute systemic responses can also be leveraged to reveal 
+physiological differences in how individuals perceive and respond to environmental 
+perturbations. We previously found extensive variation in the transcriptomic response to 
+acute ethanol exposure in two wild isolates and a common laboratory strain of 
+Saccharomyces cerevisiae. Many expression differences persisted across several modules of 
+coregulated genes, implicating trans-acting systemic differences in ethanol sensing and/or
+response. Here, we conducted expression QTL mapping of the ethanol response in two strain 
+crosses to identify the genetic basis for these differences. To understand systemic 
+differences, we focused on hotspot loci that affect many transcripts in trans.  Candidate 
+causal regulators contained within hotspots implicate upstream regulators as well as 
+downstream effectors of the ethanol response. Overlap in hotspot targets revealed additive
+genetic effects of trans-acting loci as well as epi-hotspots, in which epistatic 
+interactions between two loci affected the same suites of downstream targets. One epi-
+hotspot implicated interactions between Mkt1p and proteins linked to translational 
+regulation, prompting us to show that Mkt1p localizes to P bodies upon ethanol stress in a
+strain-specific manner. Our results provide a glimpse into the genetic architecture 
+underlying natural variation in a stress response and present new details on how yeast 
+respond to ethanol stress.
+
+PMID: 24970865
+
+GEO ID: GSE54196.remapped.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE54196.remapped.final.pcl	Genetic architecture of ethanol-responsive transcriptome variation in Saccharomyces cerevisiae strains.	196	stress	2
+
+File last modified: Thu Apr 25 2024

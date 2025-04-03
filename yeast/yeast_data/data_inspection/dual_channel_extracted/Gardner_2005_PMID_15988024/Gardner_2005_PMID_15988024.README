@@ -1,0 +1,35 @@
+Citation: Gardner RG, Nelson ZW, Gottschling DE. 2005. Ubp10/Dot4p regulates the persistence of 
+ubiquitinated histone H2B: distinct roles in telomeric silencing and general chromatin.
+
+Full Description: We previously discovered that the ubiquitin protease Ubp10/Dot4p is important for 
+telomeric silencing through its interaction with Sir4p. However, the mechanism of Ubp10p 
+action was unknown. We now provide evidence that Ubp10p removes ubiquitin from histone H2B
+; cells with UBP10 deleted have increased steady-state levels of H2B ubiquitination. As a 
+consequence, ubp10delta cells also have increased steady-state levels of histone H3 Lys4 
+and Lys79 methylation. Consistent with its role in silencing, Ubp10p is preferentially 
+localized to silent chromatin where its ubiquitin protease activity maintains low levels 
+of H3 Lys4 and Lys79 methylation to allow optimal Sir protein binding to telomeres and 
+global telomeric silencing. The ubiquitin protease Ubp8p has also been shown to remove 
+ubiquitin from H2B, and ubp8delta cells have increased steady-state levels of H2B 
+ubiquitination similar to those in ubp10delta cells. Unlike ubp10delta cells, however, 
+ubp8delta cells do not have increased steady-state levels of H3 Lys4 and Lys79 methylation
+, nor is telomeric silencing affected. Despite their separate functions in silencing and 
+SAGA-mediated transcription, respectively, deletion of both UBP10 and UBP8 results in a 
+synergistic increase in the steady-state levels of H2B ubiquitination and in the number of
+genes with altered expression, indicating that Ubp10p and Ubp8p likely overlap in some of 
+their target chromatin regions. We propose that Ubp10p and Ubp8p are the only ubiquitin 
+proteases that normally remove monoubiquitin from histone H2B and, while there are regions
+of the genome to which each is specifically targeted, both combine to regulate the global 
+balance of H2B ubiquitination.
+
+PMID: 15988024
+
+GEO ID: GSE2330
+
+PCL filename	short description	# conditions	tags	# channels
+GSE2330_setA_family.pcl	ubp10 C371S/dot4-1 and ubp10-delta94-250/dot4-5 ubiquitin protease mutants	24	histone modification|ubiquitin or ULP modification	2
+
+File last modified: Thu Apr 25 2024
+GSE2329_setA_family.pcl	ubp10/dot4, ubp8 single and ubp10/dot4 ubp8 double null ubiquitin protease mutants	18	histone modification|ubiquitin or ULP modification	2
+
+File last modified: Thu Apr 25 2024

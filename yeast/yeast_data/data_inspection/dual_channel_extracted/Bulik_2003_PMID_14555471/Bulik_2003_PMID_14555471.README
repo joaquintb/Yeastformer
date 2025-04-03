@@ -1,0 +1,15 @@
+Citation: Bulik DA, Olczak M, Lucero HA, Osmond BC, Robbins PW, Specht CA. 2003. Chitin synthesis in
+Saccharomyces cerevisiae in response to supplementation of growth medium with glucosamine 
+and cell wall stress.
+
+Full Description: wt and <i>fks1</i> mutant exposed to chitin-inducing glucosamine for 2-hours or continuous
+steady state.
+
+PMID: 14555471
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Bulik03.filter.flt.knn.avg.div.log.pcl	Chitin synthesis	11	cell wall organization|chemical stimulus|stress	2
+
+File last modified: Thu Apr 25 2024

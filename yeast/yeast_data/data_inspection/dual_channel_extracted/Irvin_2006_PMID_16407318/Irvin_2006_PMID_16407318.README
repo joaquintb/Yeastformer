@@ -1,0 +1,30 @@
+Citation: Irvin JD, Pugh BF. 2006. Genome-wide transcriptional dependence on TAF1 functional domains.
+
+Full Description: Transcription factor IID (TFIID) plays a central role in regulating the expression of most
+eukaryotic genes. Of the 14 TBP-associated factor (TAF) subunits that compose TFIID, TAF1 
+is one of the largest and most functionally diverse. Yeast TAF1 can be divided into four 
+regions including a putative histone acetyltransferase domain and TBP, TAF, and promoter 
+binding domains. Establishing the importance of each region in gene expression through 
+deletion analysis has been hampered by the cellular requirement of TAF1 for viability. To 
+circumvent this limitation we introduced galactose-inducible deletion derivatives of 
+previously defined functional regions of TAF1 into a temperature-sensitive taf1ts2 yeast 
+strain. After galactose induction of the TAF1 mutants and temperature-induced elimination 
+of the resident Taf1ts2 protein, we examined the properties and phenotypes of the mutants
+, including their impact on genome-wide transcription. Virtually all TAF1-dependent genes
+, which comprise approximately 90% of the yeast genome, displayed a strong dependence upon
+all regions of TAF1 that were tested. This finding might reflect the need for each region 
+of TAF1 to stabilize TAF1 against degradation or may indicate that all TAF1-dependent 
+genes require the many activities of TAF1. Paradoxically, deletion of the region of TAF1 
+that is important for promoter binding interfered with the expression of many genes that 
+are normally TFIID-independent/SAGA (Spt-Ada-Gcn5-acetyltransferase)-dominated, suggesting
+that this region normally prevents TAF1 (TFIID) from interfering with the expression of 
+SAGA-regulated genes.
+
+PMID: 16407318
+
+GEO ID: GSE3006
+
+PCL filename	short description	# conditions	tags	# channels
+GSE3006_setA_family.pcl	Genome-wide transcriptional dependence on TAF1 functional domains.	14	transcription	2
+
+File last modified: Thu Apr 25 2024

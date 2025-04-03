@@ -1,0 +1,28 @@
+Citation: Chen JC, Powers T. 2006. Coordinate regulation of multiple and distinct biosynthetic 
+pathways by TOR and PKA kinases in S. cerevisiae.
+
+Full Description: The target of rapamycin (TOR) signaling pathway is an essential regulator of cell growth 
+in eukaryotic cells. In Saccharomyces cerevisiae, TOR controls the expression of many 
+genes involved in a wide array of distinct nutrient-responsive metabolic pathways. By 
+exploring the TOR pathway under different growth conditions, we have identified novel TOR-
+regulated genes, including genes required for branched-chain amino acid biosynthesis as 
+well as lysine biosynthesis (LYS genes). We show that TOR-dependent control of LYS gene 
+expression occurs independently from previously identified LYS gene regulators and is 
+instead coupled to cAMP-regulated protein kinase A (PKA). Additional genome-wide 
+expression analyses reveal that TOR and PKA coregulate LYS gene expression in a pattern 
+that is remarkably similar to genes within the ribosomal protein and Ribi regulon genes 
+required for ribosome biogenesis. Moreover, this pattern of coregulation is distinct from 
+other clusters of TOR/PKA coregulated genes, which includes genes involved in fermentation
+as well as aerobic respiration, suggesting that control of gene expression by TOR and PKA 
+involves multiple modes of crosstalk. Our results underscore how multiple signaling 
+pathways, general growth conditions, as well as the availability of specific nutrients 
+contribute to the maintenance of appropriate patterns of gene activity in yeast.
+
+PMID: 16397762
+
+GEO ID: GSE3160
+
+PCL filename	short description	# conditions	tags	# channels
+GSE3160_setA_family.pcl	Coordinate regulation of multiple and distinct biosynthetic pathways by TOR and PKA kinases in S. cerevisiae.	12	amino acid utilization|protein phosphorylation|signaling|starvation	2
+
+File last modified: Thu Apr 25 2024

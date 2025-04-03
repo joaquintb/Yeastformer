@@ -1,0 +1,15 @@
+Citation: Fleming JA, Lightcap ES, Sadis S, Thoroddsen V, Bulawa CE, Blackman RK. 2002. 
+Complementary whole-genome technologies reveal the cellular response to proteasome 
+inhibition by PS-341.
+
+Full Description: Whole-genome technologies in Saccharomyces cerevisiae to determine the cellular impact of 
+the proteasome inhibitor PS-341.
+
+PMID: 11830665
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Fleming99.log.flt.knn.avg.pcl	Proteasome inhibition with exposure to PS-341	30	chemical stimulus|proteolysis	2
+
+File last modified: Thu Apr 25 2024

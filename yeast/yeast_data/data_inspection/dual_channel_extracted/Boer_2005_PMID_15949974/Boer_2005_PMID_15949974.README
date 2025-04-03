@@ -1,0 +1,17 @@
+Citation: Boer VM, Daran JM, Almering MJ, de Winde JH, Pronk JT. 2005. Contribution of the 
+Saccharomyces cerevisiae transcriptional regulator Leu3p to physiology and gene expression
+in nitrogen- and carbon-limited chemostat cultures.
+
+Full Description: Analysis of <i>leu3</i> mutant grown in either limited ethanol or limited ammonium media
+. <i>Leu3p</i> regulates a gene involved in nitrogen assimilation and six genes involved 
+in branched chain amino acid metabolism. Results provide insight into the role of <i>Leu3p
+</i> in gene regulation.
+
+PMID: 15949974
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Boer05.filter.flt.knn.avg.div.log.pcl	<i>leu3</i> mutant expression profiles	12	carbon utilization|nitrogen utilization|transcription	2
+
+File last modified: Thu Apr 25 2024

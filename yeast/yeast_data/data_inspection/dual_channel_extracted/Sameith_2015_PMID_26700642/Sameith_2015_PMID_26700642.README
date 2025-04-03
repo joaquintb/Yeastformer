@@ -1,0 +1,23 @@
+Citation:  Sameith K, Amini S, Groot Koerkamp MJ, van Leenen D, Brok M, Brabers N, Lijnzaad P, van 
+Hooff SR, Benschop JJ, Lenstra TL, Apweiler E, van Wageningen S,  Snel B, Holstege FC, 
+Kemmeren P . 2015. A high-resolution gene expression atlas of epistasis between gene-
+specific transcription factors exposes potential mechanisms for genetic interactions.
+
+Full Description:  Contains gene expression profiles of yeast single and double deletion mutants of gene-
+specific transcription factors. Genetic interactions were studied by comparing gene 
+expression changes of double mutants with gene expression changes in the respective single
+mutants. Pairs of gene-specific transcription factors were chosen based on previous 
+evidence for epistasis, including synthetic genetic interactions as well as common DNA 
+binding
+
+
+ .
+
+PMID: 26700642
+
+GEO ID: GSE42536.mapped.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE42536.mapped.pcl	Transcription profiling by array of yeast single and double deletion mutants of gene-specific transcription factors	287	genetic interaction	2
+
+File last modified: Thu Apr 25 2024

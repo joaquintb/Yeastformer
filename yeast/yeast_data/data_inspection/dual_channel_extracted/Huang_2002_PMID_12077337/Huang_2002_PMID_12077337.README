@@ -1,0 +1,15 @@
+Citation: Huang D, Moffat J, Andrews B. 2002. Dissection of a complex phenotype by functional 
+genomics reveals roles for the yeast cyclin-dependent protein kinase Pho85 in stress 
+adaptation and cell integrity.
+
+Full Description: DNA microarrays to examine the genome-wide transcriptional consequences of deleting <i>
+PHO85</i> or members of the <i>Pho85</i> cyclin family.
+
+PMID: 12077337
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Huang02.flt.knn.avg.pcl	<i>pho85</i> related knockouts	20	protein phosphorylation	2
+
+File last modified: Thu Apr 25 2024

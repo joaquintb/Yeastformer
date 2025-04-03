@@ -1,0 +1,25 @@
+Citation: Pramila T, Miles S, GuhaThakurta D, Jemiolo D, Breeden LL. 2002. Conserved homeodomain 
+proteins interact with MADS box protein Mcm1 to restrict ECB-dependent transcription to 
+the M/G1 phase of the cell cycle.
+
+Full Description: Two homeodomain proteins, Yox1 and Yhp1, act as repressors at early cell cycle boxes (ECBs
+) to restrict their activity to the M/G1 phase of the cell cycle in budding yeast. These 
+proteins bind to Mcm1 and to a typical homeodomain binding site. The expression of Yox1 is
+periodic and directly correlated with its binding to, and repression of, ECB activity. The
+absence of Yox1 and Yhp1 or the constitutive expression of Yox1 leads to the loss of cell-
+cycle regulation of ECB activity. Therefore, the cell-cycle-regulated expression of these 
+repressors defines the interval of ECB-dependent transcription. Twenty-eight genes, 
+including MCM2-7, CDC6, SWI4, CLN3, and a number of genes required during late M phase 
+have been identified that are coordinately regulated by this pathway.
+
+PMID: 12464633
+
+GEO ID: GSE5283
+
+PCL filename	short description	# conditions	tags	# channels
+GSE5283_setA_family.pcl	Cell cycle-time course of a yox1 yhp1 double mutant, alpha factor synchronized	13	mitotic cell cycle	2
+
+File last modified: Thu Apr 25 2024
+GSE3635_setA_family.pcl	Cell cycle-time course, alpha factor synchronized	13	mitotic cell cycle	2
+
+File last modified: Thu Apr 25 2024

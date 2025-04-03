@@ -1,0 +1,39 @@
+Citation: Adomas AB, Lopez-Giraldez F, Clark TA, Wang Z, Townsend JP. 2010. Multi-targeted priming 
+for genome-wide gene expression assays.
+
+Full Description: BACKGROUND: Complementary approaches to assaying global gene expression are needed to 
+assess gene expression in regions that are poorly assayed by current methodologies. A key 
+component of nearly all gene expression assays is the reverse transcription of transcribed
+sequences that has traditionally been performed by priming the poly-A tails on many of the
+transcribed genes in eukaryotes with oligo-dT, or by priming RNA indiscriminately with 
+random hexamers. We designed an algorithm to find common sequence motifs that were present
+within most protein-coding genes of Saccharomyces cerevisiae and of Neurospora crassa, but
+that were not present within their ribosomal RNA or transfer RNA genes. We then 
+experimentally tested whether degenerately priming these motifs with multi-targeted 
+primers improved the accuracy and completeness of transcriptomic assays. RESULTS: We 
+discovered two multi-targeted primers that  would prime a preponderance of genes in the 
+genomes of Saccharomyces cerevisiae and Neurospora crassa while avoiding priming ribosomal
+RNA or transfer RNA. Examining the response of Saccharomyces cerevisiae to nitrogen 
+deficiency and profiling Neurospora crassa early sexual development, we demonstrated that 
+using  multi-targeted primers in reverse transcription led to superior performance of 
+microarray profiling and next-generation RNA tag sequencing. Priming with multi-targeted 
+primers in addition to oligo-dT resulted in higher sensitivity, a  larger number of well-
+measured genes and greater power to detect differences in gene expression. CONCLUSIONS: 
+Our results provide the most complete and detailed  expression profiles of the yeast 
+nitrogen starvation response and N. crassa early sexual development to date. Furthermore, 
+our multi-targeting priming methodology  for genome-wide gene expression assays provides 
+selective targeting of multiple sequences and counter-selection against undesirable 
+sequences, facilitating a more complete and precise assay of the transcribed sequences 
+within the genome.
+
+PMID: 20716356
+
+GEO ID: GSE22992.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE22992.final.pcl	Multi-targeted priming for genome-wide gene expression assays.	4	nitrogen utilization|stress	2
+
+File last modified: Thu Apr 25 2024
+GSE22936.final.pcl	Multi-targeted priming for genome-wide gene expression assays.	4	nitrogen utilization|stress	2
+
+File last modified: Thu Apr 25 2024

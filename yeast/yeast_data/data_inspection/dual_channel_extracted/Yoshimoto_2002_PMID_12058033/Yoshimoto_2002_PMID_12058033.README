@@ -1,0 +1,21 @@
+Citation: Yoshimoto H, Saltsman K, Gasch AP, Li HX, Ogawa N, Botstein D, Brown PO, Cyert MS. 2002. 
+Genome-wide analysis of gene expression regulated by the calcineurin/Crz1p signaling 
+pathway in Saccharomyces cerevisiae.
+
+Full Description: The Ca(2+)/calmodulin-dependent protein phosphatase, calcineurin, is activated by specific
+environmental conditions, including exposure to Ca(2+) and Na(+), and induces gene 
+expression by regulating the <i>Crz1p/Tcn1p</i> transcription factor. We used DNA 
+microarrays to perform a comprehensive analysis of calcineurin/<i>Crz1p</i>-dependent gene
+expression following addition of Ca(2+) (200 mm) or Na(+) (0.8 m) to yeast.
+
+PMID: 12058033
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Yoshimoto02_Ca.flt.knn.avg.pcl	Response to Ca(2+) in calcineurin/Crz1 pathway regulated gene expression	24	cellular ion homeostasis|chemical stimulus|signaling	2
+
+File last modified: Thu Apr 25 2024
+2010.Yoshimoto02_Na.flt.knn.avg.pcl	Response to Na(+) in calcineurin/Crz1 pathway regulated gene expression	16	cellular ion homeostasis|chemical stimulus|signaling	2
+
+File last modified: Thu Apr 25 2024

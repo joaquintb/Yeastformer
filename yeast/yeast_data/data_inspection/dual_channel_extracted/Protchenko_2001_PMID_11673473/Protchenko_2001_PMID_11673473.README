@@ -1,0 +1,15 @@
+Citation: Protchenko O, Ferea T, Rashford J, Tiedeman J, Brown PO, Botstein D, Philpott CC. 2001. 
+Three cell wall mannoproteins facilitate the uptake of iron in Saccharomyces cerevisiae.
+
+Full Description: Analysis of iron-regulated gene expression in Saccharomyces cerevisiae using cDNA 
+microarrays has identified three putative cell wall proteins that are directly regulated 
+by <i>Aft1p</i>, the major iron-dependent transcription factor in yeast.
+
+PMID: 11673473
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Protchenko01.flt.knn.avg.pcl	Iron concentration and <i>AFT1</i> overexpression	4	metal or metalloid ion stress	2
+
+File last modified: Thu Apr 25 2024

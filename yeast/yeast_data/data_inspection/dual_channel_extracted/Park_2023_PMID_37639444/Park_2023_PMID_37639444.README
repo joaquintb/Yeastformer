@@ -1,0 +1,35 @@
+Citation: Park ZM, Remillard M, Belnap E, Rose MD. 2023. Kar4 is required for the normal pattern of 
+meiotic gene expression.
+
+Full Description: Kar4p, the yeast homolog of the mammalian methyltransferase subunit METTL14, is  required 
+for efficient mRNA m6A methylation, which regulates meiotic entry. Kar4p  is also required
+for a second seemingly non-catalytic function during meiosis.  Overexpression of the early
+meiotic transcription factor, IME1, can bypass the  requirement for Kar4p in meiotic entry
+but the additional overexpression of the  translational regulator, RIM4, is required to 
+permit sporulation in kar4Delta/Delta.  Using microarray analysis and RNA sequencing, we 
+sought to determine the impact  of removing Kar4p and consequently mRNA methylation on the
+early meiotic  transcriptome in a strain background (S288c) that is sensitive to the loss 
+of  early meiotic regulators. We found that kar4Delta/Delta mutants have a largely wild 
+type  transcriptional profile with the exception of two groups of genes that show  delayed
+and reduced expression: (1) a set of Ime1p-dependent early genes as well  as IME1, and (2
+) a set of late genes dependent on the mid-meiotic transcription  factor, Ndt80p. The 
+early gene expression defect is likely the result of the loss  of mRNA methylation and is 
+rescued by overexpressing IME1, but the late defect is  only suppressed by overexpression 
+of both IME1 and RIM4. The requirement for RIM4  led us to predict that the non-catalytic 
+function of Kar4p, like  methyltransferase complex orthologs in other systems, may 
+function at the level  of translation. Mass spectrometry analysis identified several genes
+involved in  meiotic recombination with strongly reduced protein levels, but with little 
+to no  reduction in transcript levels in kar4Delta/Delta after IME1 overexpression. The 
+low  levels of these proteins were rescued by overexpression of RIM4 and IME1, but not  by
+the overexpression of IME1 alone. These data expand our understanding of the  role of 
+Kar4p in regulating meiosis and provide key insights into a potential  mechanism of Kar4p'
+s later meiotic function that is independent of mRNA  methylation.
+
+PMID: 37639444
+
+GEO ID: GSE220125.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE220125.final.pcl	Kar4 is required for the normal pattern of meiotic gene expression.	175	RNA processing and metabolism|sporulation	2
+
+File last modified: Thu Apr 25 2024

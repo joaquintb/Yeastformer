@@ -1,0 +1,16 @@
+Citation: Prinz S, Avila-Campillo I, Aldridge C, Srinivasan A, Dimitrov K, Siegel AF, Galitski T. 
+2004. Control of yeast filamentous-form growth by modules in an integrated molecular 
+network.
+
+Full Description: wt diploid cells shifted from yeast-form growth in SHAD liquid with plentiful glucose and 
+ammonium to filamentous-form growth on SLAD agar with low ammonium.  Samples collected 
+hourly for 10 hours.
+
+PMID: 14993204
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Prinz04.flt.knn.avg.pcl	Filamentous-form growth on solid media time course	10	filamentous growth	2
+
+File last modified: Thu Apr 25 2024

@@ -1,0 +1,31 @@
+Citation: Zhang Y, Liu ZL, Song M. 2015. ChiNet uncovers rewired transcription subnetworks in 
+tolerant yeast for advanced  biofuels conversion.
+
+Full Description: Analysis of rewired upstream subnetworks impacting downstream differential gene expression
+aids the delineation of evolving molecular mechanisms. Cumulative statistics based on 
+conventional differential correlation are limited for subnetwork rewiring analysis since 
+rewiring is not necessarily equivalent to change in correlation coefficients. Here we 
+present a computational method ChiNet to quantify subnetwork rewiring by statistical 
+heterogeneity that enables detection of potential genotype changes causing altered 
+transcription regulation  in evolving organisms. Given a differentially expressed 
+downstream gene set, ChiNet backtracks a rewired upstream subnetwork from a super-network 
+including gene interactions known to occur under various molecular contexts. We 
+benchmarked ChiNet for its high accuracy in distinguishing rewired artificial subnetworks
+, in silico yeast transcription-metabolic subnetworks, and rewired transcription 
+subnetworks for Candida albicans versus Saccharomyces cerevisiae, against two differential
+-correlation based subnetwork rewiring approaches. Then, using transcriptome data from 
+tolerant S. cerevisiae strain NRRL Y-50049 and a wild-type intolerant strain, ChiNet 
+identified 44 metabolic pathways affected by  rewired transcription subnetworks anchored 
+to major adaptively activated transcription factor genes YAP1, RPN4, SFP1 and ROX1, in 
+response to toxic chemical challenges involved in lignocellulose-to-biofuels conversion. 
+These findings support the use of ChiNet in rewiring analysis of subnetworks where 
+differential interaction patterns resulting from divergent nonlinear dynamics abound.
+
+PMID: 25897127
+
+GEO ID: GSE50492.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE50492.final.pcl	ChiNet uncovers rewired transcription subnetworks in tolerant yeast for advanced  biofuels conversion.	10	chemical stimulus|evolution	2
+
+File last modified: Thu Apr 25 2024

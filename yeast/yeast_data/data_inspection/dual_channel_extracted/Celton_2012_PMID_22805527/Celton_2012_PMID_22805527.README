@@ -1,0 +1,41 @@
+Citation: Celton M, Sanchez I, Goelzer A, Fromion V, Camarasa C, Dequin S. 2012. A comparative 
+transcriptomic, fluxomic and metabolomic analysis of the response of Saccharomyces 
+cerevisiae to increases in NADPH oxidation.
+
+Full Description: BACKGROUND: Redox homeostasis is essential to sustain metabolism and growth. We recently 
+reported that yeast cells meet a gradual increase in imposed NADPH demand by progressively
+increasing flux through the pentose phosphate (PP) and acetate pathways and by exchanging 
+NADH for NADPH in the cytosol, via a transhydrogenase-like cycle. Here, we studied the 
+mechanisms underlying this metabolic response, through a combination of gene expression 
+profiling and analyses of extracellular and intracellular metabolites and 13 C-flux 
+analysis. RESULTS: NADPH oxidation was increased by reducing acetoin to 2,3-butanediol in 
+a strain overexpressing an engineered NADPH-dependent butanediol dehydrogenase cultured in
+the presence of acetoin. An increase in NADPH demand to 22 times the  anabolic requirement
+for NADPH was accompanied by the intracellular accumulation  of PP pathway metabolites 
+consistent with an increase in flux through this pathway. Increases in NADPH demand were 
+accompanied by the successive induction of several genes of the PP pathway. NADPH-
+consuming pathways, such as amino-acid  biosynthesis, were upregulated as an indirect 
+effect of the decrease in NADPH availability. Metabolomic analysis showed that the most 
+extreme modification of NADPH demand resulted in an energetic problem. Our results also 
+highlight the influence of redox status on aroma production. CONCLUSIONS: Combined 13 C-
+flux, intracellular metabolite levels and microarrays analyses revealed that NADPH 
+homeostasis, in response to a progressive increase in NADPH demand, was achieved  by the 
+regulation, at several levels, of the PP pathway. This pathway is principally under 
+metabolic control, but regulation of the transcription of PP pathway genes can exert a 
+stronger effect, by redirecting larger amounts of carbon to this pathway to satisfy the 
+demand for NADPH. No coordinated response of genes involved in NADPH metabolism was 
+observed, suggesting that yeast has no  system for sensing NADPH/NADP+ ratio. Instead, the
+induction of NADPH-consuming amino-acid pathways in conditions of NADPH limitation may 
+indirectly trigger the  transcription of a set of PP pathway genes.
+
+PMID: 22805527
+
+GEO ID: GSE34808.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE34808.final.pcl	A comparative transcriptomic, fluxomic and metabolomic analysis of the response of Saccharomyces cerevisiae to increases in NADPH oxidation.	3	metabolism and metabolic regulation	2
+
+File last modified: Thu Apr 25 2024
+GSE34809.final.pcl	A comparative transcriptomic, fluxomic and metabolomic analysis of the response of Saccharomyces cerevisiae to increases in NADPH oxidation.	9	metabolism and metabolic regulation	2
+
+File last modified: Thu Apr 25 2024

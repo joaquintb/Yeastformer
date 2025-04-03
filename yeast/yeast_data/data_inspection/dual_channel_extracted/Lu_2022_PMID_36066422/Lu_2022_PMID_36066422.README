@@ -1,0 +1,34 @@
+Citation: Lu PYT, Kirlin AC, Aristizabal MJ, Brewis HT, Levesque N, Setiaputra DT, Avvakumov N, 
+Benschop JJ, Groot Koerkamp M, Holstege FCP, Krogan NJ, Yip CK, Cote J, Kobor MS. 2022. A 
+balancing act: interactions within NuA4/TIP60 regulate picNuA4 function in  Saccharomyces 
+cerevisiae and humans.
+
+Full Description: The NuA4 lysine acetyltransferase complex acetylates histone and nonhistone  proteins and 
+functions in transcription regulation, cell cycle progression, and  DNA repair. NuA4 
+harbors an interesting duality in that its catalytic module can  function independently 
+and distinctly as picNuA4. At the molecular level, picNuA4  anchors to its bigger brother 
+via physical interactions between the C-terminus of  Epl1 and the HSA domain of Eaf1, the 
+NuA4 central scaffolding subunit. This is  reflected at the regulatory level, as picNuA4 
+can be liberated genetically from  NuA4 by disrupting the Epl1-Eaf1 interaction. As such, 
+removal of either Eaf1 or  the Epl1 C-terminus offers a unique opportunity to elucidate 
+the contributions of  Eaf1 and Epl1 to NuA4 biology and in turn their roles in balancing 
+picNuA4 and  NuA4 activities. Using high-throughput genetic and gene expression profiling
+, and  targeted functional assays to compare eaf1Delta and epl1-CDelta mutants, we found 
+that  EAF1 and EPL1 had both overlapping and distinct roles. Strikingly, loss of EAF1  or 
+its HSA domain led to a significant decrease in the amount of picNuA4, while  loss of the 
+Epl1 C-terminus increased picNuA4 levels, suggesting starkly opposing  effects on picNuA4 
+regulation. The eaf1Delta epl1-CDelta double mutants resembled the  epl1-CDelta single 
+mutants, indicating that Eaf1's role in picNuA4 regulation  depended on the Epl1 C-
+terminus. Key aspects of this regulation were  evolutionarily conserved, as truncating an 
+Epl1 homolog in human cells increased  the levels of other picNuA4 subunits. Our findings 
+suggested a model in which  distinct aspects of the Epl1-Eaf1 interaction regulated 
+picNuA4 amount and  activity.
+
+PMID: 36066422
+
+GEO ID: GSE137261.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE137261.final.pcl	A balancing act: interactions within NuA4/TIP60 regulate picNuA4 function in  Saccharomyces cerevisiae and humans.	10	histone modification	2
+
+File last modified: Thu Apr 25 2024

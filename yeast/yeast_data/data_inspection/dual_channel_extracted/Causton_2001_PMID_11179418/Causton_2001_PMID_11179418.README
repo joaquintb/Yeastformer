@@ -1,0 +1,29 @@
+Citation: Causton HC, Ren B, Koh SS, Harbison CT, Kanin E, Jennings EG, Lee TI, True HL, Lander ES, 
+Young RA. 2001. Remodeling of yeast genome expression in response to environmental changes.
+
+Full Description: Response to various changes in extracellular environment, including changes in temperature
+, oxidation, nutrients, pH, and osmolarity.
+
+PMID: 11179418
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Causton01_peroxide.filter.flt.knn.avg.div.log.pcl	Peroxide response	7	chemical stimulus|oxidative stress|stress	2
+
+File last modified: Thu Apr 25 2024
+2010.Causton01_sorbitol.filter.flt.knn.avg.div.log.pcl	Sorbitol response	6	osmotic stress|stress	2
+
+File last modified: Thu Apr 25 2024
+2010.Causton01_acid.filter.flt.knn.avg.div.log.pcl	Acid response	11	chemical stimulus|stress	2
+
+File last modified: Thu Apr 25 2024
+2010.Causton01_alkali.filter.flt.knn.avg.div.log.pcl	Alkali response	8	chemical stimulus|stress	2
+
+File last modified: Thu Apr 25 2024
+2010.Causton01_heat.filter.flt.knn.avg.div.log.pcl	Heat response	7	heat shock|response to unfolded protein|stress	2
+
+File last modified: Thu Apr 25 2024
+2010.Causton01_NaCl.filter.flt.knn.avg.div.log.pcl	NaCl response	6	osmotic stress|stress	2
+
+File last modified: Thu Apr 25 2024

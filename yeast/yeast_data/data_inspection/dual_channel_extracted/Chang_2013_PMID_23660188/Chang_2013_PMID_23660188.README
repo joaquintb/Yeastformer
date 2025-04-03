@@ -1,0 +1,27 @@
+Citation: Chang M, Kang HJ, Baek IJ, Kang CM, Park YS, Yun CW. 2013. Kdx1 regulates RCK1 gene 
+expression by interacting with Rlm1 in Saccharomyces cerevisiae.
+
+Full Description: Kdx1 is known as a stress-responsive protein. To better understand the function of Kdx1, 
+we performed microarray analysis in KDX1 overexpressing cells and found  that the 
+overexpression of KDX1 dramatically induced the expression of RCK1, a stress-responsive 
+gene. This result was confirmed by northern blot analysis. Furthermore, the overexpression
+of RCK1 partially rescued the growth defect caused by zymolyase stress. The expression of 
+RCK1 was regulated independently by Slt2 and Hog1, and Kdx1 failed to induce the 
+expression of RCK1 in a HOG1 deletion strain. The transcriptional factors Smp1, Sko1, Msn2
+, Msn4, and Hot1, which are regulated by Hog1, did not affect RCK1 expression, but Rlm1 
+did. Furthermore, the mutation of certain phosphorylation sites in RLM1 inhibited the  
+induction of RCK1 expression by Kdx1. We found a conserved Rlm1 binding site in the 5' 
+untranslated region (UTR) of RCK1, and the mutation of these Rlm1 binding  sites also 
+inhibited the induction of RCK1 expression by Kdx1. Finally, we showed that Kdx1 
+physically interacts with Rlm1 and that this interaction affects the ability of Rlm1 to 
+bind to the RCK1 5' UTR. Taken together, these data suggest that Kdx1 interacts with Rlm1 
+to activate RCK1 gene expression in response to stress in Saccharomyces cerevisiae.
+
+PMID: 23660188
+
+GEO ID: GSE45692.remapped.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE45692.remapped.final.pcl	Kdx1 regulates RCK1 gene expression by interacting with Rlm1 in Saccharomyces cerevisiae.	1	cell wall organization|stress|signaling	2
+
+File last modified: Thu Apr 25 2024

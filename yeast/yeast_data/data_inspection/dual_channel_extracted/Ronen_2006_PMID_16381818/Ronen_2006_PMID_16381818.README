@@ -1,0 +1,26 @@
+Citation: Ronen M, Botstein D. 2006. Transcriptional response of steady-state yeast cultures to 
+transient perturbations in carbon source.
+
+Full Description: To understand the dynamics of transcriptional response to changing environments, well 
+defined, easily controlled, and short-term perturbation experiments were undertaken. We 
+subjected steady-state cultures of Saccharomyces cerevisiae in chemostats growing on 
+limiting galactose to two different size pulses of glucose, well known to be a preferred 
+carbon source. Although these pulses were not large enough to change growth rates or cell 
+size, approximately 25% of the genes changed their expression at least 2-fold. Using DNA 
+microarrays to estimate mRNA abundance, we found a number of distinguishable patterns of 
+transcriptional response among the many genes whose expression changed. Many of these 
+genes were already known to be regulated by particular transcription factors; we estimated
+five potentially relevant transcription factor activities from the observed changes in 
+gene expression (i.e., Mig1p, Gal4p, Cat8p, Rgt1p, Adr1p, and Rcs1p). With these estimates
+, for two regulatory circuits involving interaction among multiple regulators we could 
+generate dynamical models that quantitatively account for the observed transcriptional 
+responses to the transient perturbations.
+
+PMID: 16381818
+
+GEO ID: GSE4158
+
+PCL filename	short description	# conditions	tags	# channels
+GSE4158_set0_family.pcl	Transcriptional response of steady-state yeast cultures to transient perturbations in carbon source.	26	carbon utilization	2
+
+File last modified: Thu Apr 25 2024

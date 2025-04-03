@@ -1,0 +1,34 @@
+Citation: O'Duibhir E, Lijnzaad P, Benschop JJ, Lenstra TL, van Leenen D, Groot Koerkamp MJ, 
+Margaritis T, Brok MO, Kemmeren P, Holstege FC. 2014. Cell cycle population effects in 
+perturbation studies.
+
+Full Description: Growth condition perturbation or gene function disruption are commonly used strategies to 
+study cellular systems. Although it is widely appreciated that such experiments may 
+involve indirect effects, these frequently remain uncharacterized. Here, analysis of 
+functionally unrelated Saccharyomyces cerevisiae deletion strains reveals a common gene 
+expression signature. One property shared by these strains is slower growth, with 
+increased presence of the signature in more slowly growing strains. The slow growth 
+signature is highly similar to the environmental stress response (ESR), an expression 
+response common to diverse environmental perturbations. Both environmental and genetic 
+perturbations result in growth rate changes. These are accompanied by a change in the 
+distribution of cells over different cell cycle phases. Rather than representing a direct 
+expression response in single cells, both the slow growth signature and ESR mainly reflect
+a redistribution of cells over different cell cycle phases, primarily characterized by an 
+increase in the G1 population. The findings have implications for any study of 
+perturbation that is accompanied by growth rate changes. Strategies to counter these 
+effects are presented and discussed.
+
+PMID: 24952590
+
+GEO ID: GSE54539.remapped.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE54539.remapped.final.pcl	Cell cycle population effects in perturbation studies.	12	nutrient utilization	2
+
+File last modified: Thu Apr 25 2024
+GSE54527.remapped.final.pcl	Cell cycle population effects in perturbation studies.	4	phosphorus utilization	2
+
+File last modified: Thu Apr 25 2024
+GSE54528.remapped.final.pcl	Cell cycle population effects in perturbation studies.	22	heat shock|stress	2
+
+File last modified: Thu Apr 25 2024

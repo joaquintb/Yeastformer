@@ -1,0 +1,14 @@
+Citation:  Garcia-Martinez J, Troule K, Chavez S, Perez-Ortin JE . 2016. Growth rate controls mRNA 
+turnover in steady and non-steady states.
+
+Full Description: We analyzed the effect of the elimination of the cap-binding protein Cbc1 on transcription
+rate and mRNA amount during the response to osmotic stress using the Genomic Run-on assay.
+
+PMID: 27648972
+
+GEO ID: GSE72356.mapped.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE72356.mapped.pcl	Determination of transcriptional rates and mRNA levels during osmotic stress  in S. cerevisiae wild type and cbc1/sto1 mutant cells using Genomic Run On (GRO)	20	osmotic stress	2
+
+File last modified: Thu Apr 25 2024

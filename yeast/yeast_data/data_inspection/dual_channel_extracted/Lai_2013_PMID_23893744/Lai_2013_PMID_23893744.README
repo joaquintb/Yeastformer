@@ -1,0 +1,29 @@
+Citation: Lai X, Beilharz T, Au WC, Hammet A, Preiss T, Basrai MA, Heierhorst J. 2013. Yeast hEST1A/
+B (SMG5/6)-like proteins contribute to environment-sensing adaptive  gene expression 
+responses.
+
+Full Description: During its natural life cycle, budding yeast (Saccharomyces cerevisiae) has to adapt to 
+drastically changing environments, but how environmental-sensing pathways are linked to 
+adaptive gene expression changes remains incompletely understood. Here, we describe two 
+closely related yeast hEST1A-B (SMG5-6)-like proteins termed Esl1 and Esl2 that contain a 
+14-3-3-like domain and a putative PilT N-terminus ribonuclease domain. We found that, 
+unlike their metazoan orthologs, Esl1 and Esl2 were not involved in nonsense-mediated mRNA
+decay or telomere maintenance pathways. However, in genome-wide expression array analyses
+, absence of Esl1 and Esl2 led to more than two-fold deregulation of approximately  50 
+transcripts, most of which were expressed inversely to the appropriate metabolic response 
+to environmental nutrient supply; for instance, normally glucose-repressed genes were 
+derepressed in esl1Delta esl2Delta double mutants during growth in a high-glucose 
+environment. Likewise, in a genome-wide synthetic gene array screen, esl1Delta esl2Delta 
+double mutants were synthetic sick with null mutations for Rim8 and Dfg16, which form the 
+environmental-sensing complex of the Rim101 pH response gene expression pathway. Overall, 
+these results suggest that Esl1 and Esl2 contribute to the regulation of adaptive gene 
+expression responses of environmental sensing pathways.
+
+PMID: 23893744
+
+GEO ID: GSE48956.remapped.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE48956.remapped.final.pcl	Yeast hEST1A/B (SMG5/6)-like proteins contribute to environment-sensing adaptive  gene expression responses.	4	environmental-sensing|metabolism	2
+
+File last modified: Thu Apr 25 2024

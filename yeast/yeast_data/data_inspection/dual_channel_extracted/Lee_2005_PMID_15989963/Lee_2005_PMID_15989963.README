@@ -1,0 +1,15 @@
+Citation: Lee A, Henras AK, Chanfreau G. 2005. Multiple RNA surveillance pathways limit aberrant 
+expression of iron uptake mRNAs and prevent iron toxicity in S. cerevisiae.
+
+Full Description: Expression profiling of isogenic strains lacking <i>Rnt1p</i>, a member of the RNase III 
+family of double-stranded RNA endonucleases. Results identify potential <i>Rnt1p</i> mRNA 
+targets.
+
+PMID: 15989963
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Lee05.filter.flt.knn.avg.div.log.pcl	<i>rnt1</i> null mutant expression profile	9	RNA catabolism	2
+
+File last modified: Thu Apr 25 2024

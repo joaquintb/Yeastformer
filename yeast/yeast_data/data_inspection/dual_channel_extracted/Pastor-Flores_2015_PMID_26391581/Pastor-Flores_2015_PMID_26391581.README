@@ -1,0 +1,32 @@
+Citation: Pastor-Flores D, Ferrer-Dalmau J, Bahi A, Boleda M, Biondi RM, Casamayor A. 2015. 
+Depletion of yeast PDK1 orthologs triggers a stress-like transcriptional response.
+
+Full Description: BACKGROUND: Pkh proteins are the PDK1 orthologs in S. cerevisiae. They have redundant and 
+essential activity and are responsible for the phosphorylation of several members of the 
+AGC family of protein kinases. Pkh proteins have been involved in several cellular 
+functions, including cell wall integrity and endocytosis. However the global expression 
+changes caused by their depletion are  still unknown. RESULTS: A doxycycline-repressible 
+tetO7 promoter driving the expression of PKH2 in cells carrying deletions of the PKH1 and 
+PKH3 genes allowed us to progressively deplete cells from Pkh proteins when treated with 
+doxycycline. Global gene expression analysis indicate that depletion of Pkh results in the
+up-regulation of genes involved in the accumulation of glycogen and also of those related 
+to stress responses. Moreover, genes involved in the ion transport were quickly down-
+regulated when the levels of Pkh decreased. The reduction in the mRNA levels required for 
+protein translation, however, was only  observed after longer doxycycline treatment (24 h
+). We uncovered that Pkh is important for the proper transcriptional response to heat 
+shock, and is mostly required for the effects driven by the transcription factors Hsf1 and
+Msn2/Msn4,  but is not required for down-regulation of the mRNA coding for ribosomal 
+proteins. CONCLUSIONS: By using the tetO7 promoter we elucidated for the first time the 
+transcriptomic changes directly or indirectly caused by progressive depletion of Pkh. 
+Furthermore, this system enabled the characterization of the transcriptional response 
+triggered by heat shock in wild-type and Pkh-depleted cells, showing that about 40 % of 
+the observed expression changes were, to some degree, dependent on Pkh.
+
+PMID: 26391581
+
+GEO ID: GSE32623.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE32623.final.pcl	Depletion of yeast PDK1 orthologs triggers a stress-like transcriptional response.	8	protein phosphorylation|heat shock	2
+
+File last modified: Thu Apr 25 2024

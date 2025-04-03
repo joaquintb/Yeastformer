@@ -1,0 +1,35 @@
+Citation: Apweiler E, Sameith K, Margaritis T, Brabers N, van de Pasch L, Bakker LV, van Leenen D, 
+Holstege FC, Kemmeren P. 2012. Yeast glucose pathways converge on the transcriptional 
+regulation of trehalose biosynthesis.
+
+Full Description: BACKGROUND: Cellular glucose availability is crucial for the functioning of most  
+biological processes. Our understanding of the glucose regulatory system has been greatly 
+advanced by studying the model organism Saccharomyces cerevisiae, but many aspects of this
+system remain elusive. To understand the organisation of the glucose regulatory system, we
+analysed 91 deletion mutants of the different glucose signalling and metabolic pathways in
+Saccharomyces cerevisiae using DNA microarrays. RESULTS: In general, the mutations do not 
+induce pathway-specific transcriptional responses. Instead, one main transcriptional 
+response is discerned, which varies in direction to mimic either a high or a low glucose 
+response. Detailed analysis uncovers established and new relationships within and between 
+individual pathways and their members. In contrast to signalling components, metabolic 
+components of the glucose regulatory system are transcriptionally more frequently affected
+. A new network approach is applied that exposes the hierarchical organisation of the 
+glucose regulatory system. CONCLUSIONS: The tight interconnection between the different 
+pathways of the glucose regulatory system is reflected by the main transcriptional 
+response observed. Tps2 and Tsl1, two enzymes involved in the biosynthesis of the storage
+carbohydrate trehalose, are predicted to be the most downstream transcriptional components
+. Epistasis analysis of tps2Delta double mutants supports this prediction. Although based 
+on transcriptional changes only, these results suggest that all changes in perceived 
+glucose levels ultimately lead to a shift in trehalose biosynthesis.
+
+PMID: 22697265
+
+GEO ID: GSE33098
+
+PCL filename	short description	# conditions	tags	# channels
+GSE33098_final.pcl	Yeast glucose pathways converge on the transcriptional regulation of trehalose biosynthesis.	18	carbon utilization	2
+
+File last modified: Thu Apr 25 2024
+GSE33097_s257_final.pcl	Yeast glucose pathways converge on the transcriptional regulation of trehalose biosynthesis.	257	carbon utilization|signaling	2
+
+File last modified: Thu Apr 25 2024

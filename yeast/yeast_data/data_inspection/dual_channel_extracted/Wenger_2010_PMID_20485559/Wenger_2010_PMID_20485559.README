@@ -1,0 +1,34 @@
+Citation: Wenger JW, Schwartz K, Sherlock G. 2010. Bulk segregant analysis by high-throughput 
+sequencing reveals a novel xylose utilization gene from Saccharomyces cerevisiae.
+
+Full Description: Fermentation of xylose is a fundamental requirement for the efficient production  of 
+ethanol from lignocellulosic biomass sources. Although they aggressively ferment hexoses, 
+it has long been thought that native Saccharomyces cerevisiae strains cannot grow 
+fermentatively or non-fermentatively on xylose. Population surveys have uncovered a few 
+naturally occurring strains that are weakly xylose-positive, and some S. cerevisiae have 
+been genetically engineered to ferment xylose, but no strain, either natural or engineered
+, has yet been reported to ferment xylose as efficiently as glucose. Here, we used a 
+medium-throughput screen to identify Saccharomyces strains that can increase in optical 
+density when xylose is presented as the sole carbon source. We identified 38 strains that 
+have this xylose utilization phenotype, including strains of S. cerevisiae, other sensu 
+stricto members, and hybrids between them. All the S. cerevisiae xylose-utilizing strains 
+we identified are wine yeasts, and for those  that could produce meiotic progeny, the 
+xylose phenotype segregates as a single gene trait. We mapped this gene by Bulk Segregant 
+Analysis (BSA) using tiling microarrays and high-throughput sequencing. The gene is a 
+putative xylitol dehydrogenase, which we name XDH1, and is located in the subtelomeric 
+region of the right end of chromosome XV in a region not present in the S288c reference 
+genome. We further characterized the xylose phenotype by performing gene expression 
+microarrays and by genetically dissecting the endogenous Saccharomyces xylose pathway. We 
+have demonstrated that natural S. cerevisiae yeasts are capable of utilizing xylose as the
+sole carbon source, characterized the genetic  basis for this trait as well as the 
+endogenous xylose utilization pathway, and demonstrated the feasibility of BSA using high-
+throughput sequencing.
+
+PMID: 20485559
+
+GEO ID: GSE19116.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE19116.final.pcl	Bulk segregant analysis by high-throughput sequencing reveals a novel xylose utilization gene from Saccharomyces cerevisiae.	135	carbon utilization|fermentation	2
+
+File last modified: Thu Apr 25 2024

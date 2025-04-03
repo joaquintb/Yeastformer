@@ -1,0 +1,17 @@
+Citation: Pitkanen JP, Torma A, Alff S, Huopaniemi L, Mattila P, Renkonen R. 2004. Excess mannose 
+limits the growth of phosphomannose isomerase PMI40 deletion strain of Saccharomyces 
+cerevisiae.
+
+Full Description: Expression profiling of a phosphomannose isomerase <i>pmi40</i> deletion strain growing on
+media with various mannose concentrations up to 5 g/liter. Results provide insight into 
+the cause of slow growth exhibited by the <i>pmi40</i> deletion strain in media with 
+excess mannose.
+
+PMID: 15520001
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Pitkanen04.filter.flt.knn.avg.div.log.pcl	Phosphomannose isomerase <i>pmi40</i> deletion strain response to excess mannose	15	carbon utilization|protein glycosylation	2
+
+File last modified: Thu Apr 25 2024

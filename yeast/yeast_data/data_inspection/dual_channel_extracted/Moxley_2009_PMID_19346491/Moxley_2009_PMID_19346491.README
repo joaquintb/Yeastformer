@@ -1,0 +1,41 @@
+Citation: Moxley JF, Jewett MC, Antoniewicz MR, Villas-Boas SG, Alper H, Wheeler RT, Tong L, 
+Hinnebusch AG, Ideker T, Nielsen J, Stephanopoulos G. 2009. Linking high-resolution 
+metabolic flux phenotypes and transcriptional regulation  in yeast modulated by the global
+regulator Gcn4p.
+
+Full Description: Genome sequencing dramatically increased our ability to understand cellular response to 
+perturbation. Integrating system-wide measurements such as gene expression with networks 
+of protein-protein interactions and transcription factor binding revealed critical 
+insights into cellular behavior. However, the potential of systems biology approaches is 
+limited by difficulties in integrating metabolic measurements across the functional levels
+of the cell despite their being most closely linked to cellular phenotype. To address this
+limitation, we developed a  model-based approach to correlate mRNA and metabolic flux data
+that combines information from both interaction network models and flux determination 
+models. We started by quantifying 5,764 mRNAs, 54 metabolites, and 83 experimental (13)C-
+based reaction fluxes in continuous cultures of yeast under stress in the absence or 
+presence of global regulator Gcn4p. Although mRNA expression alone did not directly 
+predict metabolic response, this correlation improved through incorporating a network-
+based model of amino acid biosynthesis (from r = 0.07 to  0.80 for mRNA-flux agreement). 
+The model provides evidence of general biological  principles: rewiring of metabolic flux
+(i.e., use of different reaction pathways) by transcriptional regulation and metabolite 
+interaction density (i.e., level of  pairwise metabolite-protein interactions) as a key 
+biosynthetic control determinant. Furthermore, this model predicted flux rewiring in 
+studies of follow-on transcriptional regulators that were experimentally validated with 
+additional (13)C-based flux measurements. As a first step in linking metabolic control and
+genetic regulatory networks, this model underscores the importance of integrating diverse 
+data types in large-scale cellular models. We anticipate that an integrated approach 
+focusing on metabolic measurements will facilitate construction of more realistic models 
+of cellular regulation for understanding diseases and constructing strains for industrial 
+applications.
+
+PMID: 19346491
+
+GEO ID: GSE4709.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE4709.final.pcl	Linking high-resolution metabolic flux phenotypes and transcriptional regulation  in yeast modulated by the global regulator Gcn4p.	6	transcription|stress|nutrient utilization|carbon utilization	1
+
+File last modified: Thu Apr 25 2024
+GSE7369.final.pcl	Linking high-resolution metabolic flux phenotypes and transcriptional regulation  in yeast modulated by the global regulator Gcn4p.	4	amino acid utilization	2
+
+File last modified: Thu Apr 25 2024

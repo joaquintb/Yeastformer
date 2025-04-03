@@ -1,0 +1,15 @@
+Citation: Keller G, Ray E, Brown PO, Winge DR. 2001. Haa1, a protein homologous to the copper-
+regulated transcription factor Ace1, is a novel transcriptional activator.
+
+Full Description: Microarray experiments were carried out to determine whether <i>Haa1</i> is a 
+transcription factor and to identify any potential target genes. <i>Haa1</i> was found to 
+be a transcriptional activator of a set of genes encoding membrane stress proteins.
+
+PMID: 11504737
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Keller01.flt.knn.avg.pcl	<i>Haa1</i> analysis	4	metal or metalloid ion stress|starvation|stress|transcription	2
+
+File last modified: Thu Apr 25 2024

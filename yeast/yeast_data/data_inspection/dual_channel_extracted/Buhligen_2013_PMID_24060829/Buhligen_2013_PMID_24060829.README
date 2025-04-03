@@ -1,0 +1,29 @@
+Citation: Buhligen F, Rudinger P, Fetzer I, Stahl F, Scheper T, Harms H, Muller S. 2013. 
+Sustainability of industrial yeast serial repitching practice studied by gene expression 
+and correlation analysis.
+
+Full Description: Bottom-fermenting Saccharomyces pastorianus strains driving brewing fermentation  
+processes are usually reused several times. It is still unclear, whether the number of 
+successions may have an impact on cell physiology prompting consequences for brewing 
+quality. In this study, fermentation performance of up to twenty consecutive runs in a 
+brewery was investigated. For each run mRNA expression levels of cellular marker molecules
+, which are known to correlate with metabolism, hexose transport, aging processes, stress 
+response mechanisms and flocculation capability was estimated to obtain information on 
+changes in cell physiology over the successive runs. Low-density microarrays were used for
+this purpose and the resulting gene expression profiles were finally correlated with 
+changes in the abiotic micro-environments. A surprising stability of the marker molecule 
+expression profiles within each specific serial repitching was stated. Loss of 
+flocculation or an advanced aging could not be detected during serial repitching in the 
+analyzed brewery. However, certain runs of the serial repitchings showed high variation in
+stress response which was found to be caused by perturbations of the abiotic conditions. 
+Regardless, the study showed that S.  pastorianus can be used repeatedly in serial 
+repitching processes without loss of prominent physiological characteristics.
+
+PMID: 24060829
+
+GEO ID: GSE45950.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE45950.final.pcl	Sustainability of industrial yeast serial repitching practice studied by gene expression and correlation analysis.	8	fermentation|evolution	2
+
+File last modified: Thu Apr 25 2024

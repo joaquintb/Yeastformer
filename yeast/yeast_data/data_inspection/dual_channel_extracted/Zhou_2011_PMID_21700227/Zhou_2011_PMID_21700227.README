@@ -1,0 +1,25 @@
+Citation: Zhou X, O'Shea EK. 2011. Integrated approaches reveal determinants of genome-wide binding 
+and function of  the transcription factor Pho4.
+
+Full Description: DNA sequences with high affinity for transcription factors occur more frequently  in the 
+genome than instances of genes bound or regulated by these factors. It is  not clear what 
+factors determine the genome-wide pattern of binding or regulation for a given 
+transcription factor. We used an integrated approach to study how trans influences shape 
+the binding and regulatory landscape of Pho4, a budding yeast transcription factor 
+activated in response to phosphate limitation. We find that nucleosomes significantly 
+restrict Pho4 binding. At nucleosome-depleted sites, competition from another 
+transcription factor, Cbf1, determines Pho4 occupancy, raising the threshold for 
+transcriptional activation in phosphate replete conditions and preventing Pho4 activation 
+of genes outside the phosphate  regulon during phosphate starvation. Pho4 binding is not 
+sufficient for transcriptional activation-a cooperative interaction between Pho2 and Pho4 
+specifies genes that are activated. Combining these experimental observations, we are able
+to globally predict Pho4 binding and its functionality.
+
+PMID: 21700227
+
+GEO ID: GSE23580
+
+PCL filename	short description	# conditions	tags	# channels
+GSE23580_final.pcl	Integrated approaches reveal determinants of genome-wide binding and function of  the transcription factor Pho4.	66	oxygen level alteration|phosphorus utilization|transcription	2
+
+File last modified: Thu Apr 25 2024

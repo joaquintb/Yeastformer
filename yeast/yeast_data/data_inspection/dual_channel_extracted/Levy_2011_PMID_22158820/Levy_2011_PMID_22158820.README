@@ -1,0 +1,23 @@
+Citation: Levy S, Kafri M, Carmi M, Barkai N. 2011. The competitive advantage of a dual-transporter 
+system.
+
+Full Description: Cells use transporters of different affinities to regulate nutrient influx. When  
+nutrients are depleted, low-affinity transporters are replaced by high-affinity ones. High
+-affinity transporters are helpful when concentrations of nutrients are low, but the 
+advantage of reducing their abundance when nutrients are abundant is less clear. When we 
+eliminated such reduced production of the Saccharomyces cerevisiae high-affinity 
+transporters for phosphate and zinc, the elapsed time from the initiation of the 
+starvation program until the lack of nutrients limited growth was shortened, and recovery 
+from starvation was delayed. The latter phenotype was rescued by constitutive activation 
+of the starvation program. Dual-transporter systems appear to prolong preparation for 
+starvation and to facilitate subsequent recovery, which may optimize sensing of nutrient 
+depletion  by integrating internal and external information about nutrient availability.
+
+PMID: 22158820
+
+GEO ID: GSE32067.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE32067.final.pcl	The competitive advantage of a dual-transporter system.	16	phosphorus utilization|metal or metalloid ion utilization	2
+
+File last modified: Thu Apr 25 2024

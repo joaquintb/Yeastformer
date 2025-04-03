@@ -1,0 +1,38 @@
+Citation: Geijer C, Pirkov I, Vongsangnak W, Ericsson A, Nielsen J, Krantz M, Hohmann S. 2012. Time 
+course gene expression profiling of yeast spore germination reveals a network of 
+transcription factors orchestrating the global response.
+
+Full Description: BACKGROUND: Spore germination of the yeast Saccharomyces cerevisiae is a multi-step 
+developmental path on which dormant spores re-enter the mitotic cell cycle and resume 
+vegetative growth. Upon addition of a fermentable carbon source  and nutrients, the outer 
+layers of the protective spore wall are locally degraded, the tightly packed spore gains 
+volume and an elongated shape, and eventually the germinating spore re-enters the cell 
+cycle. The regulatory pathways driving this process are still largely unknown. Here we 
+characterize the global gene expression profiles of germinating spores and identify 
+potential transcriptional regulators of this process with the aim to increase our 
+understanding of the mechanisms that control the transition from cellular dormancy to 
+proliferation. RESULTS: Employing detailed gene expression time course data we have 
+analysed the reprogramming of dormant spores during the transition to proliferation 
+stimulated by a rich growth medium or pure glucose. Exit from dormancy results in rapid 
+and global changes consisting of different sequential gene expression subprograms. The 
+regulated genes reflect the transition towards glucose metabolism, the resumption of 
+growth and the release of stress, similar to cells exiting a stationary growth phase. High
+resolution time course analysis during the onset of germination allowed us to identify a 
+transient up-regulation of genes involved in protein folding and transport. We also 
+identified a network of transcription factors that may be regulating the global response. 
+While the expression outputs following stimulation by rich glucose medium or by glucose 
+alone are qualitatively similar, the response to rich medium is stronger. Moreover, spores
+sense and react to amino acid starvation within the first 30 min after germination 
+initiation, and this response can be linked to specific transcription factors. CONCLUSIONS
+: Resumption of growth in germinating spores is characterized by a highly synchronized 
+temporal organisation of up- and down-regulated genes which reflects the metabolic 
+reshaping of the quickening spores.
+
+PMID: 23066959
+
+GEO ID: GSE29960
+
+PCL filename	short description	# conditions	tags	# channels
+GSE29960_final.pcl	Time course gene expression profiling of yeast spore germination reveals a network of transcription factors orchestrating the global response.	18	carbon utilization|nutrient utilization|sporulation	2
+
+File last modified: Thu Apr 25 2024

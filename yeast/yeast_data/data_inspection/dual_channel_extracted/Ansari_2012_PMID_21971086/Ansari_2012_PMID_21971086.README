@@ -1,0 +1,27 @@
+Citation: Ansari SA, Ganapathi M, Benschop JJ, Holstege FC, Wade JT, Morse RH. 2012. Distinct role 
+of Mediator tail module in regulation of SAGA-dependent, TATA-containing genes in yeast.
+
+Full Description: The evolutionarily conserved Mediator complex is required for transcription of nearly all 
+RNA Pol II-dependent promoters, with the tail module serving to recruit Mediator to active
+promoters in current models. However, transcriptional  dependence on tail module subunits 
+varies in a gene-specific manner, and the generality of the tail module requirement for 
+transcriptional activation has not  been explored. Here, we show that tail module subunits
+function redundantly to recruit Mediator to promoters in yeast, and transcriptome analysis
+shows stronger effects on genome-wide expression in a double-tail subunit deletion mutant 
+than in single-subunit deletion mutants. Unexpectedly, TATA-containing and SAGA-dependent 
+genes were much more affected by impairment of tail module function than were TFIID-
+dependent genes. Consistent with this finding, Mediator  and preinitiation complex 
+association with SAGA-dependent promoters is substantially reduced in gal11/med15Delta 
+med3Delta yeast, whereas association of TBP, Pol II, and other Mediator modules with TFIID
+-dependent genes is largely independent of the tail module. Thus, we have identified a 
+connection between the Mediator tail module and the division of promoter dependence 
+between TFIID and SAGA.
+
+PMID: 21971086
+
+GEO ID: GSE31774
+
+PCL filename	short description	# conditions	tags	# channels
+GSE31774_final.pcl	Distinct role of Mediator tail module in regulation of SAGA-dependent, TATA-containing genes in yeast.	21	transcription	2
+
+File last modified: Thu Apr 25 2024

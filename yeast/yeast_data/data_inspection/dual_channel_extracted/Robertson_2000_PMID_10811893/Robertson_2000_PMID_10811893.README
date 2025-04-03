@@ -1,0 +1,14 @@
+Citation: Robertson LS, Causton HC, Young RA, Fink GR. 2000. The yeast A kinases differentially 
+regulate iron uptake and respiratory function.
+
+Full Description: Study of <i>TPK1</i> (alternate name for YJL164C), <i>TPK2</i> (alternate name for YPL203W
+), and <i>TPK3</i> (YRL166C) mutants.
+
+PMID: 10811893
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Robertson00.filter.flt.knn.avg.div.log.pcl	<i>TPK1</i>, <i>TPK2</i>, <i>TPK3</i> mutants	12	protein phosphorylation|signaling	2
+
+File last modified: Thu Apr 25 2024

@@ -1,0 +1,31 @@
+Citation: Gopinath RK, You ST, Chien KY, Swamy KB, Yu JS, Schuyler SC, Leu JY. 2014. The Hsp90-
+dependent proteome is conserved and enriched for hub proteins with high levels of protein-
+protein connectivity.
+
+Full Description: Hsp90 is one of the most abundant and conserved proteins in the cell. Reduced levels or 
+activity of Hsp90 causes defects in many cellular processes and also reveals genetic and 
+nongenetic variation within a population. Despite information about Hsp90 protein-protein 
+interactions, a global view of the Hsp90-regulated proteome in yeast is unavailable. To 
+investigate the degree of dependency of individual yeast proteins on Hsp90, we used the 
+stable isotope labeling by amino acids in cell culture method coupled with mass 
+spectrometry to quantify around 4,000 proteins in low-Hsp90 cells. We observed that 904 
+proteins changed in their abundance by more than 1.5-fold. When compared with the 
+transcriptome of the same population of cells, two-thirds of the misregulated proteins 
+were observed to be  affected posttranscriptionally, of which the majority were 
+downregulated. Further analyses indicated that the downregulated proteins are highly 
+conserved and assume central roles in cellular networks with a high number of protein 
+interacting partners, suggesting that Hsp90 buffers genetic and nongenetic variation 
+through regulating protein network hubs. The downregulated proteins were enriched for 
+essential proteins previously not known to be Hsp90-dependent.  Finally, we observed that 
+downregulation of transcription factors and mating pathway components by attenuating Hsp90
+function led to decreased target gene expression and pheromone response, respectively, 
+providing a direct link between  observed proteome regulation and cellular phenotypes.
+
+PMID: 25316598
+
+GEO ID: GSE56186.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE56186.final.pcl	The Hsp90-dependent proteome is conserved and enriched for hub proteins with high levels of protein-protein connectivity.	6	heat shock	2
+
+File last modified: Thu Apr 25 2024

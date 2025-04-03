@@ -1,0 +1,32 @@
+Citation: Renaud-Young M, Lloyd DC, Chatfield-Reed K, George I, Chua G, Cobb J. 2015. The NuA4 
+complex promotes translesion synthesis (TLS)-mediated DNA damage tolerance.
+
+Full Description: Lesions in DNA can block replication fork progression, leading to its collapse and gross 
+chromosomal rearrangements. To circumvent such outcomes, the DNA damage tolerance (DDT) 
+pathway becomes engaged, allowing the replisome to bypass a lesion and complete S phase. 
+Chromatin remodeling complexes have been implicated  in the DDT pathways, and here we 
+identify the NuA4 remodeler, which is a histone  acetyltransferase, to function on the 
+translesion synthesis (TLS) branch of DDT.  Genetic analyses in Saccharomyces cerevisiae 
+showed synergistic sensitivity to MMS when NuA4 alleles, esa1-L254P and yng2Delta, were 
+combined with the error-free bypass mutant ubc13Delta. The loss of viability was less 
+pronounced when NuA4 complex mutants were disrupted in combination with error-prone/TLS 
+factors, such as rev3Delta, suggesting an epistatic relationship between NuA4 and error-
+prone bypass. Consistent with cellular viability measurements, replication  profiles after
+exposure to MMS indicated that small regions of unreplicated DNA or damage were present to
+a greater extent in esa1-L254P/ubc13Delta mutants, which persist beyond the completion of 
+bulk replication compared to esa1-L254P/rev3Delta. The critical role of NuA4 in error-
+prone bypass is functional even after the bulk of replication is complete. Underscoring 
+this observation, when Yng2 expression is restricted specifically to G2/M of the cell  
+cycle, viability and TLS-dependent mutagenesis rates were restored. Lastly, disruption of 
+HTZ1, which is a target of NuA4, also resulted in mutagenic rates of reversion on level 
+with esa1-L254P and yng2Delta mutants, indicating that the  histone variant H2A.Z 
+functions in vivo on the TLS branch of DDT.
+
+PMID: 25701288
+
+GEO ID: GSE66176.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE66176.final.pcl	The NuA4 complex promotes translesion synthesis (TLS)-mediated DNA damage tolerance.	16	DNA replication, recombination and repair|DNA damage stimulus	2
+
+File last modified: Thu Apr 25 2024

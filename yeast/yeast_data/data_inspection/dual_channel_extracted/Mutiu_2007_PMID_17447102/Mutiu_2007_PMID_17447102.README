@@ -1,0 +1,30 @@
+Citation: Mutiu AI, Hoke SM, Genereaux J, Liang G, Brandl CJ. 2007. The role of histone 
+ubiquitylation and deubiquitylation in gene expression as determined by the analysis of an
+HTB1(K123R) Saccharomyces cerevisiae strain.
+
+Full Description: In Saccharomyces cerevisiae histone H2B is ubiquitylated at lysine 123 in a process 
+requiring the E2-ubiquitin conjugase, Rad6. We have analyzed gene expression in a strain 
+containing a variant of histone H2B with lysine 123 converted to arginine to address the 
+mechanisms by which ubiquitylation and deubiquitylation of histone H2B affect gene 
+expression. The SAGA complex component, Ubp8, is one of two proteases that remove the 
+ubiquitin moiety at lysine 123. We show that changes in gene expression observed upon 
+deletion of ubp8 are suppressed by htb1 ( K123R ), which provides genetic evidence that 
+Ubp8 alters gene expression through deubiquitylation of histone H2B. Microarray analyses 
+of the htb1 ( K123R ) strain show that loss of histone ubiquitylation results in a twofold
+or greater change in expression of approximately 1.5% of the protein coding genes with 
+approximately 75% of these increasing. For genes in which ubiquitylation represses 
+expression, ubiquitylation principally acts through its effects on histone methylation. In
+contrast, decreased expression of the CWP1 gene was not paralleled by deletions of 
+methyltransferase components and is thus likely independent of methylation. Finally, by 
+comparing gene expression changes in the htb1 ( K123R ) strain with those in a strain 
+deleted for rad6, we conclude that lysine 123 affects transcription primarily because of 
+it being a site of ubiquitylation.
+
+PMID: 17447102
+
+GEO ID: GSE6316
+
+PCL filename	short description	# conditions	tags	# channels
+GSE6316_setA_family.pcl	The role of histone ubiquitylation and deubiquitylation in gene expression as determined by the analysis of an HTB1(K123R) Saccharomyces cerevisiae strain.	9	histone modification|ubiquitin or ULP modification	2
+
+File last modified: Thu Apr 25 2024

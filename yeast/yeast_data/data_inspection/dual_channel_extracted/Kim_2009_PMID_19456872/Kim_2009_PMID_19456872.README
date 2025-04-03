@@ -1,0 +1,26 @@
+Citation: Kim HS, Huh J, Fay JC. 2009. Dissecting the pleiotropic consequences of a quantitative 
+trait nucleotide.
+
+Full Description: The downstream consequences of a single quantitative trait polymorphism can provide 
+important insight into the molecular basis of a trait. However, the molecular consequences
+of a polymorphism may be complex and only a subset of these may influence the trait of 
+interest. In natural isolates of Saccharomyces cerevisiae, a nonsynonymous polymorphism in
+cystathione beta-synthase (CYS4) causes a deficiency in both cysteine and glutathione that
+results in rust-colored colonies and drug-dependent growth defects. Using a single-
+nucleotide allele replacement, we characterized the effects of this polymorphism on gene 
+expression levels across the genome. To determine whether any of the differentially 
+expressed genes are necessary for the production of rust-colored colonies, we screened the
+yeast deletion collection for genes that enhance or suppress rust coloration. We found 
+that genes in the sulfur assimilation pathway are required for the production of rust 
+color but not the drug-sensitivity phenotype. Our results show that a single quantitative 
+trait polymorphism can generate a complex set of downstream changes, providing a molecular
+basis for pleiotropy.
+
+PMID: 19456872
+
+GEO ID: GSE14102
+
+PCL filename	short description	# conditions	tags	# channels
+GSE14102_setA_family.pcl	Dissecting the pleiotropic consequences of a quantitative trait nucleotide.	9	amino acid metabolism	2
+
+File last modified: Thu Apr 25 2024

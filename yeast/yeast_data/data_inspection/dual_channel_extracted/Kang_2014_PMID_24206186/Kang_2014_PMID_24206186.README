@@ -1,0 +1,29 @@
+Citation: Kang HJ, Jeong SJ, Kim KN, Baek IJ, Chang M, Kang CM, Park YS, Yun CW. 2014. A novel 
+protein, Pho92, has a conserved YTH domain and regulates phosphate metabolism by 
+decreasing the mRNA stability of PHO4 in Saccharomyces cerevisiae.
+
+Full Description: The homologue of human YTHDF2, Ydr374c (Pho92), is the only protein that has a YTH (YT521-
+B homology) domain in Saccharomyces cerevisiae. Based on microarray analysis, genes 
+involved in the phosphate signal transduction (PHO) pathway were  up-regulated in the 
+Deltapho92 strain, as were genes regulated by Pho4, which is  an important transcription 
+factor in the PHO pathway. To identify the exact mechanism of Pho92 action with respect to
+phosphate metabolism, we investigated the effect of Pho92 on PHO4 expression. The half-
+life of PHO4 mRNA was increased  in the Deltapho92 strain; this phenotype was also 
+observed in the deletion mutants UPF1 and POP2, which are components of the NMD (nonsense-
+mediated decay)  pathway and the Pop2-Ccr4-Not deadenylase complex respectively. Pho92 
+interacts physically with Pop2 of the Pop2-Ccr4-Not deadenylase complex. Furthermore, 
+Pho92 binding to the 3'-UTR of PHO4 was dependent on the phosphate concentration. Deletion
+of the PHO4 3'-UTR resulted in PHO4 mRNA resistance to Pho92-dependent degradation. The 
+results of the present study indicate that Pho92 regulates Pho4  expression at the post-
+transcriptional level via the regulation of mRNA stability. Taken together, Pho92 
+participates in cellular phosphate metabolism, specifically via the regulation of PHO4 
+mRNA stability by binding to the 3'-UTR in a phosphate-dependent manner.
+
+PMID: 24206186
+
+GEO ID: GSE50086.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE50086.final.pcl	A novel protein, Pho92, has a conserved YTH domain and regulates phosphate metabolism by decreasing the mRNA stability of PHO4 in Saccharomyces cerevisiae.	2	phosphorus utilization	2
+
+File last modified: Thu Apr 25 2024

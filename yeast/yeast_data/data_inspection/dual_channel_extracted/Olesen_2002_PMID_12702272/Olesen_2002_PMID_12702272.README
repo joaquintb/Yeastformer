@@ -1,0 +1,15 @@
+Citation: Olesen K, Felding T, Gjermansen C, Hansen J. 2002. The dynamics of the Saccharomyces 
+carlsbergensis brewing yeast transcriptome during a production-scale lager beer 
+fermentation.
+
+Full Description: Expression of brewing yeast during production scale lager beer fermentation.  Samples at 
+time points up to 264 hours.
+
+PMID: 12702272
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Olesen02.filter.flt.knn.avg.div.log.pcl	Fermentation time course	12	carbon utilization|fermentation	2
+
+File last modified: Thu Apr 25 2024

@@ -1,0 +1,27 @@
+Citation: Rachfall N, Schmitt K, Bandau S, Smolinski N, Ehrenreich A, Valerius O, Braus GH. 2013. 
+RACK1/Asc1p, a ribosomal node in cellular signaling.
+
+Full Description: RACK1/Asc1p and its essential orthologues in higher eukaryotes, such as RACK1 in  metazoa
+, are involved in several distinct cellular signaling processes. The implications of a 
+total deletion have never been assessed in a comprehensive manner. This study reveals the 
+major cellular processes affected in a Saccharomyces cerevisiae Deltaasc1 deletion 
+background via de novo proteome and transcriptome analysis, as well as subsequent 
+phenotypical characterizations. The deletion of ASC1 reduces iron uptake and causes 
+nitrosative stress, both known indicators for hypoxia, which manifests in a shift of 
+energy metabolism from respiration to fermentation in the Deltaasc1 strain. Asc1p further 
+impacts cellular metabolism through its regulative role in the MAP kinase signal 
+transduction pathways of invasive/filamentous growth and cell wall integrity. In  the 
+Deltaasc1 mutant strain, aberrations from the expected cellular response, mediated by 
+these pathways, can be observed and are linked to changes in protein  abundances of 
+pathway-targeted transcription factors. Evidence of the translational regulation of such 
+transcription factors suggests that ribosomal Asc1p is involved in signal transduction 
+pathways and controls the biosynthesis of the respective final transcriptional regulators.
+
+PMID: 23071099
+
+GEO ID: GSE34286
+
+PCL filename	short description	# conditions	tags	# channels
+GSE34286_final.pcl	RACK1/Asc1p, a ribosomal node in cellular signaling.	12	signaling	2
+
+File last modified: Thu Apr 25 2024

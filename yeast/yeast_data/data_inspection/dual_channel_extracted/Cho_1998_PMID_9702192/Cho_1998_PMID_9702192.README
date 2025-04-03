@@ -1,0 +1,17 @@
+Citation: Cho RJ, Campbell MJ, Winzeler EA, Steinmetz L, Conway A, Wodicka L, Wolfsberg TG, 
+Gabrielian AE, Landsman D, Lockhart DJ, Davis RW. 1998. A genome-wide transcriptional 
+analysis of the mitotic cell cycle.
+
+Full Description: Cell-cycle arrested yeast cells are synchronized by being held at a restrictive 
+temperature and then released at t=0. RNA expression via Affymetrix chips is measured 
+every 10 minutes until t=160. Data up to t=40 reflects temperature-induced as well as cell
+-cycle effects.
+
+PMID: 9702192
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Cho98.filter.flt.knn.avg.div.log.pcl	Mitotic cell cycle	17	mitotic cell cycle	2
+
+File last modified: Thu Apr 25 2024

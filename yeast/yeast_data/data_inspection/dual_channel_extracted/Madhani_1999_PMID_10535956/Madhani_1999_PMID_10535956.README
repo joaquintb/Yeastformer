@@ -1,0 +1,13 @@
+Citation: Madhani HD, Galitski T, Lander ES, Fink GR. 1999. Effectors of a developmental mitogen-
+activated protein kinase cascade revealed by expression signatures of signaling mutants.
+
+Full Description: Transcript levels in strains in which MAPK signaling was altered genetically.
+
+PMID: 10535956
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Madhani99.filter.flt.knn.avg.div.log.pcl	MAPK mutants	11	filamentous growth|signaling	2
+
+File last modified: Thu Apr 25 2024

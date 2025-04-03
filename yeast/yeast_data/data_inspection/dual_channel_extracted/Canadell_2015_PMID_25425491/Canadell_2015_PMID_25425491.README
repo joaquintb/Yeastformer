@@ -1,0 +1,28 @@
+Citation: Canadell D, Gonzalez A, Casado C, Arino J. 2015. Functional interactions between potassium
+and phosphate homeostasis in Saccharomyces cerevisiae.
+
+Full Description: Maintenance of ion homeostatic mechanisms is essential for living cells, including the 
+budding yeast Saccharomyces cerevisiae. Whereas the impact of changes in phosphate 
+metabolism on metal ion homeostasis has been recently examined, the inverse effect is 
+still largely unexplored. We show here that depletion of potassium from the medium or 
+alteration of diverse regulatory pathways controlling potassium uptake, such as the Trk 
+potassium transporters or  the Pma1 H(+) -ATPase, triggers a response that mimics that of 
+phosphate (Pi) deprivation, exemplified by accumulation of the high-affinity Pi 
+transporter Pho84. This response is mediated by and requires the integrity of the PHO 
+signaling pathway. Removal of potassium from the medium does not alter the amount of total
+or free intracellular Pi, but is accompanied by decreased ATP and ADP levels and rapid 
+depletion of cellular polyphosphates. Therefore, our data do not support the notion of Pi 
+being the major signaling molecule triggering phosphate-starvation responses. We also 
+observe that cells with compromised potassium uptake cannot grow under limiting Pi 
+conditions. The link between potassium and phosphate homeostasis reported here could 
+explain the invasive phenotype, characteristic of nutrient deprivation, observed in 
+potassium-deficient yeast cells.
+
+PMID: 25425491
+
+GEO ID: GSE58985.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE58985.final.pcl	Functional interactions between potassium and phosphate homeostasis in Saccharomyces cerevisiae.	3	cellular ion homeostasis|phosphorus utilization	2
+
+File last modified: Thu Apr 25 2024

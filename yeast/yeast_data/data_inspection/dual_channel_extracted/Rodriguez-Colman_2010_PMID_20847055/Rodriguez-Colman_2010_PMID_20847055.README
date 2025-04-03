@@ -1,0 +1,28 @@
+Citation: Rodriguez-Colman MJ, Reverter-Branchat G, Sorolla MA, Tamarit J, Ros J, Cabiscol E. 2010. 
+The forkhead transcription factor Hcm1 promotes mitochondrial biogenesis and stress 
+resistance in yeast.
+
+Full Description: In Saccharomyces cerevisiae, the forkhead transcription factor Hcm1 is involved in 
+chromosome segregation, spindle pole dynamics, and budding. We found that Hcm1 interacts 
+with the histone deacetylase Sir2 and shifts from cytoplasm to the nucleus in the G(1)/S 
+phase or in response to oxidative stress stimuli. The nuclear localization of Hcm1 depends
+on the activity of Sir2 as revealed by activators and inhibitors of the sirtuins and the 
+Deltasir2 mutant. Hcm1-overexpressing cells display more mitochondria that can be 
+attributed to increased amounts of Abf2, a protein involved in mitochondrial biogenesis. 
+These  cells also show higher rates of oxygen consumption and improved resistance to 
+oxidative stress that would be explained by increased catalase and Sod2 activities and 
+molecular chaperones such as Hsp26, Hsp30, and members of Hsp70 family. Microarray 
+analyses also reveal increased expression of genes involved in mitochondrial energy 
+pathways and those allowing the transition from the exponential to the stationary phase. 
+Taken together, these results describe a new and relevant role of Hcm1 for mitochondrial 
+functions, suggesting that this transcription factor would participate in the adaptation 
+of cells from fermentative to respiratory metabolism.
+
+PMID: 20847055
+
+GEO ID: GSE20420.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE20420.final.pcl	The forkhead transcription factor Hcm1 promotes mitochondrial biogenesis and stress resistance in yeast.	12	organelles, biogenesis, structure, and function|oxidative stress	2
+
+File last modified: Thu Apr 25 2024

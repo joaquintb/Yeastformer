@@ -1,0 +1,29 @@
+Citation: Tompa R, Madhani HD. 2007. Histone H3 lysine 36 methylation antagonizes silencing in 
+Saccharomyces cerevisiae independently of the Rpd3S histone deacetylase complex.
+
+Full Description: In yeast, methylation of histone H3 on lysine 36 (H3-K36) is catalyzed by the NSD1 
+leukemia oncoprotein homolog Set2. The histone deacetylase complex Rpd3S is recruited to 
+chromatin via binding of the chromodomain protein Eaf3 to methylated H3-K36 to prevent 
+erroneous transcription initiation. Here we identify a distinct function for H3-K36 
+methylation. We used random mutagenesis of histones H3 and H4 followed by a reporter-based
+screen to identify residues necessary to prevent the ectopic spread of silencing from the 
+silent mating-type locus HMRa into flanking euchromatin. Mutations in H3-K36 or deletion 
+of SET2 caused ectopic silencing of a heterochromatin-adjacent reporter. Transcriptional 
+profiling revealed that telomere-proximal genes are enriched for those that display 
+decreased expression in a set2Delta strain. Deletion of SIR4 rescued the expression defect
+of 26 of 37 telomere-proximal genes with reduced expression in set2Delta cells, implying 
+that H3-K36 methylation prevents the spread of telomeric silencing. Indeed, Sir3 spreads 
+from heterochromatin into neighboring euchromatin in set2Delta cells. Furthermore, genetic
+experiments demonstrated that cells lacking the Rpd3S-specific subunits Eaf3 or Rco1 did 
+not display the anti-silencing phenotype of mutations in SET2 or H3-K36. Thus, antagonism 
+of silencing is independent of the only known effector of this conserved histone 
+modification.
+
+PMID: 17179083
+
+GEO ID: GSE4934
+
+PCL filename	short description	# conditions	tags	# channels
+GSE4934_setA_family.pcl	Histone H3 lysine 36 methylation antagonizes silencing in Saccharomyces cerevisiae independently of the Rpd3S histone deacetylase complex.	8	chromatin organization|histone modification	2
+
+File last modified: Thu Apr 25 2024

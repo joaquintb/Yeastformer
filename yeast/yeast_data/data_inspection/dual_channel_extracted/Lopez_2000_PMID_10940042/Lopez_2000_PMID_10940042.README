@@ -1,0 +1,14 @@
+Citation: Lopez MC, Baker HV. 2000. Understanding the growth phenotype of the yeast gcr1 mutant in 
+terms of global genomic expression patterns.
+
+Full Description: The genomic expression patterns of wild-type and <i>gcr1</i> mutant yeast growing on 
+various media, with and without glucose.
+
+PMID: 10940042
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Lopez00.filter.flt.knn.avg.div.log.pcl	<i>gcr1</i> mutant, glucose exposure	17	carbon utilization|fermentation|respiration	2
+
+File last modified: Thu Apr 25 2024

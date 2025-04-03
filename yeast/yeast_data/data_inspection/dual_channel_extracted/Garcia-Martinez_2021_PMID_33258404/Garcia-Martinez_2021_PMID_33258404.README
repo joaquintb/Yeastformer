@@ -1,0 +1,29 @@
+Citation: Garcia-Martinez J, Perez-Martinez ME, Perez-Ortin JE, Alepuz P. 2021. Recruitment of Xrn1 
+to stress-induced genes allows efficient transcription by controlling RNA polymerase II 
+backtracking.
+
+Full Description: A new paradigm has emerged proposing that the crosstalk between nuclear transcription and 
+cytoplasmic mRNA stability keeps robust mRNA levels in cells under steady-state conditions
+. A key piece in this crosstalk is the highly conserved 5'-3' RNA exonuclease Xrn1, which 
+degrades most cytoplasmic mRNAs but also associates with nuclear chromatin to activate 
+transcription by not well-understood mechanisms. Here, we investigated the role of Xrn1 in
+the transcriptional response of Saccharomyces cerevisiae cells to osmotic stress. We  show
+that a lack of Xrn1 results in much lower transcriptional induction of the upregulated 
+genes but in similar high levels of their transcripts because of parallel mRNA 
+stabilization. Unexpectedly, lower transcription in xrn1 occurs with a higher accumulation
+of RNA polymerase II (RNAPII) at stress-inducible genes, suggesting that this polymerase 
+remains inactive backtracked. Xrn1 seems to be directly implicated in the formation of a 
+competent elongation complex because Xrn1 is recruited to the osmotic stress-upregulated 
+genes in parallel with the RNAPII complex, and both are dependent on the mitogen-activated
+protein  kinase Hog1. Our findings extend the role of Xrn1 in preventing the accumulation
+of inactive RNAPII at highly induced genes to other situations of rapid and strong 
+transcriptional upregulation.
+
+PMID: 33258404
+
+GEO ID: GSE151736.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE151736.final.pcl	Recruitment of Xrn1 to stress-induced genes allows efficient transcription by controlling RNA polymerase II backtracking.	10	transcriptional regulation	2
+
+File last modified: Thu Apr 25 2024

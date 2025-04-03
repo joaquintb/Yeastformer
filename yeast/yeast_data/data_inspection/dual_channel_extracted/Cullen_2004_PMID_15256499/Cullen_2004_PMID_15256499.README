@@ -1,0 +1,27 @@
+Citation: Cullen PJ, Sabbagh W Jr, Graham E, Irick MM, van Olden EK, Neal C, Delrow J, Bardwell L, 
+Sprague GF Jr. 2004. A signaling mucin at the head of the Cdc42- and MAPK-dependent 
+filamentous growth pathway in yeast.
+
+Full Description: Signaling molecules such as Cdc42 and mitogen-activated protein kinases (MAPKs) can 
+function in multiple pathways in the same cell. Here, we propose one mechanism by which 
+such factors may be directed to function in a particular pathway such that a specific 
+response is elicited. Using genomic approaches, we identify a new component of the Cdc42- 
+and MAPK-dependent signaling pathway that regulates filamentous growth (FG) in yeast. This
+factor, called Msb2, is a FG-pathway-specific factor that promotes differential activation
+of the MAPK for the FG pathway, Kss1. Msb2 is localized to polarized sites on the cell 
+surface and interacts with Cdc42 and with the osmosensor for the high osmolarity glycerol 
+response (HOG) pathway, Sho1. Msb2 is glycosylated and is a member of the mucin family, 
+proteins that in mammalian cells promote disease resistance and contribute to metastasis 
+in cancer cells. Remarkably, loss of the mucin domain of Msb2 causes hyperactivity of the 
+FG pathway, demonstrating an inhibitory role for mucin domains in MAPK pathway activation
+. Taken together, our data suggest that Msb2 is a signaling mucin that interacts with 
+general components, such as Cdc42 and Sho1, to promote their function in the FG pathway.
+
+PMID: 15256499
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.glycosylation.pcl	Effects of glycosylation defects on gene expression	2	filamentous growth|protein glycosylation|signaling	2
+
+File last modified: Thu Apr 25 2024

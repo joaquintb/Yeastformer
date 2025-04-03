@@ -1,0 +1,27 @@
+Citation: Navlakha S, Gitter A, Bar-Joseph Z. 2012. A network-based approach for predicting missing 
+pathway interactions.
+
+Full Description: Embedded within large-scale protein interaction networks are signaling pathways that 
+encode response cascades in the cell. Unfortunately, even for well-studied species like S
+. cerevisiae, only a fraction of all true protein interactions are  known, which makes it 
+difficult to reason about the exact flow of signals and the corresponding causal relations
+in the network. To help address this problem, we introduce a framework for predicting new 
+interactions that aid connectivity between upstream proteins (sources) and downstream 
+transcription factors (targets) of a particular pathway. Our algorithms attempt to 
+globally minimize the distance between sources and targets by finding a small set of 
+shortcut edges to add to the network. Unlike existing algorithms for predicting general 
+protein  interactions, by focusing on proteins involved in specific responses our approach
+homes-in on pathway-consistent interactions. We applied our method to extend pathways in 
+osmotic stress response in yeast and identified several missing interactions, some of 
+which are supported by published reports. We also performed experiments that support a 
+novel interaction not previously reported. Our framework is general and may be applicable 
+to edge prediction problems in other domains.
+
+PMID: 22916002
+
+GEO ID: GSE28213GPL14666.sfp.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE28213GPL14666.sfp.pcl	A network-based approach for predicting missing pathway interactions.	12	signaling|osmotic stress	2
+
+File last modified: Thu Apr 25 2024

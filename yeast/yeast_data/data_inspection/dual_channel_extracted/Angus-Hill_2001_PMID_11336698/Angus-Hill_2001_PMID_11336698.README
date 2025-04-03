@@ -1,0 +1,15 @@
+Citation: Angus-Hill ML, Schlichter A, Roberts D, Erdjument-Bromage H, Tempst P, Cairns BR. 2001. A 
+Rsc3/Rsc30 zinc cluster dimer reveals novel roles for the chromatin remodeler RSC in gene 
+expression and cell cycle control.
+
+Full Description: DNA microarray analysis with <i>rsc3</i> or <i>rsc30</i> mutants reveals different effects
+on the expression levels of ribosomal protein genes and cell wall genes.
+
+PMID: 11336698
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Angus01.flt.knn.avg.pcl	<i>rsc3</i>/<i>rsc30</i> knockouts	8	chromatin organization	2
+
+File last modified: Thu Apr 25 2024

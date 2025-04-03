@@ -1,0 +1,31 @@
+Citation: Gomar-Alba M, Morcillo-Parra MA, Olmo ML. 2015. Response of yeast cells to high glucose 
+involves molecular and physiological differences when compared to other osmostress 
+conditions.
+
+Full Description: Yeast cells can be affected by several causes of osmotic stress, such as high salt, 
+sorbitol or glucose concentrations. The last condition is particularly interesting during 
+natural processes where this microorganism participates. Response to osmostress requires 
+the HOG (High Osmolarity Glycerol) pathway and several transcription factors, including 
+Hot1, which plays a key role in high glucose concentrations. In this work, we describe how
+the yeast response to osmotic stress shows differences in accordance with the stress agent
+responsible  for it. Compared with other conditions, under high glucose stress, 
+delocalization of MAPK (Mitogen-Activated Protein Kinase) Hog1 is slower, induction of 
+HOT1 expression is higher and Msn2/4 transcription factors are involved to a lesser extent
+. The transcriptomic analyses carried out with samples incubated for 30 min in the 
+presence of high glucose or sorbitol reveal the presence of two functional categories with
+a differential expression between these conditions: glycogen biosynthesis and mobilization
+, and membrane-anchored proteins. We present data to demonstrate that the cells treated 
+with 20% (w/v) (1.11 M) glucose contain higher chitin levels and are more sensitive to 
+calcofluor white and ethanol.
+
+PMID: 26048894
+
+GEO ID: GSE59659.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE59659.final.pcl	Response of yeast cells to high glucose involves molecular and physiological differences when compared to other osmostress conditions.	4	osmotic stress|carbon utilization	2
+
+File last modified: Thu Apr 25 2024
+GSE68816.mapped.pcl	20% (w/v) Glucose osmotic stress (YP20) vs 1M Sorbitol osmotic stress (YPS) in a hot1delta mutant	4	osmotic stress	2
+
+File last modified: Thu Apr 25 2024

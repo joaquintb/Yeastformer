@@ -1,0 +1,35 @@
+Citation: Rodriguez-Quinones JF, Rodriguez-Medina JR. 2009. Differential gene expression signatures 
+for cell wall integrity found in chitin synthase II (chs2Delta) and myosin II (myo1Delta) 
+deficient cytokinesis mutants of Saccharomyces cerevisiae.
+
+Full Description: BACKGROUND: Myosin II-dependent contraction of the cytokinetic ring and primary septum 
+formation by chitin synthase II are interdependent processes during cytokinesis in 
+Saccharomyces cerevisiae. Hence, null mutants of myosin II (myo1Delta) and chitin synthase
+II (chs2Delta) share multiple morphological and molecular phenotypes. To understand the 
+nature of their interdependent functions, we will seek to identify genes undergoing 
+transcriptional regulation in chs2Delta strains and to establish a transcription signature
+profile for comparison with myo1Delta strains. RESULTS: A total of 467 genes were commonly
+regulated between myo1Delta and chs2Delta mutant strains (p <or= 0.01). Common regulated 
+biological process categories identified by Gene Set Enrichment Analysis (GSEA) in both 
+gene expression profiles were: protein biosynthesis, RNA processing, and stress response. 
+Expression of 17/20 genes in the main transcriptional fingerprint for cell wall stress was
+confirmed in the chs2Delta strain versus 5/20 for the myo1Delta strain. One of these genes
+, SLT2/MPK1, was up-regulated in both strains and both strains accumulated the 
+hyperphosphorylated form of Slt2p thereby confirming that the PKC1 cell wall integrity 
+pathway (CWIP) was activated by both mutations. The SLT2/MPK1 gene, essential for 
+myo1Delta strains, was not required in the chs2Delta strain. CONCLUSION: Comparison of the
+chs2Delta and myo1Delta gene expression profiles revealed similarities in the biological 
+process categories that respond to the chs2Delta and myo1Delta gene mutations. This 
+supports the view that these mutations affect a common function in cytokinesis. Despite 
+their similarities, these mutants exhibited significant differences in expression of the 
+main transcriptional fingerprint for cell wall stress and their requirement of the CWIP 
+for survival.
+
+PMID: 19426543
+
+GEO ID: GSE5931
+
+PCL filename	short description	# conditions	tags	# channels
+GSE5931_setA_family.pcl	Differential gene expression signatures for cell wall integrity found in chitin synthase II (chs2Delta) and myosin II (myo1Delta) deficient cytokinesis mutants of Saccharomyces cerevisiae.	6	signaling|stress	2
+
+File last modified: Thu Apr 25 2024

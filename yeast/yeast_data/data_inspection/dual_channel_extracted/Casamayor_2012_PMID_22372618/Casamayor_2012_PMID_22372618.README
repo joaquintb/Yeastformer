@@ -1,0 +1,31 @@
+Citation: Casamayor A, Serrano R, Platara M, Casado C, Ruiz A, Arino J. 2012. The role of the Snf1 
+kinase in the adaptive response of Saccharomyces cerevisiae  to alkaline pH stress.
+
+Full Description: Alkaline pH stress invokes a potent and fast transcriptional response in Saccharomyces 
+cerevisiae that includes many genes repressed by glucose. Certain mutants in the glucose-
+sensing and -response pathways, such as those lacking the  Snf1 kinase, are sensitive to 
+alkalinization. In the present study we show that the addition of glucose to the medium 
+improves the growth of wild-type cells at high pH, fully abolishes the snf1 alkali-
+sensitive phenotype and attenuates high  pH-induced Snf1 phosphorylation at Thr(210). Lack
+of Elm1, one of the three upstream Snf1 kinases (Tos3, Elm1 and Sak1), markedly increases 
+alkali sensitivity, whereas the phenotype of the triple mutant tos3 elm1 sak1 is even more
+pronounced than that of snf1 cells and is poorly rescued by glucose supplementation. DNA 
+microarray analysis reveals that about 75% of the genes induced in the short term by high 
+pH are also induced by glucose scarcity. Snf1 mediates, in full or in part, the activation
+of a significant subset (38%) of short-term alkali-induced genes, including those encoding
+high-affinity hexose transporters and phosphorylating enzymes. The induction of genes 
+encoding enzymes involved in glycogen, but not trehalose, metabolism is largely dependent 
+of the presence of Snf1. Therefore the function of Snf1 in adaptation to glucose scarcity 
+appears crucial for alkaline pH tolerance. Incorporation of micromolar amounts of iron and
+copper to a glucose-supplemented medium resulted in an additive effect and allows near-
+normal growth at high pH, thus indicating that these three nutrients are key limiting 
+factors for growth in an alkaline environment.
+
+PMID: 22372618
+
+GEO ID: GSE25697
+
+PCL filename	short description	# conditions	tags	# channels
+GSE25697_final.pcl	The role of the Snf1 kinase in the adaptive response of Saccharomyces cerevisiae  to alkaline pH stress.	12	stress|signaling|carbon utilization	2
+
+File last modified: Thu Apr 25 2024

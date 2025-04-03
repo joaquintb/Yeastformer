@@ -1,0 +1,15 @@
+Citation: Sapra AK, Arava Y, Khandelia P, Vijayraghavan U. 2004. Genome-wide analysis of pre-mRNA 
+splicing: intron features govern the requirement for the second-step factor, Prp17 in 
+Saccharomyces cerevisiae and Schizosaccharomyces pombe.
+
+Full Description: wt, <i>prp17</i> null, <i>prp17-1</i>, <i>prp22-1</i> at time points following a 
+temperature shift from permissive 23C to restrictive 37C.
+
+PMID: 15452114
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Sapra04.flt.knn.avg.pcl	Pre-mRNA splicing factor mutants at restrictive temperature time course	24	mRNA processing	2
+
+File last modified: Thu Apr 25 2024

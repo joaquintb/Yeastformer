@@ -1,0 +1,26 @@
+Citation: Yasokawa D, Murata S, Iwahashi Y, Kitagawa E, Nakagawa R, Hashido T, Iwahashi H. 2010. 
+Toxicity of methanol and formaldehyde towards Saccharomyces cerevisiae as assessed by DNA 
+microarray analysis.
+
+Full Description: To assess the toxicity of the C1 compounds methanol and formaldehyde, gene expression 
+profiles of treated baker's yeast were analyzed using DNA microarrays. Among approximately
+6,000 open reading frames (ORFs), 314 were repressed and 375  were induced in response to 
+methanol. The gene process category energy comprised the greatest number of induced genes 
+while protein synthesis comprised the greatest number of repressed genes. Products of 
+genes induced by methanol were mainly integral membrane proteins or were localized to the 
+plasma membrane. A total of 622 and 610 ORFs were induced or repressed by formaldehyde,  
+respectively. More than one-third of the genes found to be strongly repressed by  
+formaldehyde belonged to the protein synthesis functional category. Conversely, genes in 
+the subcategory of nitrogen, sulfur, and selenium metabolism within metabolism and in the 
+category of cell rescue, defense, and virulence were up-regulated by exposure to 
+formaldehyde. Our data suggest that membrane structure is a major target of methanol 
+toxicity, while proteins were major targets of formaldehyde toxicity.
+
+PMID: 19499198
+
+GEO ID: GSE9231.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE9231.final.pcl	Toxicity of methanol and formaldehyde towards Saccharomyces cerevisiae as assessed by DNA microarray analysis.	5	metal or metalloid ion stress	2
+
+File last modified: Thu Apr 25 2024

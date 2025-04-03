@@ -1,0 +1,17 @@
+Citation: Eriksson PR, Mendiratta G, McLaughlin NB, Wolfsberg TG, Marino-Ramirez L, Pompa TA, 
+Jainerin M, Landsman D, Shen CH, Clark DJ. 2005. Global regulation by the yeast Spt10 
+protein is mediated through chromatin structure and the histone upstream activating 
+sequence elements.
+
+Full Description: Expression profiling of mutants lacking <i>Spt10p</i>. <i>Spt10p</i> binds the upstream 
+activating sequences in all major core histone promoters. Results provide insight into the
+mechanism by which <i>Spt10p</i> acts as a global regulator of transcription.
+
+PMID: 16199888
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Eriksson05.filter.flt.knn.avg.div.log.pcl	<i>spt10</i> global transcription regulator null mutant	6	chromatin organization|histone modification	2
+
+File last modified: Thu Apr 25 2024

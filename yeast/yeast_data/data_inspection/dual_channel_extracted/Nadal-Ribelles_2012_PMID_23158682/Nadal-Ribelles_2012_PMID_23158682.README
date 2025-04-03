@@ -1,0 +1,30 @@
+Citation: Nadal-Ribelles M, Conde N, Flores O, Gonzalez-Vallinas J, Eyras E, Orozco M, de Nadal E, 
+Posas F. 2012. Hog1 bypasses stress-mediated down-regulation of transcription by RNA 
+polymerase  II redistribution and chromatin remodeling.
+
+Full Description: BACKGROUND: Cells are subjected to dramatic changes of gene expression upon environmental 
+changes. Stress causes a general down-regulation of gene expression together with the 
+induction of a set of stress-responsive genes. The p38-related  stress-activated protein 
+kinase Hog1 is an important regulator of transcription upon osmostress in yeast. RESULTS: 
+Genome-wide localization studies of RNA polymerase II (RNA Pol II) and Hog1 showed that 
+stress induced major changes in RNA Pol II localization, with a shift toward stress-
+responsive genes relative to  housekeeping genes. RNA Pol II relocalization required Hog1
+, which was also localized to stress-responsive loci. In addition to RNA Pol II-bound 
+genes, Hog1  also localized to RNA polymerase III-bound genes, pointing to a wider role 
+for Hog1 in transcriptional control than initially expected. Interestingly, an increasing 
+association of Hog1 with stress-responsive genes was strongly correlated with chromatin 
+remodeling and increased gene expression. Remarkably, MNase-Seq analysis showed that 
+although chromatin structure was not significantly altered at a genome-wide level in 
+response to stress, there was pronounced chromatin remodeling for those genes that 
+displayed Hog1 association. CONCLUSION: Hog1 serves to bypass the general down-regulation 
+of gene expression that occurs  in response to osmostress, and does so both by targeting 
+RNA Pol II machinery and by inducing chromatin remodeling at stress-responsive loci.
+
+PMID: 23158682
+
+GEO ID: GSE41451.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE41451.final.pcl	Hog1 bypasses stress-mediated down-regulation of transcription by RNA polymerase  II redistribution and chromatin remodeling.	3	osmotic stress|chromatin organization	2
+
+File last modified: Thu Apr 25 2024

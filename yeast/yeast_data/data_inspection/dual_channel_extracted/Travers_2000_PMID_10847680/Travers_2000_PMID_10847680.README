@@ -1,0 +1,23 @@
+Citation: Travers KJ, Patil CK, Wodicka L, Lockhart DJ, Weissman JS, Walter P. 2000. Functional and 
+genomic analyses reveal an essential coordination between the unfolded protein response 
+and ER-associated degradation.
+
+Full Description: The unfolded protein response (UPR) regulates gene expression in response to stress in the
+endoplasmic reticulum (ER). We determined the transcriptional scope of the UPR using DNA 
+microarrays. Rather than regulating only ER-resident chaperones and phospholipid 
+biosynthesis, as anticipated from earlier work, the UPR affects multiple ER and secretory 
+pathway functions. Studies of UPR targets engaged in ER-associated protein degradation (
+ERAD) reveal an intimate coordination between these responses: efficient ERAD requires an 
+intact UPR, and UPR induction increases ERAD capacity. Conversely, loss of ERAD leads to 
+constitutive UPR induction. Finally, simultaneous loss of ERAD and the UPR greatly 
+decreases cell viability. Thus, the UPR and ERAD are dynamic responses required for the 
+coordinated disposal of misfolded proteins even in the absence of acute stress.
+
+PMID: 10847680
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.unfolded_protein_response.pcl	Expression during the unfolded protein response	10	chemical stimulus|response to unfolded protein|stress	2
+
+File last modified: Thu Apr 25 2024

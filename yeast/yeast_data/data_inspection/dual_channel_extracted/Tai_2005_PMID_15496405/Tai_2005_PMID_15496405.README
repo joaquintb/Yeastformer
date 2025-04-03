@@ -1,0 +1,17 @@
+Citation: Tai SL, Boer VM, Daran-Lapujade P, Walsh MC, de Winde JH, Daran JM, Pronk JT. 2005. Two-
+dimensional transcriptome analysis in chemostat cultures. Combinatorial effects of oxygen 
+availability and macronutrient limitation in Saccharomyces cerevisiae.
+
+Full Description: Expression profiling of MATa CEN.PK113-7D chemostat cultures grown either aerobically or 
+anaerobically in media limited for either glucose, nitrogen, phosphorous, or sulfur. 
+Results provide insight into the interaction between oxygen and nutrient responsive 
+pathways.
+
+PMID: 15496405
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Tai05.filter.flt.knn.avg.div.log.pcl	Nutrient limitation under aerobic and anaerobic conditions	24	carbon utilization|fermentation|nitrogen utilization|oxygen level alteration|phosphorus utilization|respiration|sulfur utilization	2
+
+File last modified: Thu Apr 25 2024

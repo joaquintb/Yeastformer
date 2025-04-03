@@ -1,0 +1,28 @@
+Citation: van Attikum H, Fritsch O, Hohn B, Gasser SM. 2004. Recruitment of the INO80 complex by H2A,
+phosphorylation links ATP-dependent chromatin remodeling with DNA double-strand break 
+repair.
+
+Full Description: The budding yeast INO80 complex is a conserved ATP-dependent nucleosome remodeler 
+containing actin-related proteins Arp5 and Arp8. Strains lacking INO80, ARP5, or ARP8 have
+defects in transcription. Here we show that these mutants are hypersensitive to DNA 
+damaging agents and to double-strand breaks (DSBs) induced by the HO endonuclease. The 
+checkpoint response and most transcriptional modulation associated with induction of DNA 
+damage are unaffected by these mutations. Using chromatin immunoprecipitation we show that
+Ino80, Arp5, and Arp8 are recruited to an HO-induced DSB, where a phosphorylated form of 
+H2A accumulates. Recruitment of Ino80 is compromised in cells lacking the H2A 
+phosphoacceptor S129. Finally, we demonstrate that conversion of the DSB into ssDNA is 
+compromised in arp8 and H2A mutants, which are both deficient for INO80 activity at the 
+site of damage. These results implicate INO80-mediated chromatin remodeling directly at 
+DSBs, where it appears to facilitate processing of the lesion.
+
+PMID: 15607975
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Ino80Arp8.pcl	Gene regulation by Ino80 and Arp8	2	chromatin organization	2
+
+File last modified: Thu Apr 25 2024
+2010.MMSresponse.pcl	Gene regulation by Ino80 and Arp8 in response to MMS	3	chromatin organization|DNA damage stimulus	2
+
+File last modified: Thu Apr 25 2024

@@ -1,0 +1,19 @@
+Citation: Yamamoto A, Mizukami Y, Sakurai H. 2005. Identification of a novel class of target genes 
+and a novel type of binding sequence of heat shock transcription factor in Saccharomyces 
+cerevisiae.
+
+Full Description: Analysis of a heat shock transcription factor 1 (<i>HSF1</i>) temperature sensitive mutant
+strain subjected to heat stress at 33 degrees C. <i>HSF1</i> mutant contains an arginine 
+to serine and a phenylalanine to serine substitution at residues 206 and 256 respectively
+. Results identify novel targets of <i>HSF1</i
+
+>..
+
+PMID: 15647283
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Yamamoto05.filter.flt.knn.avg.div.log.pcl	Heat shock transcription factor 1 mutant response to heat stress	4	heat shock|transcription	2
+
+File last modified: Thu Apr 25 2024

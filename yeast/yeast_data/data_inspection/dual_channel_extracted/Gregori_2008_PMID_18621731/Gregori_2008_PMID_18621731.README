@@ -1,0 +1,28 @@
+Citation: Gregori C, Schuller C, Frohner IE, Ammerer G, Kuchler K. 2008. Weak organic acids trigger 
+conformational changes of the yeast transcription factor War1 in vivo to elicit stress 
+adaptation.
+
+Full Description: The Saccharomyces cerevisiae zinc cluster regulator War1 mediates an essential 
+transcriptional and adaptive response to weak organic acid stress. Here we investigate the
+mechanism of War1 activation upon weak acid stress. We identified several gain-of-function
+WAR1 alleles mapping to the central War1 region. These mutations constitutively increase 
+levels of the plasma membrane ABC transporter Pdr12, the main War1 target mediating stress
+adaptation. Functional analysis of War1 reveals that the central region and its C-terminal
+activation domain are required for function. Notably, the native DNA-binding and 
+dimerization domains appear dispensable for War1 activity, because they can be replaced by
+a LexA DNA-binding domain. Chromatin immunoprecipitation demonstrates elevated promoter  
+affinity of activated War1, because its PDR12 promoter association increases upon stress. 
+Hyperactive WAR1 alleles have constitutively high PDR12 promoter association. Furthermore
+, fluorescence resonance energy transfer of functional CFP-War1-YFP proteins also 
+demonstrates conformational changes of stress-activated War1 in vivo. Our results suggest 
+a mechanism whereby War1 activation is accompanied by conformational changes enhancing 
+promoter association, thus initiating the adaptation process.
+
+PMID: 18621731
+
+GEO ID: GSE8399.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE8399.final.pcl	Weak organic acids trigger conformational changes of the yeast transcription factor War1 in vivo to elicit stress adaptation.	3	chemical stimulus|stress	2
+
+File last modified: Thu Apr 25 2024

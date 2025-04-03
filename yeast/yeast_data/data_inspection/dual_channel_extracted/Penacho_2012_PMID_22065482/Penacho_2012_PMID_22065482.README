@@ -1,0 +1,30 @@
+Citation: Penacho V, Blondin B, Valero E, Gonzalez R. 2012. Flocculation and transcriptional 
+adaptation to fermentation conditions in a recombinant wine yeast strain defective for 
+KNR4/SMI1.
+
+Full Description: KNR4 defective recombinant wine yeast strains were previously shown to oversecrete 
+mannoproteins during alcoholic fermentation and, depending on the genetic background, to 
+contribute to protein stability of white wines. We have tried to get a deeper insight into
+the consequences of KNR4 deletion in a wine yeast strain, from both a biological and an 
+enological standpoint, and to understand the mechanisms leading to improved mannoprotein 
+release. In fermentation experiments, followed by aging on lees, and compared to the 
+parent strain, the recombinant strain shows increased release of mannoproteins during the 
+fermentation but little increase during aging. Mannoprotein release by the recombinant 
+strain takes place mainly during the fermentation step. In contrast,  autolysis of the 
+recombinant strain keeps going after aging for 78 days. In addition, the recombinant 
+strain is moderately flocculent, which would be interesting for the production of 
+sparkling wines. This might be related to changes in the expression of Flo1p-regulated 
+genes. The new biological processes  affected by KNR4 deletion in wine yeasts, as revealed
+by this transcriptomic study are flocculation, adaptation to anaerobiosis, oxidative 
+stress response, and ethanol tolerance, as well as FKS1 overexpression; but no 
+overexpression was  detected for genes coding for major structural mannoproteins of the 
+cell wall.
+
+PMID: 22065482
+
+GEO ID: GSE26965.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE26965.final.pcl	Flocculation and transcriptional adaptation to fermentation conditions in a recombinant wine yeast strain defective for KNR4/SMI1.	6	fermentation|cell wall organization	2
+
+File last modified: Thu Apr 25 2024

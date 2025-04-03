@@ -1,0 +1,30 @@
+Citation: Saint M, Sawhney S, Sinha I, Singh RP, Dahiya R, Thakur A, Siddharthan R, Natarajan K. 
+2014. The TAF9 C-terminal conserved region domain is required for SAGA and TFIID promoter 
+occupancy to promote transcriptional activation.
+
+Full Description: A common function of the TFIID and SAGA complexes, which are recruited by transcriptional 
+activators, is to deliver TBP to promoters to stimulate transcription. Neither the 
+relative contributions of the five shared TBP-associated factor (TAF) subunits in TFIID 
+and SAGA nor the requirement for different domains in shared TAFs for transcriptional 
+activation is well understood. In this study, we uncovered the essential requirement for 
+the highly  conserved C-terminal region (CRD) of Taf9, a shared TAF, for transcriptional 
+activation in yeast. Transcriptome profiling performed under Gcn4-activating conditions 
+showed that the Taf9 CRD is required for induced expression of approximately 9% of the 
+yeast genome. The CRD was not essential for the Taf9-Taf6 interaction, TFIID or SAGA 
+integrity, or Gcn4 interaction with SAGA in cell extracts. Microarray profiling of a SAGA 
+mutant (spt20Delta) yielded a common set of genes induced by Spt20 and the Taf9 CRD. 
+Chromatin immunoprecipitation (ChIP)  assays showed that, although the Taf9 CRD mutation 
+did not impair Gcn4 occupancy, the occupancies of TFIID, SAGA, and the preinitiation 
+complex were severely impaired at several promoters. These results suggest a crucial role 
+for the Taf9  CRD in genome-wide transcription and highlight the importance of conserved 
+domains, other than histone fold domains, as a common determinant for TFIID and SAGA 
+functions.
+
+PMID: 24550006
+
+GEO ID: GSE44544.remapped.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE44544.remapped.final.pcl	The TAF9 C-terminal conserved region domain is required for SAGA and TFIID promoter occupancy to promote transcriptional activation.	14	starvation|transcription	2
+
+File last modified: Thu Apr 25 2024

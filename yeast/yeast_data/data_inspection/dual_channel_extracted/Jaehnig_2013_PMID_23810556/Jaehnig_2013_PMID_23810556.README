@@ -1,0 +1,25 @@
+Citation: Jaehnig EJ, Kuo D, Hombauer H, Ideker TG, Kolodner RD. 2013. Checkpoint kinases regulate a
+global network of transcription factors in response to DNA damage.
+
+Full Description: DNA damage activates checkpoint kinases that induce several downstream events, including 
+widespread changes in transcription. However, the specific connections  between the 
+checkpoint kinases and downstream transcription factors (TFs) are not well understood. 
+Here, we integrate kinase mutant expression profiles, transcriptional regulatory 
+interactions, and phosphoproteomics to map kinases and downstream TFs to transcriptional 
+regulatory networks. Specifically, we investigate the role of the Saccharomyces cerevisiae
+checkpoint kinases (Mec1, Tel1, Chk1, Rad53, and Dun1) in the transcriptional response to 
+DNA damage caused by methyl methanesulfonate. The result is a global kinase-TF regulatory 
+network in which Mec1 and Tel1 signal through Rad53 to synergistically regulate the 
+expression of more than 600 genes. This network involves at least nine TFs, many  of which
+have Rad53-dependent phosphorylation sites, as regulators of checkpoint-kinase-dependent 
+genes. We also identify a major DNA damage-induced transcriptional network that regulates 
+stress response genes independently of the checkpoint kinases.
+
+PMID: 23810556
+
+GEO ID: GSE40351.remapped.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE40351.remapped.final.pcl	Checkpoint kinases regulate a global network of transcription factors in response to DNA damage.	72	DNA damage stimulus|protein phosphorylation|transcription	2
+
+File last modified: Thu Apr 25 2024

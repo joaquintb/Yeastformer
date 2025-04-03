@@ -1,0 +1,28 @@
+Citation: van Wageningen S, Kemmeren P, Lijnzaad P, Margaritis T, Benschop JJ, de Castro IJ, van 
+Leenen D, Groot Koerkamp MJ, Ko CW, Miles AJ, Brabers N, Brok MO, Lenstra TL, Fiedler D, 
+Fokkens L, Aldecoa R, Apweiler E, Taliadouros V, Sameith K, van de Pasch LA, van Hooff SR,
+Bakker LV, Krogan NJ, Snel B, Holstege FC. 2010. Functional overlap and regulatory links 
+shape genetic interactions between signaling pathways.
+
+Full Description: To understand relationships between phosphorylation-based signaling pathways, we  analyzed
+150 deletion mutants of protein kinases and phosphatases in S. cerevisiae using DNA 
+microarrays. Downstream changes in gene expression were treated as a phenotypic readout. 
+Double mutants with synthetic genetic interactions were included to investigate genetic 
+buffering relationships such as redundancy. Three types of genetic buffering relationships
+are identified: mixed  epistasis, complete redundancy, and quantitative redundancy. In 
+mixed epistasis,  the most common buffering relationship, different gene sets respond in 
+different  epistatic ways. Mixed epistasis arises from pairs of regulators that have only 
+partial overlap in function and that are coupled by additional regulatory links such as 
+repression of one by the other. Such regulatory modules confer the ability to control 
+different combinations of processes depending on condition or  context. These properties 
+likely contribute to the evolutionary maintenance of paralogs and indicate a way in which 
+signaling pathways connect for multiprocess  control.
+
+PMID: 21145464
+
+GEO ID: GSE25644
+
+PCL filename	short description	# conditions	tags	# channels
+GSE25644_s377.final.pcl	Functional overlap and regulatory links shape genetic interactions between signaling pathways.	377	signaling	2
+
+File last modified: Thu Apr 25 2024

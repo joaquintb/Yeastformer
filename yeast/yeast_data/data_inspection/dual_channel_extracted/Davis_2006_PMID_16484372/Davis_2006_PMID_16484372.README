@@ -1,0 +1,26 @@
+Citation: Davis CA, Ares M Jr. 2006. Accumulation of unstable promoter-associated transcripts upon 
+loss of the nuclear exosome subunit Rrp6p in Saccharomyces cerevisiae.
+
+Full Description: Mutations in RRP6 result in the accumulation of aberrant polyadenylated transcripts from 
+small nucleolar RNA genes. We exploited this observation to search for novel noncoding RNA
+genes in the yeast genome. When RNA from rrp6Delta yeast is compared with wild-type on 
+whole-genome microarrays, numerous intergenic loci exhibit an increased mutant/wild type 
+signal ratio. Among these loci, we found one encoding a new C/D box small nucleolar RNA, 
+as well as a surprising number that gave rise to heterogeneous Trf4p-polyadenylated RNAs 
+with lengths of  approximately 250-500 nt. This class of RNAs is not easily detected in 
+wild-type  cells and appears associated with promoters. Fine mapping of several such 
+transcripts shows they originate near known promoter elements but do not usually  extend 
+far enough to act as mRNAs, and may regulate the transcription of downstream mRNAs. Rather
+than being uninformative transcriptional noise, we hypothesize that these transcripts 
+reflect important features of RNA polymerase activity at the promoter. This activity is 
+normally undetectable in wild-type cells because the transcripts are somehow distinguished
+from true mRNAs and are degraded in an Rrp6p-dependent fashion in the nucleus.
+
+PMID: 16484372
+
+GEO ID: GSE3813.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE3813.final.pcl	Accumulation of unstable promoter-associated transcripts upon loss of the nuclear exosome subunit Rrp6p in Saccharomyces cerevisiae.	1	mRNA processing	2
+
+File last modified: Thu Apr 25 2024

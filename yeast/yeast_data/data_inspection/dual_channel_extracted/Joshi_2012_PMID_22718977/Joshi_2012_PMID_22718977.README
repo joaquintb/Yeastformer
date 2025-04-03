@@ -1,0 +1,27 @@
+Citation: Joshi RS, Pina B, Roca J. 2012. Topoisomerase II is required for the production of long 
+Pol II gene transcripts in yeast.
+
+Full Description: The extent to which the DNA relaxation activities of eukaryotic topoisomerases (topo I and
+topo II) are redundant during gene transcription is unclear. Although both enzymes can 
+often substitute for each other in vivo, studies in vitro had revealed that the DNA cross-
+inversion mechanism of topo II relaxes chromatin more efficiently than the DNA strand-
+rotation mechanism of topo I. Here, we show that  the inactivation of topo II in budding 
+yeast produces an abrupt decrease of virtually all polyA+ RNA transcripts of length above 
+approximately 3 kb, irrespective of their function. This reduction is not related to 
+transcription initiation but to the stall of RNA polymerase II (Pol II) during elongation
+. This reduction does not occur in topo I mutants; and it is not avoided by overproducing 
+yeast topo I or bacterial topo I, which relaxes (-) DNA supercoils. It is rescued by 
+catalytically active topo II or a GyrBA enzyme, which relaxes (+) DNA supercoils. These 
+findings demonstrate that DNA relaxation activities of  topo I and topo II are not 
+interchangeable in vivo. Apparently, only topo II relaxes efficiently the (+) DNA 
+supercoils that stall the advancement of Pol II in long genes. A mechanistic model is 
+proposed.
+
+PMID: 22718977
+
+GEO ID: GSE18605.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE18605.final.pcl	Topoisomerase II is required for the production of long Pol II gene transcripts in yeast.	6	chromatin organization	2
+
+File last modified: Thu Apr 25 2024

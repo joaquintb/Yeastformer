@@ -1,0 +1,14 @@
+Citation: Jones DL, Petty J, Hoyle DC, Hayes A, Ragni E, Popolo L, Oliver SG, Stateva LI. 2003. 
+Transcriptome profiling of a Saccharomyces cerevisiae mutant with a constitutively 
+activated Ras/cAMP pathway.
+
+Full Description: wt, <i>pde2Delta</i> deletion mutant.
+
+PMID: 14570984
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Jones03_orig.flt.knn.avg.pcl	Ras/cAMP signal transduction pathway	5	signaling	2
+
+File last modified: Thu Apr 25 2024

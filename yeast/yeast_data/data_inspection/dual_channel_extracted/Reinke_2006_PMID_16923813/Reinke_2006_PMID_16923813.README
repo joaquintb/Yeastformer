@@ -1,0 +1,34 @@
+Citation: Reinke A, Chen JC, Aronova S, Powers T. 2006. Caffeine targets TOR complex I and provides 
+evidence for a regulatory link between the FRB and kinase domains of Tor1p.
+
+Full Description: The target of rapamycin (TOR) kinase is an important regulator of growth in eukaryotic 
+cells. In budding yeast, Tor1p and Tor2p function as part of two distinct protein 
+complexes, TORC1 and TORC2, where TORC1 is specifically inhibited by the antibiotic 
+rapamycin. Significant insight into TORC1 function has been obtained using rapamycin as a 
+specific small molecule inhibitor of TOR activity. Here we show that caffeine acts as a 
+distinct and novel small molecule inhibitor of TORC1: (i) deleting components specific to 
+TORC1 but not TORC2 renders cells hypersensitive to caffeine; (ii) rapamycin and caffeine 
+display remarkably similar effects on global gene expression; and (iii) mutations were 
+isolated in Tor1p, a component specific to TORC1, that confers significant caffeine 
+resistance both in vivo and in vitro. Strongest resistance requires two simultaneous 
+mutations in TOR1, the first at either one of two highly conserved positions within the 
+FRB (rapamycin binding) domain and a second at a highly conserved position within the ATP 
+binding pocket of the kinase domain. Biochemical and genetic analyses of these mutant 
+forms of Tor1p support a model wherein functional interactions between the FRB and kinase 
+domains, as well as between the FRB domain and the TORC1 component Kog1p, regulate TOR 
+activity as well as contribute to the mechanism of caffeine resistance.
+
+PMID: 16923813
+
+GEO ID: GSE4584
+
+PCL filename	short description	# conditions	tags	# channels
+GSE4584_set1_family.pcl	Dose response to caffeine and response in different strain backgrounds	6	chemical stimulus|signaling	2
+
+File last modified: Thu Apr 25 2024
+GSE4586_setA_family.pcl	Dose response to caffeine on wildtype versus a caffeine resistant tor1 mutant	6	chemical stimulus|signaling	2
+
+File last modified: Thu Apr 25 2024
+GSE4584_set0_family.pcl	Dose response to rapamycin and response in different strain backgrounds	5	chemical stimulus|signaling	2
+
+File last modified: Thu Apr 25 2024

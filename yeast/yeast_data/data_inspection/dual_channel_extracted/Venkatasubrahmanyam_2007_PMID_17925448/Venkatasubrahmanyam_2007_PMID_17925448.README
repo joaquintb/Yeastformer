@@ -1,0 +1,29 @@
+Citation: Venkatasubrahmanyam S, Hwang WW, Meneghini MD, Tong AH, Madhani HD. 2007. Genome-wide, as 
+opposed to local, antisilencing is mediated redundantly by the euchromatic factors Set1 
+and H2A.Z.
+
+Full Description: In Saccharomyces cerevisiae, several nonessential mechanisms including histone variant H2A
+.Z deposition and transcription-associated histone H3 methylation antagonize the local 
+spread of Sir-dependent silent chromatin into adjacent euchromatic regions. However, it is
+unclear how and where these factors cooperate. To probe this question, we performed 
+systematic genetic array screens for gene deletions that cause a synthetic growth defect 
+in an htz1Delta mutant but not in an htz1Delta sir3Delta double mutant. Of the four genes 
+identified, three, SET1, SWD1, and SWD3, encode components of the Set1 complex, which 
+catalyzes the methylation of histone H3 on lysine 4 (H3-K4), a highly conserved 
+modification that occurs in the coding sequences of transcribed genes. Using microarray-
+based transcriptional profiling, we find that H2A.Z and Set1 cooperate to prevent Sir-
+dependent repression of a large number of genes located across the genome, rather than the
+local effects reported previously for the individual mechanisms. This global, redundant 
+function appears to be direct: using a DamID chromatin profiling method, we demonstrate 
+ectopic association of Sir3 and Sir4 in htz1Delta set1Delta mutants at loci distant from 
+silent chromatin domains. Antisilencing mechanisms may therefore cooperate to play a 
+considerably broader role in regulating genome-wide transcription than previously thought.
+
+PMID: 17925448
+
+GEO ID: GSE4826
+
+PCL filename	short description	# conditions	tags	# channels
+GSE4826_setA_family.pcl	Genome-wide, as opposed to local, antisilencing is mediated redundantly by the euchromatic factors Set1 and H2A.Z.	16	chromatin organization|histone modification	2
+
+File last modified: Thu Apr 25 2024

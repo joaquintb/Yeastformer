@@ -1,0 +1,25 @@
+Citation: Sheltzer JM, Torres EM, Dunham MJ, Amon A. 2012. Transcriptional consequences of 
+aneuploidy.
+
+Full Description: Aneuploidy, or an aberrant karyotype, results in developmental disabilities and has been 
+implicated in tumorigenesis. However, the causes of aneuploidy-induced phenotypes and the 
+consequences of aneuploidy on cell physiology remain poorly understood. We have performed 
+a metaanalysis on gene expression data from aneuploid cells in diverse organisms, 
+including yeast, plants, mice, and humans.  We found highly related gene expression 
+patterns that are conserved between species: genes that were involved in the response to 
+stress were consistently upregulated, and genes associated with the cell cycle and cell 
+proliferation were downregulated in aneuploid cells. Within species, different 
+aneuploidies induced  similar changes in gene expression, independent of the specific 
+chromosomal aberrations. Taken together, our results demonstrate that aneuploidies of 
+different chromosomes and in different organisms impact similar cellular pathways and 
+cause a stereotypical antiproliferative response that must be overcome before 
+transformation.
+
+PMID: 22802626
+
+GEO ID: GSE35853
+
+PCL filename	short description	# conditions	tags	# channels
+GSE35853_final.pcl	Transcriptional consequences of aneuploidy.	8	stress	2
+
+File last modified: Thu Apr 25 2024

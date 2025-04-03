@@ -1,0 +1,14 @@
+Citation: Williams RM, Primig M, Washburn BK, Winzeler EA, Bellis M, Sarrauste de Menthiere C, Davis
+RW, Esposito RE. 2002. The Ume6 regulon coordinates metabolic and meiotic gene expression 
+in yeast.
+
+Full Description: wt, <i>ume6</i> deletion diploids during vegetative growth in glucose and acetate.
+
+PMID: 12370439
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Williams02.filter.flt.knn.avg.div.log.pcl	<i>Ume6</i> regulon	8	carbon utilization|sporulation	2
+
+File last modified: Thu Apr 25 2024

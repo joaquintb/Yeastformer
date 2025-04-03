@@ -1,0 +1,15 @@
+Citation: Clark TA, Sugnet CW, Ares M Jr. 2002. Genomewide analysis of mRNA processing in yeast 
+using splicing-specific microarrays.
+
+Full Description: Hybridiztion of <i>brr1</i>, <i>cus2</i>, <i>dbr1</i>, <i>ecm2</i>, <i>gcr3</i>, <i>hsp104
+</i>, <i>msl1</i>, <i>mud1</i>, <i>mud13</i>, <i>mud2</i>, <i>nam8</i>, <i>prp17</i>, <i>
+prp18</i>, <i>snu17</i>, <i>snu40</i>, <i>snu66</i>, <i>upf3</i> deletion mutants.
+
+PMID: 11988574
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Clark02_orig.flt.knn.avg.pcl	Deletion of mRNA processing and splicing factors	17	mRNA processing	2
+
+File last modified: Thu Apr 25 2024

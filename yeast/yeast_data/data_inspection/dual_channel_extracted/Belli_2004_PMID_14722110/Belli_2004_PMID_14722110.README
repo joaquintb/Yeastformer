@@ -1,0 +1,16 @@
+Citation: Belli G, Molina MM, Garcia-Martinez J, Perez-Ortin JE, Herrero E. 2004. Saccharomyces 
+cerevisiae glutaredoxin 5-deficient cells subjected to continuous oxidizing conditions are
+affected in the expression of specific sets of genes.
+
+Full Description: Transcriptome analysis of glutaredoxin 5-deficient (<i>grx5</i>) mutant, a model for 
+continuous moderate oxidative stress. Respiratory petite (<i>pet117</i>) mutants and wild 
+type also examined.
+
+PMID: 14722110
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Belli04.filter.flt.knn.avg.div.log.pcl	Oxidative stress and glutaredoxin 5-deficient mutant	9	oxidative stress|stress	2
+
+File last modified: Thu Apr 25 2024

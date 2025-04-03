@@ -1,0 +1,33 @@
+Citation: Ambroset C, Petit M, Brion C, Sanchez I, Delobel P, Guerin C, Chiapello H, Nicolas P, 
+Bigey F, Dequin S, Blondin B. 2011. Deciphering the molecular basis of wine yeast 
+fermentation traits using a combined genetic and genomic approach.
+
+Full Description: The genetic basis of the phenotypic diversity of yeast is still poorly understood. Wine 
+yeast strains have specific abilities to grow and ferment under  stressful conditions 
+compared with other strains, but the genetic basis underlying these traits is unknown. 
+Understanding how sequence variation influences such phenotypes is a major challenge to 
+address adaptation mechanisms  of wine yeast. We aimed to identify the genetic basis of 
+fermentation traits and  gain insight into their relationships with variations in gene 
+expression among yeast strains. We combined fermentation trait QTL mapping and expression 
+profiling of fermenting cells in a segregating population from a cross between a  wine 
+yeast derivative and a laboratory strain. We report the identification of QTL for various 
+fermentation traits (fermentation rates, nitrogen utilization, metabolites production) as 
+well as expression QTL (eQTL). We found that many transcripts mapped to several eQTL 
+hotspots and that two of them overlapped with  QTL for fermentation traits. A QTL 
+controlling the maximal fermentation rate and  nitrogen utilization overlapping with an 
+eQTL hotspot was dissected. We functionally demonstrated that an allele of the ABZ1 gene, 
+localized in the hotspot and involved in p-aminobenzoate biosynthesis, controls the 
+fermentation rate through modulation of nitrogen utilization. Our data suggest that the 
+laboratory strain harbors a defective ABZ1 allele, which triggers strong metabolic and 
+physiological alterations responsible for the generation of the eQTL hotspot. They also 
+suggest that a number of gene expression differences result from some alleles that trigger
+major physiological disturbances.
+
+PMID: 22384338
+
+GEO ID: GSE26437
+
+PCL filename	short description	# conditions	tags	# channels
+GSE26437_final.pcl	Deciphering the molecular basis of wine yeast fermentation traits using a combined genetic and genomic approach.	40	fermentation|nitrogen utilization	2
+
+File last modified: Thu Apr 25 2024

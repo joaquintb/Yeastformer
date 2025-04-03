@@ -1,0 +1,24 @@
+Citation: Kitagawa E, Akama K, Iwahashi H. 2005. Effects of iodine on global gene expression in 
+Saccharomyces cerevisiae.
+
+Full Description: It is well documented that iodine kills microorganisms with a broad spectrum, but a 
+systematic study of its mechanism of action has not yet been reported. Here we found the 
+action of iodine on gene expression level, using the yeast Saccharomyces cerevisiae with a
+DNA microarray. It was found that, like antimicrobial activity, iodine causes an immediate
+and dose-dependent (0.5 mM, 0.75 mM and 1 mM) transcriptional alteration in yeast cells. 
+The effects of iodine continued after the first immediate response. Genes for c-compound 
+and carbohydrate metabolism, for energy, and for cell rescue were continuously up-
+regulated. On the other hand, genes related to protein fate were induced especially at 0.5
+h. The gene expression profile at 0.5 h was significantly different from that of a longer 
+iodine exposed condition. The main reaction at 0.5 h after iodine addition might be due to
+oxidative toxicity, and the profile at 0.5 h was similar to that of an agricultural 
+bactericide.
+
+PMID: 16377885
+
+GEO ID: GSE9401
+
+PCL filename	short description	# conditions	tags	# channels
+GSE9401_setA_family.pcl	Effects of iodine on global gene expression in Saccharomyces cerevisiae.	27	chemical stimulus	2
+
+File last modified: Thu Apr 25 2024

@@ -1,0 +1,37 @@
+Citation: Haugen AC, Kelley R, Collins JB, Tucker CJ, Deng C, Afshari CA, Brown JM, Ideker T, Van 
+Houten B. 2004. Integrating phenotypic and expression profiles to map arsenic-response 
+networks.
+
+Full Description: BACKGROUND: Arsenic is a nonmutagenic carcinogen affecting millions of people. The 
+cellular impact of this metalloid in Saccharomyces cerevisiae was determined by profiling 
+global gene expression and sensitivity phenotypes. These data were then mapped to a 
+metabolic network composed of all known biochemical reactions in yeast, as well as the 
+yeast network of 20,985 protein-protein/protein-DNA interactions. RESULTS: While the 
+expression data unveiled no significant nodes in the metabolic network, the regulatory 
+network revealed several important nodes as centers of arsenic-induced activity. The 
+highest-scoring proteins included Fhl1, Msn2, Msn4, Yap1, Cad1 (Yap2), Pre1, Hsf1 and 
+Met31. Contrary to the gene-expression analyses, the phenotypic-profiling data mapped to 
+the metabolic network. The two significant metabolic networks unveiled were shikimate, and
+serine, threonine and glutamate biosynthesis. We also carried out transcriptional 
+profiling of specific deletion strains, confirming that the transcription factors Yap1, 
+Arr1 (Yap8), and Rpn4 strongly mediate the cell's adaptation to arsenic-induced stress but
+that Cad1 has negligible impact. CONCLUSIONS: By integrating phenotypic and 
+transcriptional profiling and mapping the data onto the metabolic and regulatory networks
+, we have shown that arsenic is likely to channel sulfur into glutathione for 
+detoxification, leads to indirect oxidative stress by depleting glutathione pools, and 
+alters protein turnover via arsenation of sulfhydryl groups on proteins. Furthermore, we 
+show that phenotypically sensitive pathways are upstream of differentially expressed ones
+, indicating that transcriptional and phenotypic profiling implicate distinct, but related
+, pathways.
+
+PMID: 15575969
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.arsenic_time_dose.pcl	Expression in response to arsenic (time and dose)	4	chemical stimulus|metal or metalloid ion stress	2
+
+File last modified: Thu Apr 25 2024
+2010.arsenic_deletions.pcl	Role of transcription factors in adaptation to arsenic-induced stress	13	chemical stimulus|metal or metalloid ion stress	2
+
+File last modified: Thu Apr 25 2024

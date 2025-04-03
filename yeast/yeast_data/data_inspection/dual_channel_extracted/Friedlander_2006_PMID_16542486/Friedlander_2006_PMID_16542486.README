@@ -1,0 +1,46 @@
+Citation: Friedlander G, Joseph-Strauss D, Carmi M, Zenvirth D, Simchen G, Barkai N. 2006. 
+Modulation of the transcription regulatory program in yeast cells committed to sporulation.
+
+Full Description: BACKGROUND: Meiosis in budding yeast is coupled to the process of sporulation, where the 
+four haploid nuclei are packaged into a gamete. This differentiation process is 
+characterized by a point of transition, termed commitment, when it becomes independent of 
+the environment. Not much is known about the mechanisms underlying commitment, but it is 
+often assumed that positive feedback loops stabilize the underlying gene-expression 
+cascade. RESULTS: We describe the gene-expression program of committed cells. Sporulating 
+cells were transferred back to growth medium at different stages of the process, and their
+transcription response was characterized. Most sporulation-induced genes were immediately 
+downregulated upon transfer, even in committed cells that continued to sporulate. Focusing
+on the metabolic-related transcription response, we observed that pre-committed cells, as 
+well as mature spores, responded to the transfer to growth medium in essentially the same 
+way that vegetative cells responded to glucose. In contrast, committed cells elicited a 
+dramatically different response. CONCLUSION: Our results suggest that cells ensure 
+commitment to sporulation not by stabilizing the process, but by modulating their gene-
+expression program in an active manner. This unique transcriptional program may optimize 
+sporulation in an environment-specific manner.
+
+PMID: 16542486
+
+GEO ID: GSE3820
+
+PCL filename	short description	# conditions	tags	# channels
+GSE3820_setA_family.pcl	Sporulation time course (2-9 hrs) and return to growth in YPA for 20, 80, and 140 min; 6.4K cDNA array	27	nutrient utilization|sporulation	2
+
+File last modified: Thu Apr 25 2024
+GSE3816_set1_family.pcl	Return to growth from sporulating cultures (2-10 hrs) into YPA for 20 and 40 min; 6.4K cDNA array	27	nutrient utilization|sporulation	2
+
+File last modified: Thu Apr 25 2024
+GSE3816_set0_family.pcl	Sporulation time course; 2-10 hr time course, 1 hr intervals; 6.4K cDNA array	9	sporulation	2
+
+File last modified: Thu Apr 25 2024
+GSE3815_set1_family.pcl	Return to growth from sporulating cultures (2-9 hrs) into YPA for 20 and 40 min; 16K oligo array	26	nutrient utilization|sporulation	2
+
+File last modified: Thu Apr 25 2024
+GSE3815_set0_family.pcl	Sporulation time course; 2-9 hr time course, 1 hr intervals; 16K oligo array	8	sporulation	2
+
+File last modified: Thu Apr 25 2024
+GSE3814_set0_family.pcl	Sporulation time course; 2-9 hr time course, 1 hr intervals; 6.4K cDNA array	8	sporulation	2
+
+File last modified: Thu Apr 25 2024
+GSE3814_set1_family.pcl	Return to growth from sporulating cultures (2-9 hrs) into YPA for 20 and 40 min; 6.4K cDNA array	24	nutrient utilization|sporulation	2
+
+File last modified: Thu Apr 25 2024

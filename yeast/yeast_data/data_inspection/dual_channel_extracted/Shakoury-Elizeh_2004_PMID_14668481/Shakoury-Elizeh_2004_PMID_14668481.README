@@ -1,0 +1,14 @@
+Citation: Shakoury-Elizeh M, Tiedeman J, Rashford J, Ferea T, Demeter J, Garcia E, Rolfes R, Brown 
+PO, Botstein D, Philpott CC. 2004. Transcriptional remodeling in response to iron 
+deprivation in Saccharomyces cerevisiae.
+
+Full Description: Saccharomyces cerevisiae responds to depletion of iron in the environment.
+
+PMID: 14668481
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.ShakouryElizeh04.flt.knn.avg.pcl	Iron deprivation	6	metal or metalloid ion stress|starvation	2
+
+File last modified: Thu Apr 25 2024

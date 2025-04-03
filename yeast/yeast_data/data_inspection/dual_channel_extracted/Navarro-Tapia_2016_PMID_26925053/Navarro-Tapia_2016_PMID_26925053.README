@@ -1,0 +1,21 @@
+Citation:  Navarro-Tapia E, Nana RK, Querol A, Perez-Torrado R . 2016. Ethanol Cellular Defense 
+Induce Unfolded Protein Response in Yeast.
+
+Full Description:  Ethanol is a valuable industrial product and a common metabolite used by many cell types
+. However, this molecule produces high levels of cytotoxicity affecting cellular 
+performance at several levels. In the presence of ethanol, cells must adjust some of their
+components, such as the membrane lipids to maintain homeostasis. In the case of 
+microorganism as Saccharomyces cerevisiae, ethanol is one of the principal products of 
+their metabolism and is the main stress factor during fermentation. more
+
+
+.. .
+
+PMID: 26925053
+
+GEO ID: GSE44863.mapped.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE44863.mapped.pcl	Ethanol cellular defense induce unfolded protein response in yeast	8	fermentation|stress	2
+
+File last modified: Thu Apr 25 2024

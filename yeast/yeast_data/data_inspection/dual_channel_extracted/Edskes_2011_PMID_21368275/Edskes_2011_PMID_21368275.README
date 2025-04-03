@@ -1,0 +1,22 @@
+Citation: Edskes HK, Engel A, McCann LM, Brachmann A, Tsai HF, Wickner RB. 2011. Prion-forming 
+ability of Ure2 of yeasts is not evolutionarily conserved.
+
+Full Description: [URE3] is a prion (infectious protein) of the Saccharomyces cerevisiae Ure2p, a regulator 
+of nitrogen catabolism. We show that wild S. paradoxus can be infected  with a [URE3] 
+prion, supporting the use of S. cerevisiae as a prion test bed. We  find that the Ure2p of
+Candida albicans and C. glabrata also regulate nitrogen catabolism. Conservation of amino 
+acid sequence within the prion domain of Ure2p  has been proposed as evidence that the [
+URE3] prion helps its host. We show that  the C. albicans Ure2p, which does not conserve 
+this sequence, can nonetheless form a [URE3] prion in S. cerevisiae, but the C. glabrata 
+Ure2p, which does have  the conserved sequence, cannot form [URE3] as judged by its 
+performance in S. cerevisiae. These results suggest that the sequence is not conserved to 
+preserve  prion forming ability.
+
+PMID: 21368275
+
+GEO ID: GSE26611.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE26611.final.pcl	Prion-forming ability of Ure2 of yeasts is not evolutionarily conserved.	4	prions	2
+
+File last modified: Thu Apr 25 2024

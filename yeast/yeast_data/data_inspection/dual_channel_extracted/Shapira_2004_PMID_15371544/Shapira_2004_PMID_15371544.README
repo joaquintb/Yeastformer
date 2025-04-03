@@ -1,0 +1,21 @@
+Citation: Shapira M, Segal E, Botstein D. 2004. Disruption of yeast forkhead-associated cell cycle 
+transcription by oxidative stress.
+
+Full Description: Oxidative stress caused by Menadione or Hydrogen peroxide in synchronized Saccharomyces 
+cerevisiae cultures. Alpha factor synchronized cultures (0.2-0.4 OD), treated at the 
+beginning of S phase (25 min after release from G1 arrest) with either 2 mM Menadione (MD
+) or 0.24 mM Hydrogen peroxide (HP), show cell cycle effects. Cells treated with MD 
+arrested at G1. Cells treated with HP delayed at S and then, after removal of HP at 135 
+minutes , continued the cell cycle, only to arrest at G2/M. Growth was carried out in 30C 
+with shaking (295 rpm
+
+)..
+
+PMID: 15371544
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Shapira04.flt.knn.avg.pcl	Oxidative stress responses	70	chemical stimulus|mitotic cell cycle|oxidative stress|stress	2
+
+File last modified: Thu Apr 25 2024

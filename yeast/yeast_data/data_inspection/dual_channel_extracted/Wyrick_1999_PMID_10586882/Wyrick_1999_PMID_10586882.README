@@ -1,0 +1,27 @@
+Citation: Wyrick JJ, Holstege FC, Jennings EG, Causton HC, Shore D, Grunstein M, Lander ES, Young RA,
+ 1999. Chromosomal landscape of nucleosome-dependent gene expression and silencing in 
+yeast.
+
+Full Description: Eukaryotic genomes are packaged into nucleosomes, which are thought to repress gene 
+expression generally. Repression is particularly evident at yeast telomeres, where genes 
+within the telomeric heterochromatin appear to be silenced by the histone-binding silent 
+information regulator (SIR) complex (Sir2, Sir3, Sir4) and Rap1 (refs 4-10). Here, to 
+investigate how nucleosomes and silencing factors influence global gene expression, we use
+high-density arrays to study the effects of depleting nucleosomal histones and silencing 
+factors in yeast. Reducing nucleosome content by depleting histone H4 caused increased 
+expression of 15% of genes and reduced expression of 10% of genes, but it had little 
+effect on expression of the majority (75%) of yeast genes. Telomere-proximal genes were 
+found to be de-repressed over regions extending 20 kilobases from the telomeres, well 
+beyond the extent of Sir protein binding and the effects of loss of Sir function. These 
+results indicate that histones make Sir-independent contributions to telomeric silencing, 
+and that the role of histones located elsewhere in chromosomes is gene specific rather 
+than generally repressive.
+
+PMID: 10586882
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.histone.pcl	Expression in response to histone depletion	7	chromatin organization	2
+
+File last modified: Thu Apr 25 2024

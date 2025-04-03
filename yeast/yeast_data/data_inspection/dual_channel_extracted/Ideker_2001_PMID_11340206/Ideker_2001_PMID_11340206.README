@@ -1,0 +1,14 @@
+Citation: Ideker T, Thorsson V, Ranish JA, Christmas R, Buhler J, Eng JK, Bumgarner R, Goodlett DR, 
+Aebersold R, Hood L. 2001. Integrated genomic and proteomic analyses of a systematically 
+perturbed metabolic network.
+
+Full Description: Systematic perturbations of the yeast galactose-utilization pathway.
+
+PMID: 11340206
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Ideker01.flt.knn.avg.pcl	GAL mutants	21	carbon utilization	2
+
+File last modified: Thu Apr 25 2024

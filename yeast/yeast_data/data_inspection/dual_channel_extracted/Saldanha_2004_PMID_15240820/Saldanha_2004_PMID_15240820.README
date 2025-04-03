@@ -1,0 +1,26 @@
+Citation: Saldanha AJ, Brauer MJ, Botstein D. 2004. Nutritional homeostasis in batch and steady-
+state culture of yeast.
+
+Full Description: Physiological response to limitation by Uracil in batch and steady-state (chemostat) 
+cultures of S. cerevisiae.
+
+PMID: 15240820
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Saldanha04_UracilBatchChem.flt.knn.avg.pcl	Limitation by Uracil	20	nutrient utilization	2
+
+File last modified: Thu Apr 25 2024
+2010.Saldanha04_UraSulPhoLeuComp.flt.knn.avg.pcl	Comparison of limitation by Ura, Sul, Pho, and Leu	24	amino acid utilization|nutrient utilization|phosphorus utilization|sulfur utilization	2
+
+File last modified: Thu Apr 25 2024
+2010.Saldanha04_SulfateBatchChem.flt.knn.avg.pcl	Limitation by Sulfate	21	sulfur utilization	2
+
+File last modified: Thu Apr 25 2024
+2010.Saldanha04_LeucineBatchChem.flt.knn.avg.pcl	Limitation by Leucine	29	amino acid utilization	2
+
+File last modified: Thu Apr 25 2024
+2010.Saldanha04_PhosphateBatchChem.flt.knn.avg.pcl	Limitation by Phosphate	30	phosphorus utilization	2
+
+File last modified: Thu Apr 25 2024

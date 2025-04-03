@@ -1,0 +1,26 @@
+Citation: Dubacq C, Chevalier A, Courbeyrette R, Petat C, Gidrol X, Mann C. 2006. Role of the iron 
+mobilization and oxidative stress regulons in the genomic response of yeast to hydroxyurea.
+
+Full Description: Hydroxyurea (HU) is a specific inhibitor of ribonucleotide reductase and thus impairs dNTP
+synthesis and DNA replication. The long-term transcriptional response of yeast cells to 
+hydroxyurea was investigated using DNA microarrays containing all yeast coding sequences. 
+We show that the redox-responsive Yap regulon and the iron-mobilization Aft regulon are 
+activated in yeast cells treated with HU. Yap1 accumulates in the nucleus in response to 
+HU, but HU activation of the Yap regulon was only partially dependent on Yap1 and 
+yap1Delta mutants were not hypersensitive to HU. In contrast, deletion of the AFT1 and 
+AFT2 transcription factor genes blocked the HU activation of a subset of the Aft regulon 
+and the aft1Delta aft2Delta double mutant was hypersensitive to HU in an iron-suppressible
+manner. These results highlight the importance of the redox and iron mobilization regulons
+in the cellular response to HU.
+
+PMID: 16328372
+
+GEO ID: GSE1914
+
+PCL filename	short description	# conditions	tags	# channels
+GSE1914_setA_family.pcl	Mid-term response of wild type, yap1, aft1 and aft1 aft2 null mutants to hydroxyurea	24	DNA damage stimulus|stress	2
+
+File last modified: Thu Apr 25 2024
+GSE1915_setA_family.pcl	Long-term response of wild type cells to hydroxyurea	16	DNA damage stimulus|stress	2
+
+File last modified: Thu Apr 25 2024

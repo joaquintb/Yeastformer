@@ -1,0 +1,25 @@
+Citation: Gardner RG, Nelson ZW, Gottschling DE. 2005. Degradation-mediated protein quality control 
+in the nucleus.
+
+Full Description: Protein quality control degradation systems rid the cell of aberrant proteins, preventing 
+detrimental effects on normal cellular function. Although such systems have been 
+identified in most subcellular compartments, none have been found in the nucleus. Here, we
+report the discovery of such a system in Saccharomyces cerevisiae. It is defined by San1p
+, a ubiquitin-protein ligase that, in conjunction with the ubiquitin-conjugating enzymes 
+Cdc34p and Ubc1p, targets four distinct mutant nuclear proteins for ubiquitination and 
+destruction by the proteasome. San1p has exquisite specificity for aberrant proteins and 
+does not target the wild-type versions of its mutant substrates. San1p is nuclear 
+localized and requires nuclear localization for function. Loss of SAN1 results in a 
+chronic stress response, underscoring its role of protein quality control in the cell. We 
+propose that San1p-mediated degradation acts as the last line of proteolytic defense 
+against the deleterious accumulation of aberrant proteins in the nucleus and that 
+analogous systems exist in other eukaryotes.
+
+PMID: 15797381
+
+GEO ID: GSE2159
+
+PCL filename	short description	# conditions	tags	# channels
+GSE2159_setA_family.pcl	Degradation-mediated protein quality control in the nucleus.	12	nitrogen utilization|proteolysis|ubiquitin or ULP modification	2
+
+File last modified: Thu Apr 25 2024

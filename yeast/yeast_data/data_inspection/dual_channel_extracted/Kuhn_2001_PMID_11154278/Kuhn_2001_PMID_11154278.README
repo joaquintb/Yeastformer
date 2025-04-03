@@ -1,0 +1,17 @@
+Citation: Kuhn KM, DeRisi JL, Brown PO, Sarnow P. 2001. Global and specific translational regulation
+in the genomic response of Saccharomyces cerevisiae to a rapid transfer from a fermentable
+to a nonfermentable carbon source.
+
+Full Description: The global gene expression program that accompanies the adaptation of Saccharomyces 
+cerevisiae to an abrupt transfer from a fermentable to a nonfermentable carbon source was 
+characterized by using a cDNA microarray to monitor the relative abundances and polysomal 
+distributions of mRNAs.
+
+PMID: 11154278
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Kuhn01.flt.knn.avg.pcl	Carbon source shift	3	carbon utilization|fermentation|respiration	2
+
+File last modified: Thu Apr 25 2024

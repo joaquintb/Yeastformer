@@ -1,0 +1,42 @@
+Citation: Thorsen M, Lagniel G, Kristiansson E, Junot C, Nerman O, Labarre J, Tamas MJ. 2007. 
+Quantitative transcriptome, proteome, and sulfur metabolite profiling of the Saccharomyces
+cerevisiae response to arsenite.
+
+Full Description: Arsenic is ubiquitously present in nature, and various mechanisms have evolved enabling 
+cells to evade toxicity and acquire tolerance. Herein, we explored how Saccharomyces 
+cerevisiae (budding yeast) respond to trivalent arsenic (arsenite) by quantitative 
+transcriptome, proteome, and sulfur metabolite profiling. Arsenite exposure affected 
+transcription of genes encoding functions related to protein biosynthesis, arsenic 
+detoxification, oxidative stress defense, redox maintenance, and proteolytic activity. 
+Importantly, we observed that nearly all components of the sulfate assimilation and 
+glutathione biosynthesis pathways were induced at both gene and protein levels. Kinetic 
+metabolic profiling evidenced a significant increase in the pools of sulfur metabolites as
+well as elevated cellular glutathione levels. Moreover, the flux in the sulfur 
+assimilation pathway as well as the glutathione synthesis rate strongly increased with a 
+concomitant reduction of sulfur incorporation into proteins. By combining comparative 
+genomics and molecular analyses, we pinpointed transcription factors that mediate the core
+of the transcriptional response to arsenite. Taken together, our data reveal that arsenite
+-exposed cells channel a large part of assimilated sulfur into glutathione biosynthesis, 
+and we provide evidence that the transcriptional regulators Yap1p and Met4p control this 
+response in concert.
+
+PMID: 17327492
+
+GEO ID: GSE6129
+
+PCL filename	short description	# conditions	tags	# channels
+GSE6129_set3_family.pcl	Response to 0.2 mM arsenite (AsIII) induced stress in met4 null vs wildtype cells at 1 hr; 6 replicates	6	chemical stimulus|metal or metalloid ion stress|stress	2
+
+File last modified: Thu Apr 25 2024
+GSE6129_set2_family.pcl	Response to 0.2 mM or 1 mM arsenite (AsIII) induced stress in yap1 null vs wildtype cells at hr (3 replicates)	6	chemical stimulus|metal or metalloid ion stress|stress	2
+
+File last modified: Thu Apr 25 2024
+GSE6129_set1_family.pcl	Response to 0.2 mM or 1 mM arsenite (AsIII) induced stress at various time points; 3 replicates	12	chemical stimulus|metal or metalloid ion stress|stress	2
+
+File last modified: Thu Apr 25 2024
+GSE6129_set0_family.pcl	Response to 1.0 mM arsenite (AsIII) induced stress vs unstressed cells at 1 hr; 6 replicates	6	chemical stimulus|metal or metalloid ion stress|stress	2
+
+File last modified: Thu Apr 25 2024
+GSE6068_setA_family.pcl	Response to 1.0 mM arsenite (AsIII) induced stress vs unstressed cells at various time points; multiple replicates	15	chemical stimulus|metal or metalloid ion stress|stress	2
+
+File last modified: Thu Apr 25 2024

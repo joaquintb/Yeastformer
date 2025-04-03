@@ -1,0 +1,22 @@
+Citation: Merrill AE, Hebert AS, MacGilvray ME, Rose CM, Bailey DJ, Bradley JC, Wood WW, El Masri M,
+Westphall MS, Gasch AP, Coon JJ. 2014. NeuCode labels for relative protein quantification.
+
+Full Description: We describe a synthesis strategy for the preparation of lysine isotopologues that differ 
+in mass by as little as 6 mDa. We demonstrate that incorporation of these  molecules into 
+the proteomes of actively growing cells does not affect cellular proliferation, and we 
+discuss how to use the embedded mass signatures (neutron encoding (NeuCode)) for 
+multiplexed proteome quantification by means of high-resolution mass spectrometry. NeuCode
+SILAC amalgamates the quantitative accuracy of SILAC with the multiplexing of isobaric 
+tags and, in doing so, offers up new opportunities for biological investigation. We 
+applied NeuCode SILAC to examine the relationship between transcript and protein levels in
+yeast cells responding to environmental stress. Finally, we monitored the time-resolved 
+responses of five signaling mutants in a single 18-plex experiment.
+
+PMID: 24938287
+
+GEO ID: GSE53549.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE53549.final.pcl	NeuCode labels for relative protein quantification.	2	osmotic stress	2
+
+File last modified: Thu Apr 25 2024

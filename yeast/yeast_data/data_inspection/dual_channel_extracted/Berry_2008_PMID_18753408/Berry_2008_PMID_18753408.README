@@ -1,0 +1,67 @@
+Citation: Berry DB, Gasch AP. 2008. Stress-activated genomic expression changes serve a preparative 
+role for impending stress in yeast.
+
+Full Description: Yeast cells respond to stress by mediating condition-specific gene expression changes and 
+by mounting a common response to many stresses, called the environmental stress response (
+ESR). Giaever et al. previously revealed poor correlation between genes whose expression 
+changes in response to acute stress and genes required to survive that stress, raising 
+question about the role of stress-activated gene expression. Here we show that gene 
+expression changes triggered by a single dose of stress are not required to survive that 
+stimulus but rather serve a protective role against future stress. We characterized the 
+increased resistance to severe stress in yeast preexposed to mild stress. This acquired 
+stress resistance is dependent on protein synthesis during mild-stress treatment and 
+requires the general-stress transcription factors Msn2p and/or Msn4p that regulate 
+induction of many ESR genes. However, neither protein synthesis nor Msn2/4p is required 
+for basal tolerance of a single dose of stress, despite the substantial expression changes
+triggered by each condition. Using microarrays, we show that Msn2p and Msn4p play 
+nonredundant and condition-specific roles in gene-expression regulation, arguing against a
+generic general-stress function. This work highlights the importance of condition-specific
+responses in acquired stress resistance and provides new insights into the role of the ESR.
+
+PMID: 18753408
+
+GEO ID: GSE8335
+
+PCL filename	short description	# conditions	tags	# channels
+GSE8335_set10_family.pcl	Stress response of an msn4 deletion mutant exposed to NaCl for 45 min; 5 replicates	5	osmotic stress|stress	2
+
+File last modified: Thu Apr 25 2024
+GSE8335_set11_family.pcl	Stress response of an msn4 deletion mutant exposed to heat shock for 15 min; 5 replicates	5	heat shock|stress	2
+
+File last modified: Thu Apr 25 2024
+GSE8335_set12_family.pcl	Stress response of an msn2 msn4 double-deletion strain exposed to NaCl for 45 min; 5 replicates	5	osmotic stress|stress	2
+
+File last modified: Thu Apr 25 2024
+GSE8335_set13_family.pcl	Stress response of an msn2 msn4 double-deletion strain exposed to heat shock for 15 min; 5 replicates	5	heat shock|stress	2
+
+File last modified: Thu Apr 25 2024
+GSE8335_set06_family.pcl	Stress response of cells exposed to NaCl for 45 min; 6 replicates	6	osmotic stress|stress	2
+
+File last modified: Thu Apr 25 2024
+GSE8335_set07_family.pcl	Stress response of cells exposed to heat shock for 45 min; 5 replicates	5	heat shock|stress	2
+
+File last modified: Thu Apr 25 2024
+GSE8335_set08_family.pcl	Stress response of an msn2 deletion mutant exposed to NaCl for 45 min; 5 replicates	5	osmotic stress|stress	2
+
+File last modified: Thu Apr 25 2024
+GSE8335_set09_family.pcl	Stress response of an msn2 deletion mutant exposed to heat shock for 15 min; 5 replicates	5	heat shock|stress	2
+
+File last modified: Thu Apr 25 2024
+GSE8335_set05_family.pcl	Stress response of an msn2 msn4 double-deletion strain exposed to H2O2 for various times after NaCl pre-exposure	4	oxidative stress|stress	2
+
+File last modified: Thu Apr 25 2024
+GSE8335_set03_family.pcl	Stress response of an msn2 msn4 double-deletion strain exposed to NaCl for various times	4	osmotic stress|stress	2
+
+File last modified: Thu Apr 25 2024
+GSE8335_set04_family.pcl	Stress response of an msn2 msn4 double-deletion strain exposed to H2O2 for various times	4	oxidative stress|stress	2
+
+File last modified: Thu Apr 25 2024
+GSE8335_set02_family.pcl	Stress response of cells exposed to H2O2 for various times after NaCl pre-exposure; 2 replicates	8	oxidative stress|stress	2
+
+File last modified: Thu Apr 25 2024
+GSE8335_set01_family.pcl	Stress response of cells exposed to H2O2 for various times; 2 replicates	8	oxidative stress|stress	2
+
+File last modified: Thu Apr 25 2024
+GSE8335_set00_family.pcl	Stress response of cells exposed to NaCl for various times; 2 replicates	8	osmotic stress|stress	2
+
+File last modified: Thu Apr 25 2024

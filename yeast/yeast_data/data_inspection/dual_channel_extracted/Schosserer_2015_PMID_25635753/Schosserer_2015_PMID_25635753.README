@@ -1,0 +1,28 @@
+Citation: Schosserer M, Minois N, Angerer TB, Amring M, Dellago H, Harreither E, Calle-Perez A, 
+Pircher A, Gerstl MP, Pfeifenberger S, Brandl C, Sonntagbauer M, Kriegner A, Linder A, 
+Weinhausel A, Mohr T, Steiger M, Mattanovich D, Rinnerthaler M, Karl T, Sharma S, Entian 
+KD, Kos M, Breitenbach M, Wilson IB, Polacek N, Grillari-Voglauer R, Breitenbach-Koller L,
+Grillari J. 2015. Methylation of ribosomal RNA by NSUN5 is a conserved mechanism 
+modulating organismal lifespan.
+
+Full Description: Several pathways modulating longevity and stress resistance converge on translation by 
+targeting ribosomal proteins or initiation factors, but whether this involves 
+modifications of ribosomal RNA is unclear. Here, we show that reduced levels of the 
+conserved RNA methyltransferase NSUN5 increase the lifespan and stress resistance in yeast
+, worms and flies. Rcm1, the yeast homologue of NSUN5, methylates C2278 within a conserved
+region of 25S rRNA. Loss of Rcm1 alters the structural conformation of the ribosome in 
+close proximity to C2278, as well as translational fidelity, and favours recruitment of a 
+distinct subset of oxidative stress-responsive mRNAs into polysomes. Thus, rather than 
+merely being a static molecular machine executing translation, the ribosome exhibits 
+functional diversity by modification of just a single rRNA nucleotide, resulting  in an 
+alteration of organismal physiological behaviour, and linking rRNA-mediated translational 
+regulation to modulation of lifespan, and differential stress response.
+
+PMID: 25635753
+
+GEO ID: GSE63030.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE63030.final.pcl	Methylation of ribosomal RNA by NSUN5 is a conserved mechanism modulating organismal lifespan.	24	cell aging|stress	2
+
+File last modified: Thu Apr 25 2024

@@ -1,0 +1,15 @@
+Citation: Orlandi I, Bettiga M, Alberghina L, Vai M. 2004. Transcriptional profiling of ubp10 null 
+mutant reveals altered subtelomeric gene expression and insurgence of oxidative stress 
+response.
+
+Full Description: Comparison of wt, <i>ubp10</i> null, <i>sir4</i> null, and <i>ubp10</i> <i>sir4</i> double
+null mutants.
+
+PMID: 14623890
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Orlandi04.filter.flt.knn.avg.div.log.pcl	Deubiquitinating enzyme <i>UBP10</i> inactivation	4	stress|ubiquitin or ULP modification	2
+
+File last modified: Thu Apr 25 2024

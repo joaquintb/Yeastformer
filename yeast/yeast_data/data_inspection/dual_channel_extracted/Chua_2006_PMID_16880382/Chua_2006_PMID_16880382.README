@@ -1,0 +1,29 @@
+Citation: Chua G, Morris QD, Sopko R, Robinson MD, Ryan O, Chan ET, Frey BJ, Andrews BJ, Boone C, 
+Hughes TR. 2006. Identifying transcription factor functions and targets by phenotypic 
+activation.
+
+Full Description: Mapping transcriptional regulatory networks is difficult because many transcription 
+factors (TFs) are activated only under specific conditions. We describe a generic strategy
+for identifying genes and pathways induced by individual TFs that does not require 
+knowledge of their normal activation cues. Microarray analysis of 55 yeast TFs that caused
+a growth phenotype when overexpressed showed that the majority caused increased transcript
+levels of genes in specific physiological categories, suggesting a mechanism for growth 
+inhibition. Induced genes typically included established targets and genes with consensus 
+promoter motifs, if known, indicating that these data are useful for identifying potential
+new target genes and binding sites. We identified the sequence 5'-TCACGCAA as a binding 
+sequence for Hms1p, a TF that positively regulates pseudohyphal growth and previously had 
+no known motif. The general strategy outlined here presents a straightforward approach to 
+discovery of TF activities and mapping targets that could be adapted to any organism with 
+transgenic technology.
+
+PMID: 16880382
+
+GEO ID: GSE5499
+
+PCL filename	short description	# conditions	tags	# channels
+GSE5499_set1_family.pcl	Response to deletion of 51 non-essential transcription factors; 2 replicates	102	transcription	2
+
+File last modified: Thu Apr 25 2024
+GSE5499_set0_family.pcl	Response to overexpression of 55 different transcription factors; 2 replicates	168	transcription	2
+
+File last modified: Thu Apr 25 2024

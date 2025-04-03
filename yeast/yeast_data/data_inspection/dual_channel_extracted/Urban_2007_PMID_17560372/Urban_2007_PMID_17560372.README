@@ -1,0 +1,31 @@
+Citation: Urban J, Soulard A, Huber A, Lippman S, Mukhopadhyay D, Deloche O, Wanke V, Anrather D, 
+Ammerer G, Riezman H, Broach JR, De Virgilio C, Hall MN, Loewith R. 2007. Sch9 is a major 
+target of TORC1 in Saccharomyces cerevisiae.
+
+Full Description: The Target of Rapamycin (TOR) protein is a Ser/Thr kinase that functions in two distinct 
+multiprotein complexes: TORC1 and TORC2. These conserved complexes regulate many different
+aspects of cell growth in response to intracellular and extracellular cues. Here we report
+that the AGC kinase Sch9 is a substrate of yeast TORC1. Six amino acids in the C terminus 
+of Sch9 are directly phosphorylated by TORC1. Phosphorylation of these residues is lost 
+upon rapamycin treatment as well as carbon or nitrogen starvation and transiently reduced 
+following application of osmotic, oxidative, or thermal stress. TORC1-dependent 
+phosphorylation is required for Sch9 activity, and replacement of residues phosphorylated 
+by TORC1 with Asp/Glu renders Sch9 activity TORC1 independent. Sch9 is required for TORC1 
+to properly regulate ribosome biogenesis, translation initiation, and entry into G0 phase
+, but not expression of Gln3-dependent genes. Our results suggest that Sch9 functions 
+analogously to the mammalian TORC1 substrate S6K1 rather than the mTORC2 substrate PKB/Akt.
+
+PMID: 17560372
+
+GEO ID: GSE7660
+
+PCL filename	short description	# conditions	tags	# channels
+GSE7660_set1_family.pcl	Response to rapamycin in cells carrying a CEN based copy of SCH9; 3 hr time course	5	chemical stimulus|protein phosphorylation|signaling|stress	2
+
+File last modified: Thu Apr 25 2024
+GSE7660_set2_family.pcl	Response to rapamycin in CEN based copy of sch9-2D3E, a TORC1 phosphorylation site mutant; 3 hr time course	6	chemical stimulus|protein phosphorylation|signaling|stress	2
+
+File last modified: Thu Apr 25 2024
+GSE7660_set0_family.pcl	Response to rapamycin in wildtype cells carrying a CEN plasmid; 3 hr time course	8	chemical stimulus|signaling	2
+
+File last modified: Thu Apr 25 2024

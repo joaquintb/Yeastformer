@@ -1,0 +1,42 @@
+Citation: Kemmeren P, Sameith K, van de Pasch LA, Benschop JJ, Lenstra TL, Margaritis T, O'Duibhir E,
+Apweiler E, van Wageningen S, Ko CW, van Heesch S, Kashani MM, Ampatziadis-Michailidis G, 
+Brok MO, Brabers NA, Miles AJ, Bouwmeester D, van Hooff SR, van Bakel H, Sluiters E, 
+Bakker LV, Snel B, Lijnzaad P, van Leenen D, Groot Koerkamp MJ, Holstege FC. 2014. Large-
+scale genetic perturbations reveal regulatory networks and an abundance of  gene-specific 
+repressors.
+
+Full Description: To understand regulatory systems, it would be useful to uniformly determine how different 
+components contribute to the expression of all other genes. We therefore monitored mRNA 
+expression genome-wide, for individual deletions of one-quarter of yeast genes, focusing 
+on (putative) regulators. The resulting genetic perturbation signatures reflect many 
+different properties. These include  the architecture of protein complexes and pathways, 
+identification of expression  changes compatible with viability, and the varying 
+responsiveness to genetic perturbation. The data are assembled into a genetic perturbation
+network that shows different connectivities for different classes of regulators. Four feed
+-forward loop (FFL) types are overrepresented, including incoherent type 2 FFLs that 
+likely represent feedback. Systematic transcription factor classification shows a 
+surprisingly high abundance of gene-specific repressors, suggesting that yeast chromatin 
+is not as generally restrictive to transcription  as is often assumed. The data set is 
+useful for studying individual genes and for discovering properties of an entire 
+regulatory system.
+
+PMID: 24766815
+
+GEO ID: GSE42241.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE42241.final.pcl	Large-scale genetic perturbations reveal regulatory networks and an abundance of  gene-specific repressors; yeast wt-matA pool - plate reader	20	genome variation	2
+
+File last modified: Thu Apr 25 2024
+GSE45115_s244.final.pcl	Large-scale genetic perturbations reveal regulatory networks and an abundance of  gene-specific repressors; Expression profiling of 376 wildtypes to assess day-to-day variance	244	genome variation	2
+
+File last modified: Thu Apr 25 2024
+GSE42240.final.pcl	Large-scale genetic perturbations reveal regulatory networks and an abundance of  gene-specific repressors; yeast wt-matA pool	8	genome variation	2
+
+File last modified: Thu Apr 25 2024
+GSE42217.final.pcl	Large-scale genetic perturbations reveal regulatory networks and an abundance of  gene-specific repressors; yeast wt pool - plate reader	200	genome variation	2
+
+File last modified: Thu Apr 25 2024
+GSE42215.final.pcl	Large-scale genetic perturbations reveal regulatory networks and an abundance of  gene-specific repressors; yeast wt pool	200	genome variation	2
+
+File last modified: Thu Apr 25 2024

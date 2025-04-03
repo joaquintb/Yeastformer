@@ -1,0 +1,21 @@
+Citation: Segal E, Shapira M, Regev A, Pe'er D, Botstein D, Koller D, Friedman N. 2003. Module 
+networks: identifying regulatory modules and their condition-specific regulators from gene
+expression data.
+
+Full Description: wt and <i>kin82</i> mutant strains after heat shock from 25C to 37C, samples at time 
+points up to 1 hour.
+
+PMID: 12740579
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Segal03_HSkin82.flt.knn.avg.pcl	Heat Shock, <i>kin82</i> mutant	10	heat shock|protein phosphorylation|stress	2
+
+File last modified: Thu Apr 25 2024
+2010.Segal03_hypo-osmoticPpt1.flt.knn.avg.pcl	Hypo-osmotic shock, <i>ppt1</i> mutant	10	osmotic stress|protein dephosphorylation|stress	2
+
+File last modified: Thu Apr 25 2024
+2010.Segal03_stationaryPhaseYPL230W.flt.knn.avg.pcl	Stationary phase, ypl230w mutant	12	stationary phase entry	2
+
+File last modified: Thu Apr 25 2024

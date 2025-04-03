@@ -1,0 +1,15 @@
+Citation: Carmel-Harel O, Stearman R, Gasch AP, Botstein D, Brown PO, Storz G. 2001. Role of 
+thioredoxin reductase in the Yap1p-dependent response to oxidative stress in Saccharomyces
+cerevisiae.
+
+Full Description: Role of thioredoxin reductase in the <i>Yap1p</i>-dependent response to oxidative stress 
+in Saccharomyces cerevisiae.
+
+PMID: 11169101
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.CarmelHarel01.flt.knn.avg.pcl	H2O2 exposure to wt and Delta<i>trr1</i> knockout	15	chemical stimulus|oxidative stress|stress	2
+
+File last modified: Thu Apr 25 2024

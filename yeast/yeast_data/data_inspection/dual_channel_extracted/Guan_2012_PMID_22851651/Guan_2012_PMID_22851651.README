@@ -1,0 +1,31 @@
+Citation: Guan Q, Haroon S, Bravo DG, Will JL, Gasch AP. 2012. Cellular memory of acquired stress 
+resistance in Saccharomyces cerevisiae.
+
+Full Description: Cellular memory of past experiences has been observed in several organisms and across a 
+variety of experiences, including bacteria remembering prior nutritional status and amoeba
+learning to anticipate future environmental conditions. Here, we show that Saccharomyces 
+cerevisiae maintains a multifaceted  memory of prior stress exposure. We previously 
+demonstrated that yeast cells exposed to a mild dose of salt acquire subsequent tolerance 
+to severe doses of H(2)O(2). We set out to characterize the retention of acquired 
+tolerance and in the process uncovered two distinct aspects of cellular memory. First, we 
+found that H(2)O(2) resistance persisted for four to five generations after cells were  
+removed from the prior salt treatment and was transmitted to daughter cells that  never 
+directly experienced the pretreatment. Maintenance of this memory did not require nascent 
+protein synthesis after the initial salt pretreatment, but rather required long-lived 
+cytosolic catalase Ctt1p that was synthesized during salt exposure and then distributed to
+daughter cells during subsequent cell divisions. In addition to and separable from the 
+memory of H(2)O(2) resistance, these cells  also displayed a faster gene-expression 
+response to subsequent stress at >1000 genes, representing transcriptional memory. The 
+faster gene-expression response requires the nuclear pore component Nup42p and serves an 
+important function by facilitating faster reacquisition of H(2)O(2) tolerance after a 
+second cycle of salt exposure. Memory of prior stress exposure likely provides a 
+significant advantage to microbial populations living in ever-changing environments.
+
+PMID: 22851651
+
+GEO ID: GSE32196GPL15778.sfp.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE32196GPL15778.sfp.pcl	Cellular memory of acquired stress resistance in Saccharomyces cerevisiae.	11	osmotic stress|oxidative stress	2
+
+File last modified: Thu Apr 25 2024

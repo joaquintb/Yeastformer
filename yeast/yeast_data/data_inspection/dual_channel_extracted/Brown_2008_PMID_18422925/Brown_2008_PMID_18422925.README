@@ -1,0 +1,27 @@
+Citation: Brown KM, Landry CR, Hartl DL, Cavalieri D. 2008. Cascading transcriptional effects of a 
+naturally occurring frameshift mutation in Saccharomyces cerevisiae.
+
+Full Description: Gene-expression variation in natural populations is widespread, and its phenotypic effects
+can be acted upon by natural selection. Only a few naturally segregating genetic 
+differences associated with expression variation have been identified at the molecular 
+level. We have identified a single nucleotide insertion in a vineyard isolate of 
+Saccharomyces cerevisiae that has cascading effects through the gene-expression network. 
+This allele is responsible for about 45% (103/230) of the genes that show differential 
+gene expression among the homozygous diploid progeny produced by a vineyard isolate. Using
+isogenic laboratory strains, we confirm that this allele causes dramatic differences in 
+gene-expression levels of key genes involved in amino acid biosynthesis. The mutation is a
+frameshift mutation in a mononucleotide run of eight consecutive T's in the coding region 
+of the gene SSY1, which encodes a key component of a plasma-membrane sensor of 
+extracellular amino acids. The potentially high rate of replication slippage of this 
+mononucleotide repeat, combined with its relatively mild effects on growth rate in 
+heterozygous genotypes, is sufficient to account for the persistence of this phenotype at 
+low frequencies in natural populations.
+
+PMID: 18422925
+
+GEO ID: GSE9875
+
+PCL filename	short description	# conditions	tags	# channels
+GSE9875_setA_family.pcl	Cascading transcriptional effects of a naturally occurring frameshift mutation in Saccharomyces cerevisiae.	6	amino acid metabolism	2
+
+File last modified: Thu Apr 25 2024

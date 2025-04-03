@@ -1,0 +1,18 @@
+Citation: Ogawa N, DeRisi J, Brown PO. 2000. New components of a system for phosphate accumulation 
+and polyphosphate metabolism in Saccharomyces cerevisiae revealed by genomic expression 
+analysis.
+
+Full Description: Modifying phosphate levels through mutation (<i>pho81c</i>, <i>pho85</i>, <i>pho80</i>, <i
+>pho4c</i>) or chemical manipulation.
+
+PMID: 11102525
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Ogawa00_set1.flt.knn.avg.pcl	Effect of modifying phosphate levels through mutation (PHO81c, pho85, pho80, PHO4c)	5	phosphorus utilization|signaling	2
+
+File last modified: Thu Apr 25 2024
+2010.Ogawa00_set2.flt.knn.avg.pcl	Effect of low vs high phosphate containing medium	3	phosphorus utilization|starvation	2
+
+File last modified: Thu Apr 25 2024

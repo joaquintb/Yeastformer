@@ -1,0 +1,33 @@
+Citation: Khakhina S, Johnson SS, Manoharlal R, Russo SB, Blugeon C, Lemoine S, Sunshine AB, Dunham 
+MJ, Cowart LA, Devaux F, Moye-Rowley WS. 2015. Control of Plasma Membrane Permeability by 
+ABC Transporters.
+
+Full Description: ATP-binding cassette transporters Pdr5 and Yor1 from Saccharomyces cerevisiae control the 
+asymmetric distribution of phospholipids across the plasma membrane as well as serving as 
+ATP-dependent drug efflux pumps. Mutant strains lacking these transporter proteins were 
+found to exhibit very different resistance phenotypes to two inhibitors of sphingolipid 
+biosynthesis that act either late (aureobasidin A [AbA]) or early (myriocin [Myr]) in the 
+pathway leading to production of these important plasma membrane lipids. These pdr5Delta 
+yor1 strains were highly AbA resistant but extremely sensitive to Myr. We provide evidence
+that these phenotypic changes are likely due to modulation of the plasma membrane flippase
+complexes, Dnf1/Lem3 and Dnf2/Lem3. Flippases act to move phospholipids from the outer to 
+the inner leaflet of the plasma membrane. Genetic analyses indicate that lem3Delta mutant 
+strains are highly AbA sensitive and Myr  resistant. These phenotypes are fully epistatic 
+to those seen in pdr5Delta yor1 strains. Direct analysis of AbA-induced signaling 
+demonstrated that loss of Pdr5  and Yor1 inhibited the AbA-triggered phosphorylation of 
+the AGC kinase Ypk1 and its substrate Orm1. Microarray experiments found that a pdr5Delta 
+yor1 strain induced a Pdr1-dependent induction of the entire Pdr regulon. Our data support
+the view that Pdr5/Yor1 negatively regulate flippase function and activity of the nuclear 
+Pdr1 transcription factor. Together, these data argue that the interaction of the ABC 
+transporters Pdr5 and Yor1 with the Lem3-dependent flippases regulates permeability of AbA
+via control of plasma membrane protein function as seen for the high-affinity tryptophan 
+permease Tat2.
+
+PMID: 25724885
+
+GEO ID: GSE65264.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE65264.final.pcl	Control of Plasma Membrane Permeability by ABC Transporters.	8	lipid metabolism|cell wall organization	2
+
+File last modified: Thu Apr 25 2024

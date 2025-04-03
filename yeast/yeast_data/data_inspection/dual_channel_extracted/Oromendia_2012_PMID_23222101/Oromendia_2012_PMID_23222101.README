@@ -1,0 +1,21 @@
+Citation: Oromendia AB, Dodgson SE, Amon A. 2012. Aneuploidy causes proteotoxic stress in yeast.
+
+Full Description: Gains or losses of entire chromosomes lead to aneuploidy, a condition tolerated poorly in 
+all eukaryotes analyzed to date. How aneuploidy affects organismal and cellular physiology
+is poorly understood. We found that aneuploid budding yeast cells are under proteotoxic 
+stress. Aneuploid strains are prone to aggregation of endogenous proteins as well as of 
+ectopically expressed hard-to-fold proteins such as those containing polyglutamine (polyQ
+) stretches. Protein aggregate formation in aneuploid yeast strains is likely due to 
+limiting protein quality-control systems, since the proteasome and at least one chaperone 
+family, Hsp90, are compromised in many aneuploid strains. The link between aneuploidy and 
+the formation and persistence of protein aggregates could have important implications for 
+diseases such as cancer and neurodegeneration.
+
+PMID: 23222101
+
+GEO ID: GSE40073
+
+PCL filename	short description	# conditions	tags	# channels
+GSE40073_final.pcl	Aneuploidy causes proteotoxic stress in yeast.	20	heat shock	2
+
+File last modified: Thu Apr 25 2024

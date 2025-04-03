@@ -1,0 +1,26 @@
+Citation: Garcia-Oliver E, Pascual-Garcia P, Garcia-Molinero V, Lenstra TL, Holstege FC, Rodriguez-
+Navarro S. 2013. A novel role for Sem1 and TREX-2 in transcription involves their impact 
+on recruitment and H2B deubiquitylation activity of SAGA.
+
+Full Description: Transcription and mRNA export are linked processes. However, the molecular mechanisms of 
+this coordination are not clear. Sus1 (hENY2) participates in this  coordination as part 
+of two protein complexes: SAGA, a transcriptional co-activator; TREX-2, which functions in
+mRNA biogenesis and export. Here, we investigate the coordinated action of SAGA and TREX-2
+required for gene expression. We demonstrate that TREX-2 subunit Sem1 also participates in
+transcription activation. Like Sus1, Sem1 is required for the induction of ARG1 and GAL1, 
+these being SAGA-regulated genes. Chromatin immunoprecipitations show that proper 
+recruitment of certain SAGA subunits to the GAL1 promoter depends on  Sem1. Notably, both 
+in vivo and in vitro analyses reveal that Sem1 influences SAGA-dependent histone H2B 
+deubiquitylation. Most of these phenotypes are also found to depend on another TREX-2 
+subunit, Thp1. These results unveil a new role  for Sem1 in the activation of the SAGA-
+dependent gene GAL1 and influencing H2B deubiquitylation. Our work provides insights into 
+a novel functional relationship between Sem1 and the SAGA complex.
+
+PMID: 23599000
+
+GEO ID: GSE39861.remapped.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE39861.remapped.final.pcl	A novel role for Sem1 and TREX-2 in transcription involves their impact on recruitment and H2B deubiquitylation activity of SAGA.	32	histone modification|transcription	2
+
+File last modified: Thu Apr 25 2024

@@ -1,0 +1,30 @@
+Citation: Radman-Livaja M, Quan TK, Valenzuela L, Armstrong JA, van Welsem T, Kim T, Lee LJ, 
+Buratowski S, van Leeuwen F, Rando OJ, Hartzog GA. 2012. A key role for Chd1 in histone H3
+dynamics at the 3' ends of long genes in yeast.
+
+Full Description: Chd proteins are ATP-dependent chromatin remodeling enzymes implicated in biological 
+functions from transcriptional elongation to control of pluripotency.  Previous studies of
+the Chd1 subclass of these proteins have implicated them in diverse roles in gene 
+expression including functions during initiation, elongation, and termination. Furthermore
+, some evidence has suggested a role for  Chd1 in replication-independent histone exchange
+or assembly. Here, we examine roles of Chd1 in replication-independent dynamics of histone
+H3 in both Drosophila and yeast. We find evidence of a role for Chd1 in H3 dynamics in 
+both  organisms. Using genome-wide ChIP-on-chip analysis, we find that Chd1 influences  
+histone turnover at the 5' and 3' ends of genes, accelerating H3 replacement at the 5' 
+ends of genes while protecting the 3' ends of genes from excessive H3 turnover. Although 
+consistent with a direct role for Chd1 in exchange, these results may indicate that Chd1 
+stabilizes nucleosomes perturbed by transcription. Curiously, we observe a strong effect 
+of gene length on Chd1's effects on H3 turnover. Finally, we show that Chd1 also affects 
+histone modification patterns over genes, likely as a consequence of its effects on 
+histone replacement. Taken  together, our results emphasize a role for Chd1 in histone 
+replacement in both budding yeast and Drosophila melanogaster, and surprisingly they show 
+that the major effects of Chd1 on turnover occur at the 3' ends of genes.
+
+PMID: 22807688
+
+GEO ID: GSE38496.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE38496.final.pcl	A key role for Chd1 in histone H3 dynamics at the 3' ends of long genes in yeast.	2	histone modification|chromatin organization	2
+
+File last modified: Thu Apr 25 2024

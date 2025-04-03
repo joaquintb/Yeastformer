@@ -1,0 +1,31 @@
+Citation: Bradley PH, Brauer MJ, Rabinowitz JD, Troyanskaya OG. 2009. Coordinated concentration 
+changes of transcripts and metabolites in Saccharomyces cerevisiae.
+
+Full Description: Metabolite concentrations can regulate gene expression, which can in turn regulate 
+metabolic activity. The extent to which functionally related transcripts and metabolites 
+show similar patterns of concentration changes, however, remains unestablished. We measure
+and analyze the metabolomic and transcriptional responses of Saccharomyces cerevisiae to 
+carbon and nitrogen starvation. Our analysis demonstrates that transcripts and metabolites
+show coordinated response dynamics. Furthermore, metabolites and gene products whose 
+concentration profiles are alike tend to participate in related biological processes. To 
+identify specific, functionally related genes and metabolites, we develop an approach 
+based on Bayesian integration of the joint metabolomic and transcriptomic data. This 
+algorithm finds interactions by evaluating transcript-metabolite correlations in light of 
+the experimental context in which they occur and the class of metabolite involved. It 
+effectively predicts known enzymatic and regulatory relationships, including a gene-
+metabolite interaction central to the glycolytic-gluconeogenetic switch. This work 
+provides quantitative evidence that functionally related metabolites and transcripts show 
+coherent patterns of behavior on the genome scale and lays the groundwork for building 
+gene-metabolite interaction networks directly from systems-level data.
+
+PMID: 19180179
+
+GEO ID: GSE11754
+
+PCL filename	short description	# conditions	tags	# channels
+GSE11754_set1_family.pcl	Response to nitrogen starvation, 8 hr time course	6	nitrogen utilization|starvation	2
+
+File last modified: Thu Apr 25 2024
+GSE11754_set0_family.pcl	Response to carbon starvation, 8 hr time course	6	carbon utilization|starvation	2
+
+File last modified: Thu Apr 25 2024

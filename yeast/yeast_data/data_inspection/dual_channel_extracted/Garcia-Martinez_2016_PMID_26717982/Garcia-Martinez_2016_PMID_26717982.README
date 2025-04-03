@@ -1,0 +1,27 @@
+Citation:  Garcia-Martinez J, Delgado-Ramos L, Ayala G, Pelechano V, Medina DA, Carrasco F, Gonzalez
+R, Andres-Leon E, Steinmetz L, Warringer J, Chavez S, Perez-Ortin JE . 2016.  The cellular
+growth rate controls overall mRNA turnover, and modulates either transcription or 
+degradation rates of particular gene regulons.
+
+Full Description:  We analyzed the effect of PUB1 and NGR1 on the transcription rates, mRNA stabilities and 
+mRNA levels by doing GRO experiments in a deletion mutants comparing with a wild type in 
+both glucose (YPD) and galactose (YPGal) media. Some data for the wt in YPGal are not 
+included because were already in GEO database:  GSE1002 accession number
+
+
+ .
+
+PMID: 26717982
+
+GEO ID: GSE63729.mapped.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE63729.mapped.pcl	Genomic Run On (GRO): determination of the nascent transcriptional rates and mRNA levels in several yeast mutants (PUB1 and NGR1)	8	RNA catabolism|transcriptional regulation	2
+
+File last modified: Thu Apr 25 2024
+GSE65225.mapped.pcl	Genomic Run On (GRO): determination of the nascent transcriptional rates in a series of Hrp1 mutants.	6	RNA catabolism|transcriptional regulation	1
+
+File last modified: Thu Apr 25 2024
+GSE57467.mapped.pcl	Genomic Run On (GRO): determination of the nascent transcriptional rates and mRNA levels in several yeast mutants.	18	RNA catabolism|transcriptional regulation	1
+
+File last modified: Thu Apr 25 2024

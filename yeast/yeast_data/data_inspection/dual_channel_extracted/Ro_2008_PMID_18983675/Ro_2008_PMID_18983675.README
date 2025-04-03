@@ -1,0 +1,43 @@
+Citation: Ro DK, Ouellet M, Paradise EM, Burd H, Eng D, Paddon CJ, Newman JD, Keasling JD. 2008. 
+Induction of multiple pleiotropic drug resistance genes in yeast engineered to produce an 
+increased level of anti-malarial drug precursor, artemisinic acid.
+
+Full Description: BACKGROUND: Due to the global occurrence of multi-drug-resistant malarial parasites (
+Plasmodium falciparum), the anti-malarial drug most effective against malaria is 
+artemisinin, a natural product (sesquiterpene lactone endoperoxide) extracted from sweet 
+wormwood (Artemisia annua). However, artemisinin is in short supply and unaffordable to 
+most malaria patients. Artemisinin can be semi-synthesized from its precursor artemisinic 
+acid, which can be synthesized from simple sugars using microorganisms genetically 
+engineered with genes from A. annua. In order to develop an industrially competent yeast 
+strain, detailed analyses of microbial physiology and development of gene expression 
+strategies are required. RESULTS: Three plant genes coding for amorphadiene synthase, 
+amorphadiene oxidase (AMO or CYP71AV1), and cytochrome P450 reductase, which in concert 
+divert carbon flux from farnesyl diphosphate to artemisinic acid, were expressed from a 
+single plasmid. The artemisinic acid production in the engineered yeast reached 250 microg
+mL(-1) in shake-flask cultures and 1 g L(-1) in bio-reactors with the use of Leu2d 
+selection marker and appropriate medium formulation. When plasmid stability was measured, 
+the yeast strain synthesizing amorphadiene alone maintained the plasmid in 84% of the 
+cells, whereas the yeast strain synthesizing artemisinic acid showed poor plasmid 
+stability. Inactivation of AMO by a point-mutation restored the high plasmid stability, 
+indicating that the low plasmid stability is not caused by production of the AMO protein 
+but by artemisinic acid synthesis or accumulation. Semi-quantitative reverse-transcriptase
+(RT)-PCR and quantitative real time-PCR consistently showed that pleiotropic drug 
+resistance (PDR) genes, belonging to the family of ATP-Binding Cassette (ABC) transporter
+, were massively induced in the yeast strain producing artemisinic acid, relative to the 
+yeast strain producing the hydrocarbon amorphadiene alone. Global transcriptional analysis
+by yeast microarray further demonstrated that the induction of drug-resistant genes such 
+as ABC transporters and major facilitator superfamily (MSF) genes is the primary cellular 
+stress-response; in addition, oxidative and osmotic stress responses were observed in the 
+engineered yeast. CONCLUSION: The data presented here suggest that the engineered yeast 
+producing artemisinic acid suffers oxidative and drug-associated stresses. The use of 
+plant-derived transporters and optimizing AMO activity may improve the yield of 
+artemisinic acid production in the engineered yeast.
+
+PMID: 18983675
+
+GEO ID: GSE11620
+
+PCL filename	short description	# conditions	tags	# channels
+GSE11620_setA_family.pcl	Induction of multiple pleiotropic drug resistance genes in yeast engineered to produce an increased level of anti-malarial drug precursor, artemisinic acid.	14	chemical stimulus	2
+
+File last modified: Thu Apr 25 2024

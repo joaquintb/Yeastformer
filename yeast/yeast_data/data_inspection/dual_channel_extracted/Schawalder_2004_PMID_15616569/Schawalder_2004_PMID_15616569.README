@@ -1,0 +1,16 @@
+Citation: Schawalder SB, Kabani M, Howald I, Choudhury U, Werner M, Shore D. 2004. Growth-regulated 
+recruitment of the essential yeast ribosomal protein gene activator Ifh1.
+
+Full Description: Analysis of overexpression of essential ribosomal protein activator <i>IFH1</i>. Cells 
+engineered to express <i>IFH1</i> from a galactose inducible promoter. Expression examined
+at various time points up to 60 minutes following galactose addition. Results indicate 
+that <i>IFH1</i> regulates ribosomal protein genes.
+
+PMID: 15616569
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Schawalder04.filter.flt.knn.avg.div.log.pcl	<i>IFH1</i> overexpression: time course	24	transcription	2
+
+File last modified: Thu Apr 25 2024

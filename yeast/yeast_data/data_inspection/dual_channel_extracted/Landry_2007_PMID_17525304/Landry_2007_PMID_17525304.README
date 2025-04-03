@@ -1,0 +1,22 @@
+Citation: Landry CR, Lemos B, Rifkin SA, Dickinson WJ, Hartl DL. 2007. Genetic properties 
+influencing the evolvability of gene expression.
+
+Full Description: Identifying the properties of gene networks that influence their evolution is a 
+fundamental research goal. However, modes of evolution cannot be inferred solely from the 
+distribution of natural variation, because selection interacts with demography and 
+mutation rates to shape polymorphism and divergence. We estimated the effects of naturally
+occurring mutations on gene expression while minimizing the effect of natural selection. 
+We demonstrate that sensitivity of gene expression to mutations increases with both 
+increasing trans-mutational target size and the presence of a TATA box. Genes with greater
+sensitivity to mutations are also more sensitive to systematic environmental perturbations
+and stochastic noise. These results provide a mechanistic basis for gene expression 
+evolvability that can serve as a foundation for realistic models of regulatory evolution.
+
+PMID: 17525304
+
+GEO ID: GSE7537
+
+PCL filename	short description	# conditions	tags	# channels
+GSE7537_setA_family.pcl	Genetic properties influencing the evolvability of gene expression.	10	evolution	2
+
+File last modified: Thu Apr 25 2024

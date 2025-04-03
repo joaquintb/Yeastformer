@@ -1,0 +1,16 @@
+Citation: Bro C, Regenberg B, Lagniel G, Labarre J, Montero-Lomeli M, Nielsen J. 2003. 
+Transcriptional, proteomic, and metabolic responses to lithium in galactose-grown yeast 
+cells.
+
+Full Description: Wild type CEN.PK113-7D grown with 20 g/L galactose. LiCl (10 mM, therapeutically relevant
+) added and samples analyzed at 0, 20, 40, 60 and 140 minutes after LiCl addition. Lithium
+inhibits phosphoglucomutase, affecting galactose uptake and growth.
+
+PMID: 12791685
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Bro03.filter.flt.knn.avg.div.log.pcl	Lithium response	7	chemical stimulus|metal or metalloid ion stress	2
+
+File last modified: Thu Apr 25 2024

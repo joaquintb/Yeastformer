@@ -1,0 +1,17 @@
+Citation: De Nadal E, Zapater M, Alepuz PM, Sumoy L, Mas G, Posas F. 2004. The MAPK Hog1 recruits 
+Rpd3 histone deacetylase to activate osmoresponsive genes.
+
+Full Description: Comparison of wild type and <i>rpd3-</i> S. cerevisiae cells in response to osmotic stress
+. Wild type (MATalpha <i>ura3</i> <i>leu2</i> <i>his3</i>) and <i>rpd3-</i> (MATalpha <i>
+ura3</i> <i>leu2</i> <i>his3</i> <i>rpd3</i>::KANMX) were grown to OD660=1 in YPD media 
+and then subjected or not to a brief osmotic stress (5 or 20 min / 0.4 M NaCl). Cells were
+collected by centrifugation and total RNA was extracted as described.
+
+PMID: 14737171
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.deNadal04.flt.knn.avg.pcl	Osmotic stress	12	histone modification|osmotic stress|stress	2
+
+File last modified: Thu Apr 25 2024

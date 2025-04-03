@@ -1,0 +1,27 @@
+Citation: Gamero A, Belloch C, Ibanez C, Querol A. 2014. Molecular analysis of the genes involved in
+aroma synthesis in the species S. cerevisiae, S. kudriavzevii and S. bayanus var. uvarum 
+in winemaking conditions.
+
+Full Description: The Saccharomyces genus is the main yeast involved in wine fermentations to play  a 
+crucial role in the production and release of aromatic compounds. Despite the several 
+studies done into the genome-wide expression analysis using DNA microarray technology in 
+wine S. cerevisiae strains, this is the first to investigate other species of the 
+Saccharomyces genus. This research work investigates the expression of the genes involved 
+in flavor compound production in three different Saccharomyces species (S. cerevisiae, S. 
+bayanus var. uvarum and S. kudriavzevii) under low (12 degrees C) and moderate 
+fermentation temperatures (28 degrees C). The global genes analysis showed that 30% of 
+genes appeared to be differently expressed in the three cryophilic strains if compared  to
+the reference strain (mesophilic S. cerevisiae), suggesting a very close cold  adaptation 
+response. Remarkable differences in the gene expression level were observed when comparing
+the three species, S. cerevisiae, S. bayanus var. uvarum  and S. kudriavzevii, which will 
+result in different aroma profiles. Knowledge of  these differences in the transcriptome 
+can be a tool to help modulate aroma to create wines with the desired aromatic traits.
+
+PMID: 24854353
+
+GEO ID: GSE30778.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE30778.final.pcl	Molecular analysis of the genes involved in aroma synthesis in the species S. cerevisiae, S. kudriavzevii and S. bayanus var. uvarum in winemaking conditions.	18	heat shock|fermentation	2
+
+File last modified: Thu Apr 25 2024

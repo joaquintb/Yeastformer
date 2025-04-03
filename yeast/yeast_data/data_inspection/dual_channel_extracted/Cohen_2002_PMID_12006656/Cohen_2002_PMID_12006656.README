@@ -1,0 +1,17 @@
+Citation: Cohen BA, Pilpel Y, Mitra RD, Church GM. 2002. Discrimination between paralogs using 
+microarray analysis: application to the Yap1p and Yap2p transcriptional networks.
+
+Full Description: There is a separate summary series for each strain and treatment combination. These 
+include wild type control, with peroxide and with cadmium, <i>yap1</i> knockout control 
+and with peroxide and with cadmium, <i>yap2</i> knockout control and with peroxide and 
+with cadmium, double knockouts control and with peroxide, wild type and fold change 
+numbers from wild type control for each strain and treatment.
+
+PMID: 12006656
+
+GEO ID: N/A
+
+PCL filename	short description	# conditions	tags	# channels
+2010.Cohen02.filter.flt.knn.avg.div.log.pcl	<i>yap1</i> and <i>yap2</i> knockouts with peroxide and cadmium added	11	chemical stimulus|oxidative stress|stress|transcription	2
+
+File last modified: Thu Apr 25 2024

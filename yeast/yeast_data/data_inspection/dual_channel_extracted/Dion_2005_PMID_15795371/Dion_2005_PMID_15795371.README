@@ -1,0 +1,27 @@
+Citation: Dion MF, Altschuler SJ, Wu LF, Rando OJ. 2005. Genomic characterization reveals a simple 
+histone H4 acetylation code.
+
+Full Description: The histone code hypothesis holds that covalent posttranslational modifications of histone
+tails are interpreted by the cell to yield a rich combinatorial transcriptional output. 
+This hypothesis has been the subject of active debate in the literature. Here, we 
+investigated the combinatorial complexity of the acetylation code at the four lysine 
+residues of the histone H4 tail in budding yeast. We constructed yeast strains carrying 
+all 15 possible combinations of mutations among lysines 5, 8, 12, and 16 to arginine in 
+the histone H4 tail, mimicking positively charged, unacetylated lysine states, and 
+characterized the resulting genome-wide changes in gene expression by using DNA 
+microarrays. Only the lysine 16 mutation had specific transcriptional consequences 
+independent of the mutational state of the other lysines (affecting approximately 100 
+genes). In contrast, for lysines 5, 8, and 12, expression changes were due to nonspecific
+, cumulative effects seen as increased transcription correlating with an increase in the 
+total number of mutations (affecting approximately 1,200 genes). Thus, acetylation of 
+histone H4 is interpreted by two mechanisms: a specific mechanism for lysine 16 and a 
+nonspecific, cumulative mechanism for lysines 5, 8, and 12.
+
+PMID: 15795371
+
+GEO ID: GSE2324
+
+PCL filename	short description	# conditions	tags	# channels
+GSE2324_setA_family.pcl	Genomic characterization reveals a simple histone H4 acetylation code.	55	histone modification	2
+
+File last modified: Thu Apr 25 2024

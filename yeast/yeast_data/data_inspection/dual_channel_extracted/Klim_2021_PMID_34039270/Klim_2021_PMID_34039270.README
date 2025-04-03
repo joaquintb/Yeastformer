@@ -1,0 +1,40 @@
+Citation: Klim J, Zielenkiewicz U, Skoneczny M, Skoneczna A, Kurlandzka A, Kaczanowski S. 2021. 
+Genetic interaction network has a very limited impact on the evolutionary trajectories in 
+continuous culture-grown populations of yeast.
+
+Full Description: BACKGROUND: The impact of genetic interaction networks on evolution is a fundamental issue
+. Previous studies have demonstrated that the topology of the network is determined by the
+properties of the cellular machinery. Functionally related genes frequently interact with 
+one another, and they establish modules, e.g., modules of protein complexes and 
+biochemical pathways. In this study, we experimentally tested the hypothesis that 
+compensatory evolutionary modifications, such as mutations and transcriptional changes, 
+occur frequently in genes from perturbed modules of interacting genes. RESULTS: Using 
+Saccharomyces cerevisiae haploid deletion mutants as a model, we investigated two modules 
+lacking COG7 or NUP133, which are evolutionarily conserved genes with many interactions. 
+We performed laboratory evolution experiments with these strains in two genetic 
+backgrounds (with or without additional deletion of MSH2), subjecting them to continuous 
+culture in a non-limiting minimal medium. Next, the evolved yeast populations were 
+characterized through whole-genome sequencing and transcriptome analyses. No obvious 
+compensatory changes resulting from inactivation of genes already included in modules were
+identified. The supposedly compensatory inactivation of genes in the evolved strains was 
+only rarely observed to be in accordance with the established fitness effect of the 
+genetic interaction network. In fact, a substantial majority of the gene inactivations 
+were predicted to be neutral in the experimental conditions used to determine the 
+interaction network. Similarly, transcriptome changes during continuous culture mostly 
+signified adaptation to growth conditions rather than compensation of the  absence of the 
+COG7, NUP133 or MSH2 genes. However, we noticed that for genes whose inactivation was 
+deleterious an upregulation of transcription was more common than downregulation. 
+CONCLUSIONS: Our findings demonstrate that the genetic interactions and the modular 
+structure of the network described by others have very limited effects on the evolutionary
+trajectory following gene deletion  of module elements in our experimental conditions and 
+has no significant impact on short-term compensatory evolution. However, we observed 
+likely compensatory evolution in functionally related (albeit non-interacting) genes.
+
+PMID: 34039270
+
+GEO ID: GSE167397.final.pcl
+
+PCL filename	short description	# conditions	tags	# channels
+GSE167397.final.pcl	Genetic interaction network has a very limited impact on the evolutionary trajectories in continuous culture-grown populations of yeast.	17	genetic interaction	2
+
+File last modified: Thu Apr 25 2024
