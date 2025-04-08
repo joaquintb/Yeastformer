@@ -216,4 +216,5 @@ yeast/yeast_data/data_inspection/all_spell_zip
 # yeast/yeast_data/data_inspection/dual_channel_extracted
 yeast/yeast_data/data_inspection/single_channel_extracted
 
-yeast/yeast_data/dual_channel_pcls
+# yeast/yeast_data/dual_channel_pcls_modified
+yeast/yeast_data/dual_channel_pcls_original
