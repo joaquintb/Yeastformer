@@ -20,7 +20,7 @@ Some scripts rely on components from the Geneformer library. Please refer to Gen
 
 * **data**
 
-  * *dual_channel_pcls_modified*: folder containing the dual-channel microarray pcl fields that are preprocessed and merged to become the master matrix of expression data.
+  * *dual_channel_pcls_modified*: folder containing the dual-channel microarray pcl files that are preprocessed and merged to become the master matrix of expression data.
   * *genes_info*: folder containing complementary information about yeast genes.
     * *sample_hk_genes_list.pkl*: predefined list of yeast housekeeping genes.
     * *sample_tf_genes_list.pkl*: predefined list of yeast transcription factors.
