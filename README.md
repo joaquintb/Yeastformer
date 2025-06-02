@@ -4,9 +4,11 @@
 
 ### Overview
 
-This repository is currently focused on developing an effective tokenization strategy for dual-channel microarray data. While this aspect is still under exploration, the codebase already includes working scripts for pretraining the model, as well as tools for analyzing attention patterns and generating gene embeddings for pretrained models.
+The overarching goal of this project is to leverage transformer-based models to infer important relationships between genes. After downloading, organizing, and preprocessing gene expression value files to build a suitable dataset, we train a BERT-like model on these data. Subsequently, we analyze the learned embeddings and attention matrices to gain insights into biological processes and gene interactions.
 
-#### Data
+This repository is currently focused on developing an effective tokenization strategy for dual-channel microarray data. While this aspect is still under exploration, the codebase already includes working scripts for pretraining the model, as well as tools for analyzing attention patterns and generating gene embeddings from pretrained models. These developments were carried out using a mock dataset specifically created to facilitate code development and testing before dealing with the challenge of dual-channel microarray data. 
+
+### Data
 
 The yeast gene expression data used in this project were collected from the [Saccharomyces Genome Database (SGD)](http://sgd-archive.yeastgenome.org/expression/microarray/). Specifically, we used publicly available microarray datasets from the SGD expression archive.
 
