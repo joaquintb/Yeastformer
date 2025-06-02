@@ -1,101 +1,46 @@
----
-datasets: ctheodoris/Genecorpus-30M
-license: apache-2.0
-tags:
-- single-cell
-- genomics
----
-# Geneformer
+# Yeastformer
 
-Geneformer is a foundational transformer model pretrained on a large-scale corpus of single cell transcriptomes to enable context-aware predictions in settings with limited data in network biology.
+**Yeastformer** is a transformer-based model inspired by the [Geneformer](https://www.nature.com/articles/s41586-023-06139-9) framework, with a focus on analyzing *Saccharomyces cerevisiae* (yeast) data.
 
-- See [our manuscript](https://rdcu.be/ddrx0) for details of the original model trained on ~30 million transcriptomes in June 2021 and the initial report of our in silico perturbation and cell and gene classification strategies.
-- See [our manuscript](https://www.biorxiv.org/content/10.1101/2024.08.16.608180v1.full.pdf) for details of the expanded model trained on ~95 million transcriptomes in April 2024 and our continual learning, multitask learning, and quantization strategies.
-- See [geneformer.readthedocs.io](https://geneformer.readthedocs.io) for documentation.
+### Overview
 
-# Model Description
+The overarching goal of this project is to leverage transformer-based models to infer important relationships between genes. After downloading, organizing, and preprocessing gene expression value files to build a suitable dataset, we train a BERT-like model on these data. Subsequently, we analyze the learned embeddings and attention matrices to gain insights into biological processes and gene interactions.
 
-Geneformer is a foundational transformer model pretrained on a large-scale corpus of single cell transcriptomes representing a broad range of human tissues. Geneformer was originally pretrained in June 2021 on [Genecorpus-30M](https://huggingface.co/datasets/ctheodoris/Genecorpus-30M), a corpus comprised of ~30 million single cell transcriptomes. We excluded cells with high mutational burdens (e.g. malignant cells and immortalized cell lines) that could lead to substantial network rewiring without companion genome sequencing to facilitate interpretation. Then, in April 2024, Geneformer was pretrained on ~95 million non-cancer transcriptomes, followed by continual learning on ~14 million cancer transcriptomes to yield a cancer domain-tuned model.
+This repository is currently focused on developing an effective tokenization strategy for dual-channel microarray data. While this aspect is still under exploration, the codebase already includes working scripts for pretraining the model, as well as tools for analyzing attention patterns and generating gene embeddings from pretrained models. These developments were carried out using a mock dataset specifically created to facilitate code development and testing before dealing with the challenge of dual-channel microarray data. 
 
-Each single cell’s transcriptome is presented to the model as a rank value encoding where genes are ranked by their expression in that cell scaled by their expression across the entire Genecorpus-30M. The rank value encoding provides a nonparametric representation of that cell’s transcriptome and takes advantage of the many observations of each gene’s expression across the pretraining corpus to prioritize genes that distinguish cell state. Specifically, this method will deprioritize ubiquitously highly-expressed housekeeping genes by scaling them to a lower rank. Conversely, genes such as transcription factors that may be lowly expressed when they are expressed but highly distinguish cell state will move to a higher rank within the encoding. Furthermore, this rank-based approach may be more robust against technical artifacts that may systematically bias the absolute transcript counts value while the overall relative ranking of genes within each cell remains more stable.
+### Data
 
-The rank value encoding of each single cell’s transcriptome then proceeds through N layers of transformer encoder units, where N varies dependent on the model size. Pretraining was accomplished using a masked learning objective where 15% of the genes within each transcriptome were masked and the model was trained to predict which gene should be within each masked position in that specific cell state using the context of the remaining unmasked genes. A major strength of this approach is that it is entirely self-supervised and can be accomplished on completely unlabeled data, which allows the inclusion of large amounts of training data without being restricted to samples with accompanying labels.
+The yeast gene expression data used in this project were collected from the [Saccharomyces Genome Database (SGD)](http://sgd-archive.yeastgenome.org/expression/microarray/). Specifically, we used publicly available microarray datasets from the SGD expression archive.
 
-We detail applications and results in [our manuscript](https://rdcu.be/ddrx0).
+### Set-Up
 
-During pretraining, Geneformer gained a fundamental understanding of network dynamics, encoding network hierarchy in the model’s attention weights in a completely self-supervised manner. With both zero-shot learning and fine-tuning with limited task-specific data, Geneformer consistently boosted predictive accuracy in a diverse panel of downstream tasks relevant to chromatin and network dynamics. In silico perturbation with zero-shot learning identified a novel transcription factor in cardiomyocytes that we experimentally validated to be critical to their ability to generate contractile force. In silico treatment with limited patient data revealed candidate therapeutic targets for cardiomyopathy that we experimentally validated to significantly improve the ability of cardiomyocytes to generate contractile force in an induced pluripotent stem cell (iPSC) model of the disease. Overall, Geneformer represents a foundational deep learning model pretrained on a large-scale corpus human single cell transcriptomes to gain a fundamental understanding of gene network dynamics that can now be democratized to a vast array of downstream tasks to accelerate discovery of key network regulators and candidate therapeutic targets.
+Some scripts rely on components from the Geneformer library. Please refer to Geneformer’s [repository ](https://github.com/jkobject/geneformer)and [documentation ](https://geneformer.readthedocs.io/en/latest/about.html)for guidance on ensuring these scripts function properly. For details on specific library versions, see the *requirements.txt* file.
 
-The repository includes the following pretrained models:
+### Repository Walkthrough
 
-L=layersM=millions of cells used for pretrainingi=input size(pretraining date)
+* **data**
 
-- GF-6L-30M-i2048 (June 2021)
-- GF-12L-30M-i2048 (June 2021)
-- GF-12L-95M-i4096 (April 2024)
-- GF-20L-95M-i4096 (April 2024)
+  * *dual_channel_pcls_modified*: folder containing the dual-channel microarray pcl files that are preprocessed and merged to become the master matrix of expression data.
+  * *genes_info*: folder containing complementary information about yeast genes.
+    * *sample_hk_genes_list.pkl*: predefined list of yeast housekeeping genes.
+    * *sample_tf_genes_list.pkl*: predefined list of yeast transcription factors.
+    * *all_yeast_genes.tsv*: mapping between systematic and standard notation for each yeast gene in the genome. Needed to have the same type of identifier for each gene in the master matrix.
+    * *all_yeast_genes_rest_of_problematic_update.tsv*: same document but including some manual addtions to deal with some specific cases manually.
+  * *output:* folder collecting the outputs related to data (*e.g.* master matrix of data in csv format, token dictionary)
+  * *pcl_preprocessing.ipynb*: processing expression files to ensure a succesful and sensible merge.
+  * *data_inspection.ipynb*: exploring some initial questions about the data.
+  * *hs_tf_study.ipynb*: exploring the behavior of housekeepings vs transcription factors in our data.
+  * *merging.py:* script merging the preprocessed *.pcl* expression files from the different experiments into a single *.csv* file with gene identifiers as rows and the union of experimental conditions as columns.
+  * *building_dataset.ipynb*: generating the final *.dataset* used to pretrain the model. This notebook uses the Geneformer approach to tokenizing, even using Geneformer's tokenizer. However, **this is the main issue under development, since an alternative tokenization may be needed for this problem; we are dealing with dual-channel microarray data instead of single-cell data.**
+* **pretraining**
 
-The current default model in the main directory of the repository is GF-12L-95M-i4096.
+  * *pretraining_yeast_single_gpu.py*: pretraining of the BERT-like model on the yeast master matrix dataset using a single GPU.
+  * *pretraining_yeast_single_gpu_with_eval.py*: includes evaluation metrics.
+  * *pretraining_yeast_single_gpu_optuna.py*: hyperparameter tuning using optuna.
+* **embedding_analysis**
 
-The repository also contains fined tuned models in the fine_tuned_models directory and the cancer-tuned model following continual learning on ~14 million cancer cells, GF-12L-95M-i4096_CLcancer.
+  * *embedding_analysis_report.ipynb*: generates a report that includes the average rank of each gene during tokenization, the percentage of sentences in which the gene appears, and the embedding similarity score that measures the similarity between different embeddings of each gene across various sentences.
+  * *embedding_analysis_hktf.ipynb*: focuses on comparing the embedding behavior of transcription factors vs housekeeping genes.
+* **attention_analysis**
 
-# Application
-
-The pretrained Geneformer model can be used directly for zero-shot learning, for example for in silico perturbation analysis, or by fine-tuning towards the relevant downstream task, such as gene or cell state classification.
-
-Example applications demonstrated in [our manuscript](https://rdcu.be/ddrx0) include:
-
-*Fine-tuning*:
-
-- transcription factor dosage sensitivity
-- chromatin dynamics (bivalently marked promoters)
-- transcription factor regulatory range
-- gene network centrality
-- transcription factor targets
-- cell type annotation
-- batch integration
-- cell state classification across differentiation
-- disease classification
-- in silico perturbation to determine disease-driving genes
-- in silico treatment to determine candidate therapeutic targets
-
-*Zero-shot learning*:
-
-- batch integration
-- gene context specificity
-- in silico reprogramming
-- in silico differentiation
-- in silico perturbation to determine impact on cell state
-- in silico perturbation to determine transcription factor targets
-- in silico perturbation to determine transcription factor cooperativity
-
-# Installation
-
-In addition to the pretrained model, contained herein are functions for tokenizing and collating data specific to single cell transcriptomics, pretraining the model, fine-tuning the model, extracting and plotting cell embeddings, and performing in silico pertrubation with either the pretrained or fine-tuned models. To install (~20s):
-
-```bash
-# Make sure you have git-lfs installed (https://git-lfs.com)
-git lfs install
-git clone https://huggingface.co/ctheodoris/Geneformer
-cd Geneformer
-pip install .
-```
-
-For usage, see [examples](https://huggingface.co/ctheodoris/Geneformer/tree/main/examples) for:
-
-- tokenizing transcriptomes
-- pretraining
-- hyperparameter tuning
-- fine-tuning
-- extracting and plotting cell embeddings
-- in silico perturbation
-
-Please note that the fine-tuning examples are meant to be generally applicable and the input datasets and labels will vary dependent on the downstream task. Example input files for a few of the downstream tasks demonstrated in the manuscript are located within the [example_input_files directory](https://huggingface.co/datasets/ctheodoris/Genecorpus-30M/tree/main/example_input_files) in the dataset repository, but these only represent a few example fine-tuning applications.
-
-Please note that GPU resources are required for efficient usage of Geneformer. Additionally, we strongly recommend tuning hyperparameters for each downstream fine-tuning application as this can significantly boost predictive potential in the downstream task (e.g. max learning rate, learning schedule, number of layers to freeze, etc.).
-
-Test
-
-# Citations
-
-- C V Theodoris#, L Xiao, A Chopra, M D Chaffin, Z R Al Sayed, M C Hill, H Mantineo, E Brydon, Z Zeng, X S Liu, P T Ellinor#. Transfer learning enables predictions in network biology. _**Nature**_, 31 May 2023. (#co-corresponding authors)
-- H Chen*, M S Venkatesh*, J Gomez Ortega, S V Mahesh, T Nandi, R Madduri, K Pelka†, C V Theodoris†#. Quantized multi-task learning for context-specific representations of gene network dynamics. _**bioRxiv**_, 19 Aug 2024. (*co-first authors, †co-senior authors, #corresponding author)
+  * *attention_analysis.py:* generates a report identifying, for each gene, the top 5 other genes that it pays the most attention to.
